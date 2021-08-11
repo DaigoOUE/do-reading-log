@@ -4,6 +4,7 @@ date: 2021-08-11T11:54:59+09:00
 draft: false
 ---
 
+
 ### Thu. 29
 - meeting w/ mm yo takasan 8am
 - thesis
