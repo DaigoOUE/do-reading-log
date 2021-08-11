@@ -1,12 +1,258 @@
 ---
-title: "markdownで書いたものを埋め込んでみる"
+title: "markdownで書いたものを埋め込んでみる (log 07-2021)"
 date: 2021-08-11T11:54:59+09:00
 draft: false
 ---
 
-### Thu. 1
-gaikokusen 330 JPY
+### Thu. 29
+- meeting w/ mm yo takasan 8am
+- thesis
+  - check if [this preprint](https://arxiv.org/abs/2005.12693) should be added to the reference
+    - they discuss the perfect magnetic conductors instead of the conventional perfect electric ones.
+    - path integral (worldline) formalism is adopted.
+    - generalisation to higher dimensions
 
+
+### Wed. 28
+- arxiv check
+- thesis
+  - [x] fig: PFA ~> issue [#25](https://github.com/DaigoOUE/PhD/issues/25)
+    - auxiliary fields localised at the boundaries
+    - the Feynman propagator represents the electromagnetic fields propagating between the boundaries
+    - the Casimir energy = the free energy
+  - ch: corrugation
+    - [x] fig: stable-unstable
+    - [x] par: quasistatic approx. ~> issue [#33](https://github.com/DaigoOUE/PhD/issues/33)
+      - SPP dominates the force this would be a good approx.
+      - allows semianalytical evaluation 
+
+
+### Tue. 27
+Gaikokusen 330 JPY
+SPIE membership 20 USD
+
+- arxiv check
+- thesis
+  - [x] ch: PFA
+- [x] prep. afternoon meeting
+- meeting w/ mm yo kitamura 1pm
+- [x] rearrnge the arxiv checklist above in a table form
+- [x] prepare arxiv check repository
+  - 1 issue per interesting article 
+    - label: keywords
+    - milestone: research area
+    - project: cond-mat? quant-ph?
+
+### Mon. 26
+Gaikokusen 330 JPY, Grammarly 144 USD
+
+- arxiv check
+- e-typing 280
+- phd thesis
+  - [x] fig: plasmonic systems
+  - [x] fig: single interface
+  - [x] ch: plasmonics
+- meeting w/ john kun 5pm
+- grammarly plugin for overleaf
+- todo => craft
+
+
+### Fri. 23
+- comb w/ nishikawa 9am
+- Meeting w/ nishikawa mm 11am
+- Meeting w/ mm yo 1pm
+- Meeting w/ tamaki 5pm 
+- phd thesis
+  - casimir sum and lifshitz formula
+    - [x] overview: original works by Casimir
+    - [x] deriving Lishtiz formula: from explicit dispersion to implicit
+      - review several methods
+      - follow mathematically rigorous spectral sum method
+      - casimir sum or lifshitz formula?
+        - if the dispersion is available or not
+        - numerical evaluation
+
+
+### Thu. 22
+- phd thesis:
+  - single interface
+    - [x] boundary condition
+    - [x] transfer matrix
+    - [x] scattering matrix
+    - [x] dispersion relation
+      - explicit form available
+    - [x] double interfaces
+      - transfer and scattering matrices
+      - thin film
+- Nozaki-Matsuo Group meeting 1pm
+  - TK presentation 
+    - What happens if Rashba and Dresselhaus are compareble?
+    - Kondo effect on spin currents
+
+### Wed. 21 
+- intro. vim markdown
+- arxiv check
+- phd thesis: Plasmonics
+        
+
+### Tue. 20
+- comput. club 10am
+- academist-cf meeting 1:30pm
+- arc/t 3pm
+- meta poster 4:35pm
+- meeting mm yo tk sato 5pm
+
+    
+    
+
+### Mon. 19
+- faces of optics: photo shoot
+- phd thesis
+  - effective medium reference
+    - j. c. maxwell garnett, phil. trans. r. soc. london 203, 385 (1904)
+  - smith purcell
+    - original
+      - s j smith & e m purcell, phys rev 92, 1069 (1953)
+    - microwave
+    - uv
+  - cerenkov radiation from our superluminal grating reminds of skith-purcell radiation in that the induced surface currents play important roles
+    - sr radiation: swift electrons induced surface current on metallic and dielectric gratings [Refs.]
+    
+  - reconsider floquet lindblad
+    - adiabatic drive:
+      - E. B. Davies and H. Spohn, J. Stat. Phys. 19 (1978), 511.
+      - R. Alicki, J. Phys. A: Math. Gen. 12 (1979), L103.
+    - floquet theory
+      - H. -P. Breuer and F. Petruccione, Phys. Rev. A 55 (1997), 3101.
+      - S. Kohler, T. Dittrich and P. H ̈anggi, Phys. Rev. E 55 (1999), 300
+    
+
+
+### Sat. 17
+- canonical theory of geometric optics
+- arxiv check 
+
+### Fri. 16
+- frank tamm formula
+- ithems new kom 9:50am
+  - casimir and cerenkov BEC
+  - landau zener problem is simlar to the beam splitter etx in quantum optics
+- meeting w/ mm yo 1pm
+- meeting w/ john kun 5pm
+- phd thesis
+  - PFA: derivative expansion
+  - effective medium references  
+  if the structure is fine or thin enough,
+  it is homogenised by the electromagnetic field
+  - smith purcell effect: cerenkov type radiation from the swifting charge near a grating 
+  - cerenkov:
+  Tamm and Frank studied the radiation from a charged particle traveling at a constant velocity, 
+  which is also known as Tamm problem.
+  They found the radiation power by integrating the Poynting vector over a cylinder enclosing the particle trajectory.
+  They show the radiation power per travel length is given by  
+  "Frank Tamm formula".  
+  where we can find the power become finite if and only if the particle velocity exceeds the speed of light.
+  In our case,
+  we can calculate the radiation intensity (power per unit area) by integrating the Poynting vector over two surfaces above and below the modulated boundary,
+  We can find that the radiation power become finite if and only if the grating velocity exceed that of light.
+  This is consistent with the Frank Tamm formula.
+  - "temporal Fourier transform"
+  - see [this paper](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-59-35-11146) for the derivation of frank tamm formula, cerenkov radiation and smith purcell radiation.
+  
+
+
+### Thu. 15
+- arxiv check
+- arrange Oketani-san seminar
+- Nozaki-Matsuo Group meeting 1pm:4pm
+- phd thesis
+  - PFA: derivative expansion
+- radiation from thin current sheet
+  
+
+### Wed. 14
+- ithems new kom prep.
+- macbook battery repair
+- phd thesis
+
+
+### Tue. 13
+- phd thesis
+- mm Kiban B meeting
+- arxiv check
+
+
+### Mon. 12
+- arxiv check
+- [x] expense spreadsheet
+  - to Olabisi (Cc: Juraci)
+- meeting w/ mm nishikawa 10am
+  - [x] REF in the top slide
+  - [x] light font for the authors
+- phd thesis
+- [x] META materials slide To ITHEMS Working group
+- meeting w/ mm jf nishikawa 4pm
+
+
+### Fri. 9
+- PhD thesis
+  - abstract
+  - toc
+- arxiv check 
+
+- PhD thesis
+  - Lifshitz formula FIG
+- meeting w/ yo mm
+  - radiation from anomalous electric current in the valley-rotation coupled materials
+  - motion induced spin transport
+  - NEGF-like formulation of optical forces
+  - ensemble of spins coupled with a rigid body rotation
+    - rigid body rotation can be described by Schwinger bosons
+    - which allow to map the toy model to Dicke model 
+
+
+### Thu. 8
+- Physics PG sympo.
+- cp VCSG thesis
+
+
+### Wed. 7
+- Bordag 2005
+- measure theory
+- META poster prep.
+
+
+### Tue. 6
+- A. Arai "mathematical structure of QM"
+- arxiv check
+- [x] expense form
+  - [x] signed by John
+  - [x] email to Juraci
+- META poster
+
+
+### Mon. 5
+- A. Arai "Hilbert space and quantum mechanics"
+- [x] email to Juraci: expense form
+- META poster
+
+
+
+### Fri. 2
+- [x] check the schedule pf PG symposium
+- [x] arxiv check
+- [x] purchase matsu-kiyo jelly
+- meeting w/ mm yo 2pm
+- Nozaki-Matsuo Gr. meeting 3pm
+- PhD thesis
+  - PFA 
+    - expansion
+    - Refs.
+  - TDDF cp
+- [x] shopping
+
+
+### Thu. 1
 - TDDF correction
     - please use ``\iint``
     - please use ``\cfrac``
@@ -23,4 +269,3 @@ gaikokusen 330 JPY
   - [Yangian](https://en.wikipedia.org/wiki/Yangian)
     - tool to generate solutions of the Yan-Baxter eq.
     - a kind of quantum groups
-
