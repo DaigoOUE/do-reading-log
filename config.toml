@@ -1,4 +1,4 @@
 baseURL = 'https://matsuogroup.github.io/oue-log/'
 languageCode = 'en-us'
-title = '初めてhugoでサイトを作ってみたよ'
+title = 'do-diary'
 theme = "PaperMod"
