@@ -145,7 +145,7 @@ Gaikokusen 330 JPY, Grammarly 144 USD
   - effective medium references  
   if the structure is fine or thin enough,
   it is homogenised by the electromagnetic field
-  - smith purcell effect: cerenkov type radiation from the swifting charge near a grating 
+  - smith purcell effect: cerenkov type radiation from the swift charge near a grating 
   - cerenkov:
   Tamm and Frank studied the radiation from a charged particle traveling at a constant velocity, 
   which is also known as Tamm problem.
