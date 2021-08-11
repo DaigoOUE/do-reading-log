@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>初めてhugoでサイトを作ってみたよ</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 初めてhugoでサイトを作ってみたよ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Aug 2021 11:54:59 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>markdownで書いたものを埋め込んでみる (log 07-2021)</title>
+      <link>http://example.org/post/my-first-post/</link>
+      <pubDate>Wed, 11 Aug 2021 11:54:59 +0900</pubDate>
+      
+      <guid>http://example.org/post/my-first-post/</guid>
+      <description>Thu. 29  meeting w/ mm yo takasan 8am thesis  check if this preprint should be added to the reference  they discuss the perfect magnetic conductors instead of the conventional perfect electric ones. path integral (worldline) formalism is adopted. generalisation to higher dimensions      Wed. 28  arxiv check thesis  fig: PFA ~&amp;gt; issue #25  auxiliary fields localised at the boundaries the Feynman propagator represents the electromagnetic fields propagating between the boundaries the Casimir energy = the free energy   ch: corrugation  fig: stable-unstable par: quasistatic approx.</description>
+    </item>
+    
+  </channel>
+</rss>
