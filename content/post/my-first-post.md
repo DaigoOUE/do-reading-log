@@ -25,7 +25,7 @@ draft: false
     - [x] fig: stable-unstable
     - [x] par: quasistatic approx. ~> issue [#33](https://github.com/DaigoOUE/PhD/issues/33)
       - SPP dominates the force this would be a good approx.
-      - allows semianalytical evaluation 
+      - allows semi-analytical evaluation 
 
 
 ### Tue. 27
@@ -37,7 +37,7 @@ SPIE membership 20 USD
   - [x] ch: PFA
 - [x] prep. afternoon meeting
 - meeting w/ mm yo kitamura 1pm
-- [x] rearrnge the arxiv checklist above in a table form
+- [x] rearrange the arxiv checklist above in a table form
 - [x] prepare arxiv check repository
   - 1 issue per interesting article 
     - label: keywords
@@ -64,12 +64,12 @@ Gaikokusen 330 JPY, Grammarly 144 USD
 - Meeting w/ mm yo 1pm
 - Meeting w/ tamaki 5pm 
 - phd thesis
-  - casimir sum and lifshitz formula
+  - casimir sum and Lifshitz formula
     - [x] overview: original works by Casimir
     - [x] deriving Lishtiz formula: from explicit dispersion to implicit
       - review several methods
       - follow mathematically rigorous spectral sum method
-      - casimir sum or lifshitz formula?
+      - casimir sum or Lifshitz formula?
         - if the dispersion is available or not
         - numerical evaluation
 
@@ -87,7 +87,7 @@ Gaikokusen 330 JPY, Grammarly 144 USD
       - thin film
 - Nozaki-Matsuo Group meeting 1pm
   - TK presentation 
-    - What happens if Rashba and Dresselhaus are compareble?
+    - What happens if Rashba and Dresselhaus are comparable?
     - Kondo effect on spin currents
 
 ### Wed. 21 
@@ -116,14 +116,14 @@ Gaikokusen 330 JPY, Grammarly 144 USD
       - s j smith & e m purcell, phys rev 92, 1069 (1953)
     - microwave
     - uv
-  - cerenkov radiation from our superluminal grating reminds of skith-purcell radiation in that the induced surface currents play important roles
+  - cerenkov radiation from our superluminal grating reminds of Smith--Purcell radiation in that the induced surface currents play important roles
     - sr radiation: swift electrons induced surface current on metallic and dielectric gratings [Refs.]
     
-  - reconsider floquet lindblad
+  - reconsider Floquet Lindblad
     - adiabatic drive:
       - E. B. Davies and H. Spohn, J. Stat. Phys. 19 (1978), 511.
       - R. Alicki, J. Phys. A: Math. Gen. 12 (1979), L103.
-    - floquet theory
+    - Floquet theory
       - H. -P. Breuer and F. Petruccione, Phys. Rev. A 55 (1997), 3101.
       - S. Kohler, T. Dittrich and P. H ̈anggi, Phys. Rev. E 55 (1999), 300
     
@@ -134,7 +134,7 @@ Gaikokusen 330 JPY, Grammarly 144 USD
 - arxiv check 
 
 ### Fri. 16
-- frank tamm formula
+- Frank Tamm formula
 - ithems new kom 9:50am
   - casimir and cerenkov BEC
   - landau zener problem is simlar to the beam splitter etx in quantum optics
