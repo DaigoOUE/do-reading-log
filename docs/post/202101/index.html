@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Log-2021-01 | do-diary</title>
+<meta name="keywords" content="" />
+<meta name="description" content="Log-2021-01 Fri. 29  arxiv check  Thu. 28  arxiv check 27 Jan.  Cherenkov radiation in photonic crystals? Kirchhoff approximation in the diffraction problem Schwinger effect by AC field?   QF  energy loss: parameter sweep &raquo; MATLAB code    Wed. 27  arxiv check 22 Jan. ~ 26 Jan. reply to Benjamin  working at the Japan Standard Time   QF  Mathematica: plot the intensity of the beam in each diffraction order compare with the MATLAB result  radiation correction comes into the matching equations in a quite different way in the thin grating case, compared with the deformed boundary case  setting $\epsilon = \epsilon_1 (1 &#43; \alpha \cos \mathbf{q}\cdot\mathbf{x})$ corresponds to the situation where we have infinitely thin but completely different materials at the boundary, (at some points at the boundary $\epsilon \neq \epsilon^{\scriptscriptstyle{&lt;}}, \epsilon^{\scriptscriptstyle{&gt;}}$) we cannot neglect the scattering from those points   the matrix responsible for the surface current contribution in the thin grating case is quite different from that in the deformed boundary case.">
+<meta name="author" content="">
+<link rel="canonical" href="https://matsuogroup.github.io/oue-log/post/202101/" />
+<link crossorigin="anonymous" href="/oue-log/assets/css/stylesheet.min.6cba0d81b5f3f42bb578d49f402ba4175aa72b43def148780b8ad714c957c6f5.css" integrity="sha256-bLoNgbXz9Cu1eNSfQCukF1qnK0Pe8Uh4C4rXFMlXxvU=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/oue-log/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js" integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5&#43;kdJvBz5iKbt6B5PJI="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://matsuogroup.github.io/oue-log/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://matsuogroup.github.io/oue-log/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://matsuogroup.github.io/oue-log/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://matsuogroup.github.io/oue-log/apple-touch-icon.png">
+<link rel="mask-icon" href="https://matsuogroup.github.io/oue-log/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<meta name="generator" content="Hugo 0.87.0" />
+<meta property="og:title" content="Log-2021-01" />
+<meta property="og:description" content="Log-2021-01 Fri. 29  arxiv check  Thu. 28  arxiv check 27 Jan.  Cherenkov radiation in photonic crystals? Kirchhoff approximation in the diffraction problem Schwinger effect by AC field?   QF  energy loss: parameter sweep &raquo; MATLAB code    Wed. 27  arxiv check 22 Jan. ~ 26 Jan. reply to Benjamin  working at the Japan Standard Time   QF  Mathematica: plot the intensity of the beam in each diffraction order compare with the MATLAB result  radiation correction comes into the matching equations in a quite different way in the thin grating case, compared with the deformed boundary case  setting $\epsilon = \epsilon_1 (1 &#43; \alpha \cos \mathbf{q}\cdot\mathbf{x})$ corresponds to the situation where we have infinitely thin but completely different materials at the boundary, (at some points at the boundary $\epsilon \neq \epsilon^{\scriptscriptstyle{&lt;}}, \epsilon^{\scriptscriptstyle{&gt;}}$) we cannot neglect the scattering from those points   the matrix responsible for the surface current contribution in the thin grating case is quite different from that in the deformed boundary case." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://matsuogroup.github.io/oue-log/post/202101/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2021-01-31T00:07:06&#43;09:00" />
+<meta property="article:modified_time" content="2021-01-31T00:07:06&#43;09:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Log-2021-01"/>
+<meta name="twitter:description" content="Log-2021-01 Fri. 29  arxiv check  Thu. 28  arxiv check 27 Jan.  Cherenkov radiation in photonic crystals? Kirchhoff approximation in the diffraction problem Schwinger effect by AC field?   QF  energy loss: parameter sweep &raquo; MATLAB code    Wed. 27  arxiv check 22 Jan. ~ 26 Jan. reply to Benjamin  working at the Japan Standard Time   QF  Mathematica: plot the intensity of the beam in each diffraction order compare with the MATLAB result  radiation correction comes into the matching equations in a quite different way in the thin grating case, compared with the deformed boundary case  setting $\epsilon = \epsilon_1 (1 &#43; \alpha \cos \mathbf{q}\cdot\mathbf{x})$ corresponds to the situation where we have infinitely thin but completely different materials at the boundary, (at some points at the boundary $\epsilon \neq \epsilon^{\scriptscriptstyle{&lt;}}, \epsilon^{\scriptscriptstyle{&gt;}}$) we cannot neglect the scattering from those points   the matrix responsible for the surface current contribution in the thin grating case is quite different from that in the deformed boundary case."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://matsuogroup.github.io/oue-log/post/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Log-2021-01",
+      "item": "https://matsuogroup.github.io/oue-log/post/202101/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Log-2021-01",
+  "name": "Log-2021-01",
+  "description": "Log-2021-01 Fri. 29  arxiv check  Thu. 28  arxiv check 27 Jan.  Cherenkov radiation in photonic crystals? Kirchhoff approximation in the diffraction problem Schwinger effect by AC field?   QF  energy loss: parameter sweep \u0026raquo; MATLAB code    Wed. 27  arxiv check 22 Jan. ~ 26 Jan. reply to Benjamin  working at the Japan Standard Time   QF  Mathematica: plot the intensity of the beam in each diffraction order compare with the MATLAB result  radiation correction comes into the matching equations in a quite different way in the thin grating case, compared with the deformed boundary case  setting $\\epsilon = \\epsilon_1 (1 + \\alpha \\cos \\mathbf{q}\\cdot\\mathbf{x})$ corresponds to the situation where we have infinitely thin but completely different materials at the boundary, (at some points at the boundary $\\epsilon \\neq \\epsilon^{\\scriptscriptstyle{\u0026lt;}}, \\epsilon^{\\scriptscriptstyle{\u0026gt;}}$) we cannot neglect the scattering from those points   the matrix responsible for the surface current contribution in the thin grating case is quite different from that in the deformed boundary case.",
+  "keywords": [
+    
+  ],
+  "articleBody": "Log-2021-01 Fri. 29  arxiv check  Thu. 28  arxiv check 27 Jan.  Cherenkov radiation in photonic crystals? Kirchhoff approximation in the diffraction problem Schwinger effect by AC field?   QF  energy loss: parameter sweep » MATLAB code    Wed. 27  arxiv check 22 Jan. ~ 26 Jan. reply to Benjamin  working at the Japan Standard Time   QF  Mathematica: plot the intensity of the beam in each diffraction order compare with the MATLAB result  radiation correction comes into the matching equations in a quite different way in the thin grating case, compared with the deformed boundary case  setting $\\epsilon = \\epsilon_1 (1 + \\alpha \\cos \\mathbf{q}\\cdot\\mathbf{x})$ corresponds to the situation where we have infinitely thin but completely different materials at the boundary, (at some points at the boundary $\\epsilon \\neq \\epsilon^{\\scriptscriptstyle{}}$) we cannot neglect the scattering from those points   the matrix responsible for the surface current contribution in the thin grating case is quite different from that in the deformed boundary case.  it becomes larger as the order of diffraction increases, $\\check{\\mathsf{L}}_{n,n'} \\propto n$, in the thin grating case.   sign problem in MATLAB: we should not change the sign in front of $kz$ when the field is evanescent?  the field is not propagating in the $z$ direction and no need of sign flipping according to the frequency     email » #john \u0026 #Kun  how to choose relevant parameters for the comparison postdoc plan submit the manuscript by the end of March (because of the deadline: SPDR in RIKEN, JSPS PD)      Tue. 26   reply to Benjamin\n  reply to Sato-san\n  email to Azuma-san (RIKEN)\n  QF\n install MATLAB Bioinformatics Toolbox so that suptitle is ready for use implement the energy loss calculation code    Mon. 25   arxiv check 18 Jan. ~ 21 Jan.\n  postdoc research plan\n  ARCT meeting\n  QF install MATLAB in the MacPro\n  Fri. 22 ☔︎  email arxiv check: 14 Jan. ~ 15 Jan. check #mm さんpaper where deriving the spin diffusion equation w/ a source term QF calc.  radiative correction » Mathematica: seems to be succeeded🎉 spatiotemporal modulation = asymmetric diffraction and Cherenkov radiation   QF meeting w/ John and Kun  compare the infinitely thin grating with my calculation   email to Sato-san (Ibaraki Univ)  Thu. 21 ☼ 8:30 ~ 10:00\n email  Prof. T. Ishihara Prof. R. Saito    11:00 ~ 13:34\n Kretschmann Transfer matrix calc.  15:00 ~ 16:04\n meeting w/ R. Saito Group  17:00 ~ 18:40\n QF calc. Update  Wed. 20 ☼ 8:40 ~ 10:00\n seminar rehearsal  11:00 ~ 12:00\n reply to emails…done seminar slide check  15:00 ~ 17:00\n seminar at R. Saito group (Tohoku U)  Tue. 19 ☼ 10:00 ~ 14:00\n JPS abstract…submitted seminar slide prep.  18:00 ~\n QF meeting w/ Kun \u0026 John…postponed the rehearsal of the seminar presentation  Mon. 18 ☼ 9:00 ~ 12:30\n seminar prep. iPad memo » keynote slide  plan: overview + outline, scattering theory, inverse Faraday effect, SG effect eqs. » slides…done    14:00 ~\n seminar prep.: speaking to plan  sca. th. » EM fld. EM fld. » opt. AM » inv. Faraday inv. Faraday » spin diff. eq. » spin acc., current    15:30 ~\n QF meeting prep. arxiv check (14,15 Jan.)  Fri. 15 ☼ 8:00 ~ 13:00\n submit AOP review  15:00 ~\n academist-reseaerchers tea/coffee time  17:00\n email » John \u0026 Kun to fix the date of the next meeting  Thu. 14 15:00 ~\n academist-reseaerchers tea/coffee time  Wed. 13 ☁ 10:00 ~ 12:00\n QF review the calc.: the source term  13:00 ~ 16:00\n arxiv check (13th Jan.) AOP review  16:00 ~ 17:00\n meeting w/ Kun  Tue. 12 ☃  arxiv check (~ 11th Jan.)  Casimir light in dispersive nanophotonics:  dynamical Casimir effect in temporally modulated dispersive media, efficient emission of phonon polariton in SiC, linear Response [EM field in dispersive media + perturbation (= temporal modulation)], Fourier transform of modulation profile » double freq. Response func. $\\Delta \\chi(\\omega,\\omega')$     QF ms Update  freq.-amp. spectrogram » FIG. 4 spectrogram $W(\\omega_\\mathrm{in},\\Omega)$ w.r.t various $g$ » FIG. 5  not good idea maybe   discussion of the source term which can be neglected non-relativistic limit   handwriting note » Kun…done  Mon. 11  meeting w/ Kun 9am CST = 10am JST  the origin of Cherenkov-like radiation   meeting w/ t.naito 3pm  DFT: Hohenberg-Kohn theorem, Kohn-Sham scheme electron dipole moment    Fri. 8  Shimomura review AOP  Thu. 7  arxiv check (cond-mat ~6/Jan., quant-ph ~6/Jan.) meeting w/ Kun 11am ~  generate spectrogram $W(\\omega_\\mathrm{in},\\Omega)$ for various $g$ discussion of the scaling: Sec. IV - Sec. II Why we are missing the Cherenkov-like radiation?  because we neglect the discontinuity of the magnetic field (the electric current due to the time variation of the permittivity $\\dot{\\epsilon}_{\\mathbf{x},z}$) in the infinitely thin grating case, we cannot neglect the discontinuity because the speed of modulation is quite fast (even exceed the speed of light while in my calculation (the dynamically deformed surface) the speed of modulation ($\\dot{\\epsilon}_{\\mathbf{x},z} \\propto A\\Omega$) is quite small ($A$ is small) and cannnot exceed the speed of light     本当に毎度タメになってて、研究能力・学習能力を深化させる上ではすごくありがたいんだけど、目の前の研究が全然進まなくて本当に困っている笑  これ、修士の時にも全く同じような経験をした。この人とは満足な研究を一緒にできない(自分の能力が足りないからその人を満足させられるクオリティを出せない)と思って、幽霊学生になって1人で研究しはじめたのだった。 修士は適当にやってて取れたからそれでよかったけど、PhDはそうは行かなそうだから非常につらい😇ぜつぼう    Wed. 6  arxiv check (cond-mat, ~ 5 Jan.) email » Sato-san (Ibaraki U)…done QF ms Update  Tue. 5  discussion w/ jf email » Prof. R. Saito (Tohoku U) QF  freq-freq spectrogram » ms Mathematica » freq-amp spectrogram » ms   arxiv check  Sun. 3  abstract (seminar at Saito lab in Tohoku Univ.) preparation…done  ",
+  "wordCount" : "855",
+  "inLanguage": "en",
+  "datePublished": "2021-01-31T00:07:06+09:00",
+  "dateModified": "2021-01-31T00:07:06+09:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://matsuogroup.github.io/oue-log/post/202101/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "do-diary",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://matsuogroup.github.io/oue-log/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+<noscript>
+    <style type="text/css">
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: #1d1e20;
+                --entry: #2e2e33;
+                --primary: rgba(255, 255, 255, 0.84);
+                --secondary: rgba(255, 255, 255, 0.56);
+                --tertiary: rgba(255, 255, 255, 0.16);
+                --content: rgba(255, 255, 255, 0.74);
+                --hljs-bg: #2e2e33;
+                --code-bg: #37383e;
+                --border: #333;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://matsuogroup.github.io/oue-log/" accesskey="h" title="do-diary (Alt + H)">do-diary</a>
+            <span class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </span>
+        </div>
+        <ul id="menu">
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      Log-2021-01
+    </h1>
+    <div class="post-meta">January 31, 2021
+</div>
+  </header> 
+  <div class="post-content"><h1 id="log-2021-01">Log-2021-01<a hidden class="anchor" aria-hidden="true" href="#log-2021-01">#</a></h1>
+<h2 id="fri-29">Fri. 29<a hidden class="anchor" aria-hidden="true" href="#fri-29">#</a></h2>
+<ul>
+<li>arxiv check</li>
+</ul>
+<h2 id="thu-28">Thu. 28<a hidden class="anchor" aria-hidden="true" href="#thu-28">#</a></h2>
+<ul>
+<li>arxiv check 27 Jan.
+<ul>
+<li>Cherenkov radiation in photonic crystals?</li>
+<li>Kirchhoff approximation in the diffraction problem</li>
+<li>Schwinger effect by AC field?</li>
+</ul>
+</li>
+<li>QF
+<ul>
+<li>energy loss: parameter sweep &raquo; MATLAB code</li>
+</ul>
+</li>
+</ul>
+<h2 id="wed-27">Wed. 27<a hidden class="anchor" aria-hidden="true" href="#wed-27">#</a></h2>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> arxiv check 22 Jan. ~ 26 Jan.</li>
+<li><input checked="" disabled="" type="checkbox"> reply to Benjamin
+<ul>
+<li>working at the Japan Standard Time</li>
+</ul>
+</li>
+<li>QF
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Mathematica: plot the intensity of the beam in each diffraction order</li>
+<li><input checked="" disabled="" type="checkbox"> compare with the MATLAB result
+<ul>
+<li>radiation correction comes into the matching equations in a quite different way in the thin grating case, compared with the deformed boundary case
+<ul>
+<li>setting $\epsilon = \epsilon_1 (1 + \alpha \cos \mathbf{q}\cdot\mathbf{x})$ corresponds to the situation where we have infinitely thin but completely different materials at the boundary,</li>
+<li>(at some points at the boundary $\epsilon \neq \epsilon^{\scriptscriptstyle{&lt;}}, \epsilon^{\scriptscriptstyle{&gt;}}$)</li>
+<li>we cannot neglect the scattering from those points</li>
+</ul>
+</li>
+<li>the matrix responsible for the surface current contribution in the thin grating case is quite different from that in the deformed boundary case.
+<ul>
+<li>it becomes larger as the order of diffraction increases,
+$\check{\mathsf{L}}_{n,n'} \propto n$,
+in the thin grating case.</li>
+</ul>
+</li>
+<li>sign problem in MATLAB: we should not change the sign in front of $kz$ when the field is evanescent?
+<ul>
+<li>the field is <em>not</em> propagating in the $z$ direction and no need of sign flipping according to the frequency</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><input checked="" disabled="" type="checkbox"> email &raquo; #john &amp; #Kun
+<ul>
+<li>how to choose relevant parameters for the comparison</li>
+<li>postdoc plan</li>
+<li>submit the manuscript by the end of March (because of the deadline: SPDR in RIKEN, JSPS PD)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="tue-26">Tue. 26<a hidden class="anchor" aria-hidden="true" href="#tue-26">#</a></h2>
+<ul>
+<li>
+<p><input checked="" disabled="" type="checkbox"> reply to Benjamin</p>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> reply to Sato-san</p>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> email to Azuma-san (RIKEN)</p>
+</li>
+<li>
+<p>QF</p>
+<ul>
+<li>install MATLAB Bioinformatics Toolbox so that <code>suptitle</code> is ready for use</li>
+<li>implement the energy loss calculation code</li>
+</ul>
+</li>
+</ul>
+<h2 id="mon-25">Mon. 25<a hidden class="anchor" aria-hidden="true" href="#mon-25">#</a></h2>
+<ul>
+<li>
+<p>arxiv check 18 Jan. ~ 21 Jan.</p>
+</li>
+<li>
+<p>postdoc research plan</p>
+</li>
+<li>
+<p>ARCT meeting</p>
+</li>
+<li>
+<p>QF install MATLAB in the MacPro</p>
+</li>
+</ul>
+<h2 id="fri-22-">Fri. 22 ☔︎<a hidden class="anchor" aria-hidden="true" href="#fri-22-">#</a></h2>
+<ul>
+<li>email</li>
+<li>arxiv check: 14 Jan. ~ 15 Jan.</li>
+<li>check #mm さんpaper where deriving the spin diffusion equation w/ a source term</li>
+<li>QF calc.
+<ul>
+<li>radiative correction &raquo; Mathematica: seems to be succeeded🎉</li>
+<li>spatiotemporal modulation =&gt; asymmetric diffraction and Cherenkov radiation</li>
+</ul>
+</li>
+<li>QF meeting w/ John and Kun
+<ul>
+<li>compare the infinitely thin grating with my calculation</li>
+</ul>
+</li>
+<li>email to Sato-san (Ibaraki Univ)</li>
+</ul>
+<h2 id="thu-21-">Thu. 21 ☼<a hidden class="anchor" aria-hidden="true" href="#thu-21-">#</a></h2>
+<p>8:30 ~ 10:00</p>
+<ul>
+<li>email
+<ul>
+<li>Prof. T. Ishihara</li>
+<li>Prof. R. Saito</li>
+</ul>
+</li>
+</ul>
+<p>11:00 ~ 13:34</p>
+<ul>
+<li>Kretschmann Transfer matrix calc.</li>
+</ul>
+<p>15:00 ~ 16:04</p>
+<ul>
+<li>meeting w/ R. Saito Group</li>
+</ul>
+<p>17:00 ~ 18:40</p>
+<ul>
+<li>QF calc. Update</li>
+</ul>
+<h2 id="wed-20-">Wed. 20 ☼<a hidden class="anchor" aria-hidden="true" href="#wed-20-">#</a></h2>
+<p>8:40 ~ 10:00</p>
+<ul>
+<li>seminar rehearsal</li>
+</ul>
+<p>11:00 ~ 12:00</p>
+<ul>
+<li>reply to emails&hellip;done</li>
+<li>seminar slide check</li>
+</ul>
+<p>15:00 ~ 17:00</p>
+<ul>
+<li>seminar at R. Saito group (Tohoku U)</li>
+</ul>
+<h2 id="tue-19-">Tue. 19 ☼<a hidden class="anchor" aria-hidden="true" href="#tue-19-">#</a></h2>
+<p>10:00 ~ 14:00</p>
+<ul>
+<li>JPS abstract&hellip;submitted</li>
+<li>seminar slide prep.</li>
+</ul>
+<p>18:00 ~</p>
+<ul>
+<li>QF meeting w/ Kun &amp; John&hellip;postponed</li>
+<li>the rehearsal of the seminar presentation</li>
+</ul>
+<h2 id="mon-18-">Mon. 18 ☼<a hidden class="anchor" aria-hidden="true" href="#mon-18-">#</a></h2>
+<p>9:00 ~ 12:30</p>
+<ul>
+<li>seminar prep. iPad memo &raquo; keynote slide
+<ul>
+<li>plan: overview + outline,
+scattering theory,
+inverse Faraday effect,
+SG effect</li>
+<li>eqs. &raquo; slides&hellip;done</li>
+</ul>
+</li>
+</ul>
+<p>14:00 ~</p>
+<ul>
+<li>seminar prep.: speaking to plan
+<ul>
+<li>sca. th. &raquo; EM fld.</li>
+<li>EM fld. &raquo; opt. AM &raquo; inv. Faraday</li>
+<li>inv. Faraday &raquo; spin diff. eq. &raquo; spin acc., current</li>
+</ul>
+</li>
+</ul>
+<p>15:30 ~</p>
+<ul>
+<li>QF meeting prep.</li>
+<li>arxiv check (14,15 Jan.)</li>
+</ul>
+<h2 id="fri-15-">Fri. 15 ☼<a hidden class="anchor" aria-hidden="true" href="#fri-15-">#</a></h2>
+<p>8:00 ~ 13:00</p>
+<ul>
+<li>submit AOP review</li>
+</ul>
+<p>15:00 ~</p>
+<ul>
+<li>academist-reseaerchers tea/coffee time</li>
+</ul>
+<p>17:00</p>
+<ul>
+<li>email &raquo; John &amp; Kun to fix the date of the next meeting</li>
+</ul>
+<h2 id="thu-14">Thu. 14<a hidden class="anchor" aria-hidden="true" href="#thu-14">#</a></h2>
+<p>15:00 ~</p>
+<ul>
+<li>academist-reseaerchers tea/coffee time</li>
+</ul>
+<h2 id="wed-13-">Wed. 13 ☁<a hidden class="anchor" aria-hidden="true" href="#wed-13-">#</a></h2>
+<p>10:00 ~ 12:00</p>
+<ul>
+<li>QF review the calc.: the source term</li>
+</ul>
+<p>13:00 ~ 16:00</p>
+<ul>
+<li>arxiv check (13th Jan.)</li>
+<li>AOP review</li>
+</ul>
+<p>16:00 ~ 17:00</p>
+<ul>
+<li>meeting w/ Kun</li>
+</ul>
+<h2 id="tue-12-">Tue. 12 ☃<a hidden class="anchor" aria-hidden="true" href="#tue-12-">#</a></h2>
+<ul>
+<li>arxiv check (~ 11th Jan.)
+<ul>
+<li><a href="https://arxiv.org/abs/2101.01120">Casimir light in dispersive nanophotonics</a>:
+<ul>
+<li>dynamical Casimir effect in temporally modulated dispersive media,</li>
+<li>efficient emission of phonon polariton in SiC,</li>
+<li>linear Response [EM field in dispersive media + perturbation (= temporal modulation)],</li>
+<li>Fourier transform of modulation profile &raquo; double freq. Response func. $\Delta \chi(\omega,\omega')$</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>QF ms Update
+<ul>
+<li>freq.-amp. spectrogram &raquo; FIG. 4</li>
+<li>spectrogram $W(\omega_\mathrm{in},\Omega)$ w.r.t various $g$ &raquo; FIG. 5
+<ul>
+<li>not good idea maybe</li>
+</ul>
+</li>
+<li>discussion of the source term which can be neglected non-relativistic limit</li>
+</ul>
+</li>
+<li>handwriting note &raquo; Kun&hellip;done</li>
+</ul>
+<h2 id="mon-11">Mon. 11<a hidden class="anchor" aria-hidden="true" href="#mon-11">#</a></h2>
+<ul>
+<li>meeting w/ Kun 9am CST = 10am JST
+<ul>
+<li>the origin of Cherenkov-like radiation</li>
+</ul>
+</li>
+<li>meeting w/ t.naito 3pm
+<ul>
+<li>DFT: Hohenberg-Kohn theorem, Kohn-Sham scheme</li>
+<li>electron dipole moment</li>
+</ul>
+</li>
+</ul>
+<h2 id="fri-8">Fri. 8<a hidden class="anchor" aria-hidden="true" href="#fri-8">#</a></h2>
+<ul>
+<li>Shimomura</li>
+<li>review AOP</li>
+</ul>
+<h2 id="thu-7">Thu. 7<a hidden class="anchor" aria-hidden="true" href="#thu-7">#</a></h2>
+<ul>
+<li>arxiv check (cond-mat ~6/Jan., quant-ph ~6/Jan.)</li>
+<li>meeting w/ Kun 11am ~
+<ul>
+<li>generate spectrogram $W(\omega_\mathrm{in},\Omega)$ for various $g$</li>
+<li>discussion of the scaling: Sec. IV -&gt; Sec. II</li>
+<li>Why we are missing the Cherenkov-like radiation?
+<ul>
+<li>because we neglect the discontinuity of the magnetic field (the electric current due to the time variation of the permittivity $\dot{\epsilon}_{\mathbf{x},z}$)</li>
+<li>in the infinitely thin grating case, we cannot neglect the discontinuity because the speed of modulation is quite fast (even exceed the speed of light</li>
+<li>while in my calculation (the dynamically deformed surface) the speed of modulation ($\dot{\epsilon}_{\mathbf{x},z} \propto A\Omega$) is quite small ($A$ is small) and cannnot exceed the speed of light</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>本当に毎度タメになってて、研究能力・学習能力を深化させる上ではすごくありがたいんだけど、目の前の研究が全然進まなくて本当に困っている笑
+<ul>
+<li>これ、修士の時にも全く同じような経験をした。この人とは満足な研究を一緒にできない(自分の能力が足りないからその人を満足させられるクオリティを出せない)と思って、幽霊学生になって1人で研究しはじめたのだった。</li>
+<li>修士は適当にやってて取れたからそれでよかったけど、PhDはそうは行かなそうだから非常につらい😇ぜつぼう</li>
+</ul>
+</li>
+</ul>
+<h2 id="wed-6">Wed. 6<a hidden class="anchor" aria-hidden="true" href="#wed-6">#</a></h2>
+<ul>
+<li>arxiv check (cond-mat, ~ 5 Jan.)</li>
+<li>email &raquo; Sato-san (Ibaraki U)&hellip;done</li>
+<li>QF ms Update</li>
+</ul>
+<h2 id="tue-5">Tue. 5<a hidden class="anchor" aria-hidden="true" href="#tue-5">#</a></h2>
+<ul>
+<li>discussion w/ jf</li>
+<li>email &raquo; Prof. R. Saito (Tohoku U)</li>
+<li>QF
+<ul>
+<li>freq-freq spectrogram &raquo; ms</li>
+<li>Mathematica &raquo; freq-amp spectrogram &raquo; ms</li>
+</ul>
+</li>
+<li>arxiv check</li>
+</ul>
+<h2 id="sun-3">Sun. 3<a hidden class="anchor" aria-hidden="true" href="#sun-3">#</a></h2>
+<ul>
+<li>abstract (seminar at Saito lab in Tohoku Univ.) preparation&hellip;done</li>
+</ul>
+
+
+  </div>
+  <footer class="post-footer">
+  </footer>
+</article>
+    </main>
+    <footer class="footer">
+    <span>&copy; 2021 <a href="https://matsuogroup.github.io/oue-log/">do-diary</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://git.io/hugopapermod" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)">
+    <button class="top-link" id="top-link" type="button" accesskey="g">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+            <path d="M12 6H0l6-6z" />
+        </svg>
+    </button>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+    menu.onscroll = function () {
+        localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
