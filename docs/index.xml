@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DO Reading Log</title>
-    <link>https://matsuogroup.github.io/oue-log/</link>
+    <link>https://daigooue.github.io/do-reading-log/</link>
     <description>Recent content on DO Reading Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Oct 2021 11:50:09 +0900</lastBuildDate><atom:link href="https://matsuogroup.github.io/oue-log/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Oct 2021 11:50:09 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>arxiv 211020</title>
-      <link>https://matsuogroup.github.io/oue-log/posts/arxiv211020/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211020/</link>
       <pubDate>Thu, 21 Oct 2021 11:50:09 +0900</pubDate>
       
-      <guid>https://matsuogroup.github.io/oue-log/posts/arxiv211020/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211020/</guid>
       <description>cond-mat   今日は投稿数が少なめ．
   相変わらず原子層物質を重ねる研究がいろいろ投稿されている． 光学応答や電気伝導特性を調べるなど．
   合金の研究もちらほらとみられる． DFTを使って調べるものがいろいろある印象．
@@ -27,10 +27,10 @@
     
     <item>
       <title>arxiv 211019</title>
-      <link>https://matsuogroup.github.io/oue-log/posts/arxiv211019/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211019/</link>
       <pubDate>Tue, 19 Oct 2021 12:00:31 +0900</pubDate>
       
-      <guid>https://matsuogroup.github.io/oue-log/posts/arxiv211019/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211019/</guid>
       <description>cond-mat  量子臨界点の話 原子層物質をスタックする話 反強磁性隊の話 超伝導薄膜の話  あたりがいろんな方面から発表されていた。 その辺り流行りなんだなあ．
 quant-ph  arXiv:2110.08473 2次のキュムラントを使ってゴーストイメージングの分解能を上げる実験(w/理論)の話 arXiv:2110.09159 非線形なフィードバックのある量子測定を取り入れる理論  あたりに興味をひかれた
 physics cond-matでも思ったけれどもこちらでも分子動力学計算・密度反関数の研究が多い日だった

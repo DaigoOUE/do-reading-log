@@ -1,4 +1,4 @@
-baseURL = 'https://matsuogroup.github.io/oue-log/'
+baseURL = 'https://daigooue.github.io/do-reading-log/'
 languageCode = 'en-us'
 title = 'DO Reading Log'
 theme = "PaperMod"
