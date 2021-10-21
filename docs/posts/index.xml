@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>DO Reading Log</title>
-    <link>https://matsuogroup.github.io/oue-log/</link>
-    <description>Recent content on DO Reading Log</description>
+    <title>Posts on DO Reading Log</title>
+    <link>https://matsuogroup.github.io/oue-log/posts/</link>
+    <description>Recent content in Posts on DO Reading Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Oct 2021 12:00:31 +0900</lastBuildDate><atom:link href="https://matsuogroup.github.io/oue-log/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 12:00:31 +0900</lastBuildDate><atom:link href="https://matsuogroup.github.io/oue-log/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>arxiv 211019</title>
       <link>https://matsuogroup.github.io/oue-log/posts/arxiv211019/</link>

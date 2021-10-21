@@ -1,4 +1,4 @@
 baseURL = 'https://matsuogroup.github.io/oue-log/'
 languageCode = 'en-us'
-title = 'do-diary'
+title = 'DO Reading Log'
 theme = "PaperMod"
