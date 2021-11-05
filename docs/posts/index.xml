@@ -6,7 +6,27 @@
     <description>Recent content in Posts on DO Reading Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Nov 2021 10:06:49 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Nov 2021 10:28:09 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211102</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211102/</link>
+      <pubDate>Fri, 05 Nov 2021 10:28:09 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211102/</guid>
+      <description>cond-mat  Nonlinear dynamics of electromagnetic field and valley polarization in WSe2 monolayer: マクスウェルとTDDFTを連立して解く！すごい！ 原子層物質の非線形光学効果を調べるなどしている．  quant-ph NC
+physics  Quantum Kinetic Theory of Plasmas: 高強度場中プラズマのシュウィンガー効果ありありなセットアップを量子運動論(based on relativistic QFT)で解析する話をレビューしたもの⚡イイネ Spontaneous emission rate and the density of states inside a one dimensional photonic crystal: 多層系における電磁場のグリーン関数を計算→DOSが計算できる→熱輻射とかエミッターを入れたときの放射レートなどなど色々計算できる💡 このごろグリーン関数ってイイよね&amp;hellip;😌って感じになっていて理論と少し親しくなってきた感  hep-th NC
+math-ph NC</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211101</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211101/</link>
+      <pubDate>Tue, 02 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211101/</guid>
+      <description>cond-mat  2110.15369をみて、Landauer-Sharvin resistance(inversely proportional to the number of its conduction channels)なるものの存在を知ったのだった。ballistic conductionの場合はコンダクタンス≒チャンネル数ってことやなあ、なるほど。となった。 こういう感じのメゾスコピック系の「チャンネルを数えるノリ」はopticsとも親和性が良さそうなので、仲良くなりたい気持ち。  ballistic conduction:  ballistic conduction (ballistic transport) is the unimpeded flow (or transport) of charge carriers (usually electrons), or energy-carrying particles, over relatively long distances in a material In general, the resistivity of a material exists because an electron, while moving inside a medium, is scattered by impurities, defects, thermal fluctuations of ions in a crystalline solid, or, generally, by any freely-moving atom/molecule composing a gas or liquid.</description>
+    </item>
+    
     <item>
       <title>Arxiv211029</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv211029/</link>
