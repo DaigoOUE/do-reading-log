@@ -2,4 +2,3 @@ baseURL = 'https://daigooue.github.io/do-reading-log/'
 languageCode = 'en-us'
 title = 'DO Reading Log'
 theme = "PaperMod"
-googleAnalytics = "G-WNWWSM9H5L"
