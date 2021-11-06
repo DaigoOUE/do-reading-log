@@ -2,3 +2,19 @@ baseURL = 'https://daigooue.github.io/do-reading-log/'
 languageCode = 'en-us'
 title = 'DO Reading Log'
 theme = "PaperMod"
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "I am Daigo Oue. Here is my reading log."
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://twitter.com/q9ac"
+
+[[params.socialIcons]]
+name = "Instagram"
+url = "https://www.instagram.com/ouedaigo"
+
+[[params.socialIcons]]
+name = "Facebook"
+url = "https://www.facebook.com/oue.daigo"
