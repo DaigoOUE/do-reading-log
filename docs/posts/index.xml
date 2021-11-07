@@ -6,7 +6,30 @@
     <description>Recent content in Posts on DO Reading Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Nov 2021 10:28:09 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Nov 2021 11:46:55 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211104</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211104/</link>
+      <pubDate>Sat, 06 Nov 2021 11:46:55 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211104/</guid>
+      <description>cond-mat   Spintronic thermal management: スピン↔熱変換のレビュー論文．スピンゼーベックとかスピンネルンストとか． 冷静に考えてスピンで熱を制御できるようになってきているのすごいよなあ🔥
+  Non-Hermitian physics without gain or loss: the skin effect of reflected waves: 複素固有値←散乱行列見れば自然に出てくる．ロスとかゲインとかなくても非エルミートなノリを展開することができるよ論文🧊🍖
+  quant-ph   Resolving Mutually Coherent Bright Point-Sources: コヒーレントな２つの光源から発せられる光をモーメント法を使ってdemultiplexingするよ🔍
+  Discovering hydrodynamic equations of many-body quantum systems: 機械学習を使って多体量子系の有効流体模型を生成する💻kakumei
+  physics  Quadraxial metamaterial: ワイヤーを四方八方に張り巡らせたメタマテリアルを作った！４軸異方性！conical refraction!  hep-th NC
+math-ph NC</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211103</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211103/</link>
+      <pubDate>Sat, 06 Nov 2021 11:46:50 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211103/</guid>
+      <description>今日はどのカテゴリにも自分に刺さるものがなかった． 相変わらずcond-matは原子層物質の研究が多い印象． physicsではチラホラと機械学習を使った構造最適化の研究が見られる．</description>
+    </item>
+    
     <item>
       <title>Arxiv211102</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv211102/</link>
