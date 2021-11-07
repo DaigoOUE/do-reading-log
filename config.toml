@@ -18,3 +18,7 @@ url = "https://www.instagram.com/ouedaigo"
 [[params.socialIcons]]
 name = "Facebook"
 url = "https://www.facebook.com/oue.daigo"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
