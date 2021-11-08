@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'DO Reading Log'
 theme = "PaperMod"
 
+[params]
+mathjaxStyle = "mathjax-style.css"
+
 [params.homeInfoParams]
 Title = "Hi there 👋"
 Content = "I am Daigo Oue. Here is my reading log."
@@ -21,4 +24,3 @@ url = "https://www.facebook.com/oue.daigo"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
-
