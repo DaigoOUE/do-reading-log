@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://daigooue.github.io/do-reading-log/sitemap.xml

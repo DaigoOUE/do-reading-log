@@ -4,7 +4,20 @@
     <title>Categories on DO Reading Log</title>
     <link>https://daigooue.github.io/do-reading-log/categories/</link>
     <description>Recent content in Categories on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://daigooue.github.io/do-reading-log/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Nov 2021 11:26:36 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arxiv</title>
+      <link>https://daigooue.github.io/do-reading-log/categories/arxiv/</link>
+      <pubDate>Mon, 08 Nov 2021 11:26:36 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/categories/arxiv/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

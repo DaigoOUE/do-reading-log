@@ -1,26 +1,123 @@
 baseURL = 'https://daigooue.github.io/do-reading-log/'
-languageCode = 'en-us'
 title = 'DO Reading Log'
+paginate = 5
 theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "UA-123-45"
+
+[minify]
+disableXML = true
+minifyOutput = true
 
 [params]
+env = "production"
+title = "DO Reading Log"
+description = "reading logs by DO"
+keywords = [ "Blog", "Portfolio", "PaperMod" ]
+author = "Me"
+images = [ "<link or path of image for opengraph, twitter-cards>" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
 mathjaxStyle = "mathjax-style.css"
 
-[params.homeInfoParams]
-Title = "Hi there 👋"
-Content = "I am Daigo Oue. Here is my reading log."
+  [params.assets]
+  favicon = "<link / abs url>"
+  favicon16x16 = "<link / abs url>"
+  favicon32x32 = "<link / abs url>"
+  apple_touch_icon = "<link / abs url>"
+  safari_pinned_tab = "<link / abs url>"
 
-[[params.socialIcons]]
-name = "Twitter"
-url = "https://twitter.com/q9ac"
+  [params.label]
+  text = "DO Reading Log"
+  #icon = "/apple-touch-icon.png"
+  #iconHeight = 35
 
-[[params.socialIcons]]
-name = "Instagram"
-url = "https://www.instagram.com/ouedaigo"
+  [params.profileMode]
+  enabled = false
+  title = "ExampleSite"
+  subtitle = "This is subtitle"
+  imageUrl = "<img location>"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
 
-[[params.socialIcons]]
-name = "Facebook"
-url = "https://www.facebook.com/oue.daigo"
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
 
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "I am Daigo Oue. Here is my reading logs."
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/q9ac"
+  
+  [[params.socialIcons]]
+  name = "facebook"
+  url = "https://facebook.com/oue.daigo"
+  
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/ouedaigo"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "archives"
+name = "archives"
+url = "/archives/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "portfolio"
+name = "portfolio"
+url = "http://daigooue.github.io/website/"
+weight = 30
