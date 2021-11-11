@@ -9,7 +9,17 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Nov 2021 11:26:36 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Nov 2021 10:16:59 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211109</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211109/</link>
+      <pubDate>Thu, 11 Nov 2021 10:16:59 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211109/</guid>
+      <description>cond-mat  Thermodynamics of Precision in Markovian Open Quantum Dynamics:  量子開放系における揺動散逸トレードオフ関係←熱力学的不確定性+量子コヒーレンスで決まるよ〰︎Lindbladマスター方程式を利用した解析。 もはやLindbladは普通すぎてnon-markovianとかstrong couplingに行かないと面白いことない！と思っていた節が正直自分にはあったし、quant-phあたりを見ているとそのような雰囲気を感じる気がした。ゆえに、そのLindbladを熱・統計の専門家が触っている視点は新鮮で楽しいなあ。 先日見かけた「コヒーレンスは散逸を補償する！」という話にも関係が深そう。 トレードオフ関係でいろいろ関連研究を調べてみたら [Nature Communications 10, 1727 (2019)] が面白そうだった．書いてある内容は以下のこと:  ランダウアー限界: 物理的には1ビットの情報を消去する $f: \{0,1\} \mapsto 0$ という操作を行うには少なくとも $kT \ln2$ だけの熱発生を伴う。 ただし、ビット操作を行う環境の温度は$T$で、ビットが0か1かは一様分布で決まっているものとする。 fを任意の関数としたとき、それを実行する物理的コストはどれくらいになるか？という一般化の試みは色々ある。 それらの試みでは、$f$がどのように実装できるかを隠れた状態アリなマスター方程式でモデル化してきた。 しかし、その隠れた状態というものが「最低でもどのくらい必要なのか」を議論したものはない。 また、$f$をマスター方程式でモデル化する際に「どれくらいの時間の刻み幅を必要とするか」を議論したものもない。 これらの「最低限必要な隠れた状態」と「最低限必要な時間の刻み幅」の間にはトレードオフの関係がある。      quant-ph  A hydrodynamic analog of superradiant emission:
+流体の中に複数振動子をを入れる→超放射的挙動=振動子が協同的に波を発生させる。 流体だと単なる波動方程式とは違って移流項がある(=非局所効果がある)ので、これがどのように効いてくるか気になる…！ Variational principle for optimal quantum controls in quantum metrology:  量子フィッシャー情報量を最適化したいか？フロケエンジニアリングせよー！ 三体相互作用のあるスピン鎖系を、二体相互作用以下のコントロールだけで精密に制御できる。多体相関を精密に制御できるプロトコルとは夢があるなあ。    physics  Superradiant atomic recoil lasing with orbital angular momentum light:</description>
+    </item>
+    
     <item>
       <title>Arxiv211108</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv211108/</link>
