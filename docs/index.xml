@@ -9,7 +9,20 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 10:16:59 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Nov 2021 17:04:02 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211110</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211110/</link>
+      <pubDate>Thu, 11 Nov 2021 17:04:02 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211110/</guid>
+      <description>今日はなんとなく英語でメモった． メタサーフェスと2D物質の組み合わせでfunctionalityを出す系の研究が実験できるようになっていてすごい． Cherenkov放射の計算をするのにeffective mediumとしてstrong fieldを取り扱うのに注意が必要だよ！という話は自分も気になっていたところで同様のことを考える人がいるもんだなあウンウンという気持ちになった．
+cond-mat  Spatial light modulation at the nanosecond scale with an atomically thin reflector:
+Metasurface married 2D material🎉high-speed beam steering at nano-sec. modulation and strong light-matter coupling💥 Manipulation of Exciton Dynamics in Single-Layer WSe2 Using a Toroidal Dielectric Metasurface:
+All-dielectric metasurfaces enhance exciton emission over one order of magnitude in 2D materials💥 A Route to Hierarchical Assembly of Colloidal Diamond:
+Diamonds, assemble!💎 They proposed self-assembly of gyrobifastigial nano diamonds.</description>
+    </item>
+    
     <item>
       <title>Arxiv211109</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv211109/</link>
@@ -188,19 +201,6 @@ cond-mat  今日もカゴメ格子論文がちらほら ねじれ2層TMDも相�
   event-chain monte carloというものがあるらしい．レビュー記事．
   Wegner-Wilson flowというものがあるらしい
  Wegner-Wilson flow is a robust algorithm for constructing (numerical) functional renormalization flow from a given many-body Hamiltonian to its diagonalized form. In perturbative cases it correctly reproduces results obtained using Feynman diagrams [41], however, its true value lies in its non-pertubative nature, rooted in convergence properties for finite systems akin to those of the Jacobi rotation method for exact diagonalization [41, 42].</description>
-    </item>
-    
-    <item>
-      <title>arxiv 211019</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211019/</link>
-      <pubDate>Tue, 19 Oct 2021 12:00:31 +0900</pubDate>
-      
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211019/</guid>
-      <description>cond-mat  量子臨界点の話 原子層物質をスタックする話 反強磁性隊の話 超伝導薄膜の話  あたりがいろんな方面から発表されていた。 その辺り流行りなんだなあ．
-quant-ph  arXiv:2110.08473 2次のキュムラントを使ってゴーストイメージングの分解能を上げる実験(w/理論)の話 arXiv:2110.09159 非線形なフィードバックのある量子測定を取り入れる理論  あたりに興味をひかれた
-physics cond-matでも思ったけれどもこちらでも分子動力学計算・密度反関数の研究が多い日だった
-hep-th 低エネルギー有効理論を考えると非エルミート性とか非局所性とかローレンツ対称性が破れたりとか、 いろいろあるけど、出どころをちゃんと理解しておかなきゃなあ、という気持ちになった
-math-ph Pfaffian拘束のグローバルな可積分性を調べる判定基準を熱力学と関連づけながら議論している話 arXiv:2110.08337 が面白そうだった</description>
     </item>
     
     
