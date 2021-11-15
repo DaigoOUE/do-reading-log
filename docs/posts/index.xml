@@ -9,7 +9,32 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Nov 2021 17:04:02 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Nov 2021 09:43:26 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211112</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211112/</link>
+      <pubDate>Sat, 13 Nov 2021 09:43:26 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211112/</guid>
+      <description>昨日・今日と気になるプレプリが少ない日だった気がするのは，私の気合が足りなかったからだろうか&amp;hellip;😷
+cond-mat NC
+quant-ph  Nonreciprocal single-photon band structure:
+連なった共振器にいっこ飛ばしで量子エミッタを乗せる→カイラルなカップリングで非対称分散→高効率な光アイソレータになる💡  physics  Introducing corrugated surfaces in electromagnetism problems via perturbative approach:
+凸凹表面に電圧かけたときに電荷分布はどうなる？→ラプラス方程式のグリーン関数を使えば解析的にごり押せるぞ！ グリーン関数を使った電磁場計算は何度か私もやってみたことがあるけれども、これはとても良さげな教育的な資料だあ  math-ph NC
+hep-th NC</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211111</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211111/</link>
+      <pubDate>Sat, 13 Nov 2021 09:43:22 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211111/</guid>
+      <description>cond-mat  Light propagation and magnon-photon coupling in optically dispersive magnetic media:
+Dispersive magneto-optical effect is considered, and EM field is quantised phenomenologically. Magnetisation precession is written in terms of a magnon, which is coupled with photons. The coupling strength is enhanced at the epsilon near zero frequency. Previous, related work by the same authors available here Emergence of Floquet edge states in the coupled Su-Schrieffer-Heeger model:
+SSH bi-chains would be a good starting point before studying bilayer graphene etc.</description>
+    </item>
+    
     <item>
       <title>Arxiv211110</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv211110/</link>
