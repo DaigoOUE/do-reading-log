@@ -111,9 +111,9 @@ url = "/archives/"
 weight = 10
 
 [[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
+identifier = "tags"
+name = "tags"
+url = "/tags/"
 weight = 20
 
 [[menu.main]]
