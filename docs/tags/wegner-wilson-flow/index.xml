@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wegner-Wilson flow on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/wegner-wilson-flow/</link>
+    <description>Recent content in Wegner-Wilson flow on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Oct 2021 11:50:09 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/wegner-wilson-flow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arxiv 211020</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211020/</link>
+      <pubDate>Thu, 21 Oct 2021 11:50:09 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211020/</guid>
+      <description>cond-mat   今日は投稿数が少なめ．
+  相変わらず原子層物質を重ねる研究がいろいろ投稿されている． 光学応答や電気伝導特性を調べるなど．
+  合金の研究もちらほらとみられる． DFTを使って調べるものがいろいろある印象．
+  カゴメ格子な物質の研究もちらほらある印象． 例えば，2110.09816はCDWと超伝導が共存する物質があることを見つけた報告． 2110.09782はカゴメ格子のバイレイヤーにDirac nodal lineが出たり，圧力印加で超伝導になったり，という話．
+  昨日も見かけたけれども，0Cから1000C近くまで温度を振って物性を調べる材料屋さんの研究がすごい． 例えば，2110.09791．
+  2110.09583: phonon-assistedでexcitonが発光するとスペクトルが非対称になる話．
+  2110.10119: multiferroicsで磁気スキルミオンができれば電気スキルミオンもできるんじゃない？という量子計算によるシミュレーション． マルチフェロというエキゾチックな物質のことを量子計算でシミュレーションするってキーワードとして新しいものモリモリだなあ．
+  event-chain monte carloというものがあるらしい．レビュー記事．
+  Wegner-Wilson flowというものがあるらしい
+ Wegner-Wilson flow is a robust algorithm for constructing (numerical) functional renormalization flow from a given many-body Hamiltonian to its diagonalized form. In perturbative cases it correctly reproduces results obtained using Feynman diagrams [41], however, its true value lies in its non-pertubative nature, rooted in convergence properties for finite systems akin to those of the Jacobi rotation method for exact diagonalization [41, 42].</description>
+    </item>
+    
+  </channel>
+</rss>

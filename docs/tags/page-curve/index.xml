@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Page curve on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/page-curve/</link>
+    <description>Recent content in Page curve on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Nov 2021 10:06:49 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/page-curve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211029</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211029/</link>
+      <pubDate>Mon, 01 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211029/</guid>
+      <description>cond-mat   cond-matでちらほらと見かけるCharge Density Wave、名前だけ聞いたことあるなあ状態やったけど、チラッと調べてみたら、
+ Most CDW&amp;rsquo;s in metallic crystals form due to the wave-like nature of electrons
+ ということらしく、なるほどなあとなった。CDWの兄弟にSpin Density Waveもいる
+  nanoARPES: ARPES goes nanoscale!
+  cond-matを眺めていると、Boltzmann kinetic equationをちらほらと見かける。自分のいる分野ではあまり馴染みがないのだけれども、物理をしている人としてはやはり運動論というfundamentalを理解しておきたい気持ちになっている。例えば、Magnus spin Hall and spin Nernst effects in 2D Rashba systems with Zeeman-splittingとかおもしろそうなあって見るなどした。 free spaceの電磁気もまだまだちゃんと分かれてないところあるけど、媒質中のことに強い興味を持っている人としてcond-matの王道テクを一通りなんとなくでも知っておきたいんだよなあ。
+  今まで、薄膜を調べる研究のモチベがちゃんとわかってなかったけど、この頃cond-mat.supr-conあたりを眺めていて、少しずつ面白さを感じれるようになってきた気がする。例えばFragile pressure-induced magnetism in FeSe superconductors with a thickness reductionを見て、系を薄くしていくと、phase diagramが変化する (ネマチック相はあまりうごかないけど、磁気秩序相は膜圧変化に敏感であるとか) けど、超伝導という特殊な状態はどう影響を受ける？とか確かになかなか面白い問題だなあと思うなどした。
+よくよく考えると、自分の分野でも膜圧を薄くすることで表面状態の寄与が重要になって系を薄くしただけでバルクの場合とは違うこと起こるよね、という話はあって(e.g. superlensing by hyperbolic metamaterials) 確かに薄膜は大事だ…！となった</description>
+    </item>
+    
+  </channel>
+</rss>

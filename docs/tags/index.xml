@@ -8,6 +8,205 @@
       <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://daigooue.github.io/do-reading-log/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Nov 2021 10:16:59 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Landauer&#39;s principle</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/landauers-principle/</link>
+      <pubDate>Thu, 11 Nov 2021 10:16:59 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/landauers-principle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>action-angle coordinate</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/action-angle-coordinate/</link>
+      <pubDate>Mon, 08 Nov 2021 11:26:36 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/action-angle-coordinate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nekhoroshev estimates</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/nekhoroshev-estimates/</link>
+      <pubDate>Mon, 08 Nov 2021 11:26:36 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/nekhoroshev-estimates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymptotic symmetry</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/asymptotic-symmetry/</link>
+      <pubDate>Tue, 02 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/asymptotic-symmetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decoherent histories</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/decoherent-histories/</link>
+      <pubDate>Tue, 02 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/decoherent-histories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dilated convolution</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/dilated-convolution/</link>
+      <pubDate>Tue, 02 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/dilated-convolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>magnetic bubble</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/magnetic-bubble/</link>
+      <pubDate>Tue, 02 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/magnetic-bubble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SYK model</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/syk-model/</link>
+      <pubDate>Tue, 02 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/syk-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CDW</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/cdw/</link>
+      <pubDate>Mon, 01 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/cdw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kekulé distortion</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/kekul%C3%A9-distortion/</link>
+      <pubDate>Mon, 01 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/kekul%C3%A9-distortion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nanoARPES</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/nanoarpes/</link>
+      <pubDate>Mon, 01 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/nanoarpes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Page curve</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/page-curve/</link>
+      <pubDate>Mon, 01 Nov 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/page-curve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schwinger model</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/schwinger-model/</link>
+      <pubDate>Fri, 29 Oct 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/schwinger-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zernike polynomials</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/zernike-polynomials/</link>
+      <pubDate>Fri, 29 Oct 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/zernike-polynomials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boson sampling</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/boson-sampling/</link>
+      <pubDate>Fri, 29 Oct 2021 10:06:45 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/boson-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>f-theory</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/f-theory/</link>
+      <pubDate>Fri, 22 Oct 2021 12:00:31 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/f-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lefschetz-thimble path integral</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/lefschetz-thimble-path-integral/</link>
+      <pubDate>Fri, 22 Oct 2021 12:00:31 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/lefschetz-thimble-path-integral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luttinger’s theorem</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/luttingers-theorem/</link>
+      <pubDate>Fri, 22 Oct 2021 12:00:31 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/luttingers-theorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Density matrix embedding theory</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/density-matrix-embedding-theory/</link>
+      <pubDate>Thu, 21 Oct 2021 11:50:09 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/density-matrix-embedding-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-chain Monte Carlo</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/event-chain-monte-carlo/</link>
+      <pubDate>Thu, 21 Oct 2021 11:50:09 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/event-chain-monte-carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schmidt decompostion</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/schmidt-decompostion/</link>
+      <pubDate>Thu, 21 Oct 2021 11:50:09 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/schmidt-decompostion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wegner-Wilson flow</title>
+      <link>https://daigooue.github.io/do-reading-log/tags/wegner-wilson-flow/</link>
+      <pubDate>Thu, 21 Oct 2021 11:50:09 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/tags/wegner-wilson-flow/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nekhoroshev estimates on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/nekhoroshev-estimates/</link>
+    <description>Recent content in Nekhoroshev estimates on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Nov 2021 11:26:36 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/nekhoroshev-estimates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211108</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211108/</link>
+      <pubDate>Mon, 08 Nov 2021 11:26:36 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211108/</guid>
+      <description>cond-mat  今日は投稿数が少ない．cross-listsを除くと38しかない． Giant oscillatory Gilbert damping in superconductor/ferromagnet/superconductor junctions:
+強磁性体を超伝導体で挟んでできるアンドレーエフ束縛状態がギルバート減衰の振動を引き起こすのが見えるっ！  quant-ph  Sympathetic cooling and squeezing of two co-levitated nanoparticles:
+ナノ粒子間にクーロン相互作用があれば、片方をレーザー冷却すれば、もう一方も間接的に冷却されるという実験。言われてみれば「そうかも」となるけどちゃんと実験できるのすごい。 Reachable Set Characterization of Open Quantum System by Quantum Speed Limit:
+マルコフな開放系の量子速度限界→ユニタリ量子ゲートで移れる先を規定する。システムのセットアップからexplicitに計算できて、よりキツい必要条件を与えてくれる✅  physics   Topological interface states induced by incident angle in the 1D elastic wave system:
+二つのフォノニック結晶の間にトポロジカルに保護された弾性波が作れる🍩トポロジカルフォノニクスかあ
+  Photonic ℤ2 topological Anderson insulators:
+フォトニック結晶にdisorderを入れる→量子スピンホールAnderson(P対称性保護アリ)・Z_2 Anderson (対称性保護ナシ)になる。散乱問題からフリーデル位相(に相当するもの)を計算するなど．
+(トポロジカル数が構成できる)o.🍩
+ Anderson局在:散乱体まわりに局在状態ができる。この効果が大きいと、トポロジカルに保護された状態を壊したり、発生させたりする(Anderson TI)。 P対称性のアリ・ナシは電場と磁場(これらが擬スピンを担う→量子「スピン」ホール状態)を混ぜない・混ぜるに対応する    Optical-pump terahertz-probe spectroscopy of the topological crystalline insulator Pb1-xSnxSe through the topological phase transition:</description>
+    </item>
+    
+  </channel>
+</rss>

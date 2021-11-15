@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zernike polynomials on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/zernike-polynomials/</link>
+    <description>Recent content in Zernike polynomials on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 29 Oct 2021 10:06:49 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/zernike-polynomials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211028</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211028/</link>
+      <pubDate>Fri, 29 Oct 2021 10:06:49 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211028/</guid>
+      <description>cond-mat   Schwinger model: 1+1次元の電磁場×荷電フェルミ粒子のモデル。厳密に解けるらしい。 二つの荷電粒子の間の相互作用ポテンシャルが距離に対して線形に増大するため、QCDで登場するような「閉じ込め効果」が発生する。
+ Zernike polynomialという円筒座標系で活躍する素性の良い多項式たち。 Tavis-Cummings Model = Dicke model    Light-modulated Josephson effect in Kekulé patterned graphene: 円偏光を当てると，グラフェンで作ったジョセフソン接合を変調できる．アンドレーエフ反射を誘発したり，バレー・運動量ロッキング状態を作ったりできるらしい．原子層物質アツいなあ
+  First-principles calculations of phonon transport across a vacuum gap: 2物体 (made of silicon) を近づけたときに，真空ギャップを電子がトンネリングして，熱 (フォノン) の輸送が駆動される．
+十分近接させると，よく議論されている輻射伝熱 (including near field contribution) の寄与を上回るらしい．
+  Pair Fluctuation Effects on Quasiparticle Transport in Fermi Systems: ケルディッシュの非平衡グリーン関数→ボルツマン輸送方程式でクーパー対の生成消滅がおこるゆらぎの激しいところを調べる理論
+  Infrared imaging of samples in ultra high pressure diamond anvil cells: ダイヤモンドアンヴィルセルで高圧掛けて超伝導←赤外でイメージングする</description>
+    </item>
+    
+  </channel>
+</rss>
