@@ -9,7 +9,16 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Dec 2021 14:07:34 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 14:07:37 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211126</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211126/</link>
+      <pubDate>Wed, 01 Dec 2021 14:07:37 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211126/</guid>
+      <description>今日は特に引っかかるものがなし😷</description>
+    </item>
+    
     <item>
       <title>Arxiv211125</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv211125/</link>
@@ -22,6 +31,20 @@ quant-ph  Harmonic oscillator kicked by spin measurements: a Floquet-like system
 アダマールの方法でシステマチックに低次元の電磁気を考えよう！何はともあれいったん3+1次元のマクスウェルに戻るのが良いよねっていう話⚡️ Direct generation of entangled photon pairs in nonlinear optical waveguides:
 量子もつれ光子対を発生させたい？非線形光学媒質で光ファイバー作って対向ビーム中に浸せば簡単にできるよ！という理論提案✏️ Multiple super-resolution imaging from Mikaelian lens to generalized Maxwell&amp;rsquo;s fish-eye lens:
 固浸な魚眼レンズを使って超解像を実現しよう理論🐟  math-ph NC
+hep-th NC</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211124</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211124/</link>
+      <pubDate>Wed, 01 Dec 2021 14:07:08 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211124/</guid>
+      <description>cond-mat NC
+quant-ph  Steady motional entanglement between two distant levitated nanoparticles:
+10km以上離れた２つのオプトメカニクス at 室温 in 共振器 を量子もつれ状態にすることができるよ理論。共振器モード同士が超強結合になれるのがポイント⚡️ Theory of lasing in a two-dimensional array of plasmonic nanolasers:
+レーザー媒質に金属ナノ粒子アレイをぶっこむと反転分布なしでレーザー発振が起こるぞ理論⚡️  physics NC
+math-ph NC
 hep-th NC</description>
     </item>
     
