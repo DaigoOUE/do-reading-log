@@ -9,7 +9,45 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Nov 2021 09:42:12 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 14:07:34 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211125</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211125/</link>
+      <pubDate>Wed, 01 Dec 2021 14:07:34 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211125/</guid>
+      <description>cond-mat NC
+quant-ph  Harmonic oscillator kicked by spin measurements: a Floquet-like system without classical analogous:
+周期Tごとにスピンを測定される調和振動子のダイナミクス📈  physics  Dimensional reduction of electromagnetism:
+アダマールの方法でシステマチックに低次元の電磁気を考えよう！何はともあれいったん3+1次元のマクスウェルに戻るのが良いよねっていう話⚡️ Direct generation of entangled photon pairs in nonlinear optical waveguides:
+量子もつれ光子対を発生させたい？非線形光学媒質で光ファイバー作って対向ビーム中に浸せば簡単にできるよ！という理論提案✏️ Multiple super-resolution imaging from Mikaelian lens to generalized Maxwell&amp;rsquo;s fish-eye lens:
+固浸な魚眼レンズを使って超解像を実現しよう理論🐟  math-ph NC
+hep-th NC</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211122</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211122/</link>
+      <pubDate>Wed, 01 Dec 2021 14:06:58 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211122/</guid>
+      <description>cond-mat  Multimode optomechanical weighting of a single nanoparticle:
+オプトメカニクスにナノ粒子を乗せる←電顕で観察 ↓ 機械振動周波数がシフト←スペクトルアナライザで検出 超ハイテク実験だあ…⚙💡  quant-ph NC
+physics  Faraday effect optical sensing of single-molecules by graphene-based layered structures:
+フォトニック結晶にギャップの開いたグラフェンを乗せれば、1分子ファラデー回転を検出できるほどのデバイスが出来上がるよっていうシミュレーション🧲💡 Eigenvalue topology of non-Hermitian band structures in two and three dimensions:
+非エルミート行列の固有値トポロジーはブレイド群で分類できるよ理論🪢  math-ph NC
+hep-th NC</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211119</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211119/</link>
+      <pubDate>Mon, 22 Nov 2021 09:42:23 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211119/</guid>
+      <description>今日はとくにコレ！というプレプリがなかった． なかったんじゃなくて自分がドタバタしてたからアンテナを広く貼る余裕がなかったのかしら？ 定期的にそういう日が訪れるが， もしそうなら気をつけないとだよなあっていう気持ち😷</description>
+    </item>
+    
     <item>
       <title>Arxiv211117</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv211117/</link>
