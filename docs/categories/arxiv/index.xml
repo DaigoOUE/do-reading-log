@@ -63,6 +63,20 @@ hep-th NC</description>
     </item>
     
     <item>
+      <title>Arxiv211118</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211118/</link>
+      <pubDate>Mon, 22 Nov 2021 09:42:17 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211118/</guid>
+      <description>cond-mat NC
+quant-ph  Influence functional for two mirrors interacting via radiation pressure:
+オプトメカニカルハミルトニアンがある系を考えるのにFeynman-Vernonのノリで電磁場の自由度を積分するとメカニカルな自由度についての一般化Langevinが出るよ:chart_with_upwards_trend:  physics  A graphene inspired electromagnetic superlens:
+グラフェンをドープしてnpn接合を作るとディラック電子のレンズを作れるという話、フォトニクスに逆輸入できるぞよ理論🔍  math-ph NC
+hep-th  Quantum hydrodynamics of spinning particles in electromagnetic and torsion fields:
+多体系 in 捩れた空間 w/ 電磁場を計算できる量子流体モデルをFoldy-Wouthuysen変換を使って一般共変Diracから出そうって話。これは凄そう  </description>
+    </item>
+    
+    <item>
       <title>Arxiv211117</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv211117/</link>
       <pubDate>Mon, 22 Nov 2021 09:42:12 +0900</pubDate>
