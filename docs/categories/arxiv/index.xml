@@ -9,7 +9,35 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Dec 2021 14:07:34 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 14:07:44 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211130</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211130/</link>
+      <pubDate>Wed, 01 Dec 2021 14:07:44 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211130/</guid>
+      <description>cond-mat NC
+quant-ph  Quantum mechanics of fermion confined to a curved surface in Foldy-Wouthuysen representation:
+Foldy-Wouthuysen-Tani法で曲がった面に張り付いた電子の有効ハミルトニアンを計算。トーラスの上にいる電子の例あり🍩  physics NC
+math-ph NC
+hep-th NC</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211129</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211129/</link>
+      <pubDate>Wed, 01 Dec 2021 14:07:41 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211129/</guid>
+      <description>cond-mat  Non-Markovian systems out of equilibrium: Exact results for two routes of coarse graining:
+Beyond Markovianなダイナミクスを出す二つの方法: 射影演算子法と熱浴のトレースアウトは異なる一般化ランジュバンを出す。射影演算子法の方から出るものは一般化揺動散逸関係を満たすが、他方はそうではない。非平衡状態の粗視化はむつかしいなあ。 Ballistic flow of two-dimensional electrons in a magnetic field:
+磁場アリ&amp;amp;不純物少ない2D系での電気伝導: バリスティックからハイドロ領域まで。運動論でホール伝導etc.を解析できる🌋  quant-ph   The geometry of spacetime from quantum measurements:
+相対論における時空の幾何, e.g. 計量, を再現する検出器⊗量子場のセットアップ。検出器を量子測定すればinterval etc.を得られるような設定が作れる。 相対論×量子論イイネ👍
+  Quantum magnonics: when magnon spintronics meets quantum information science:
+マグノンを使って量子情報をやろう！というレビュー。最近では、単一マグノン状態、マグノンの圧搾・量子もつれなどが実現できていて量子情報への応用の機運が高まっている。超伝導量子ビット・キャビティ光子・NV中心などの他プラットフォームとの親和性も◎
+  Ultrastrong Coupling of a Qubit with a Nonlinear Optical Resonator:</description>
+    </item>
+    
     <item>
       <title>Arxiv211125</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv211125/</link>
@@ -37,6 +65,20 @@ quant-ph  Steady motional entanglement between two distant levitated nanoparticl
 レーザー媒質に金属ナノ粒子アレイをぶっこむと反転分布なしでレーザー発振が起こるぞ理論⚡️  physics NC
 math-ph NC
 hep-th NC</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211123</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211123/</link>
+      <pubDate>Wed, 01 Dec 2021 14:07:04 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211123/</guid>
+      <description>cond-mat NC
+quant-ph  Cavity optomechanics with ultra-cold Bose gases for quasiparticle state manipulation and prospects for sensing applications:
+冷却原子気体をキャビティに入れて実現するオプトメカニクス。レーザー駆動で1モード圧搾、2モード圧搾、モードスワッピングなどが可能。 光学系×冷却原子系なんでもできちゃいそうなセットアップやあ  physics NC
+math-ph NC
+hep-th  Dyson gas on a curved contour:
+曲がった空間にいるDyson gasを調べられる理論  </description>
     </item>
     
     <item>

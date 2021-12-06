@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bekenstein conjecture on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/bekenstein-conjecture/</link>
+    <description>Recent content in Bekenstein conjecture on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Dec 2021 14:07:41 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/bekenstein-conjecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211129</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211129/</link>
+      <pubDate>Wed, 01 Dec 2021 14:07:41 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211129/</guid>
+      <description>cond-mat  Non-Markovian systems out of equilibrium: Exact results for two routes of coarse graining:
+Beyond Markovianなダイナミクスを出す二つの方法: 射影演算子法と熱浴のトレースアウトは異なる一般化ランジュバンを出す。射影演算子法の方から出るものは一般化揺動散逸関係を満たすが、他方はそうではない。非平衡状態の粗視化はむつかしいなあ。 Ballistic flow of two-dimensional electrons in a magnetic field:
+磁場アリ&amp;amp;不純物少ない2D系での電気伝導: バリスティックからハイドロ領域まで。運動論でホール伝導etc.を解析できる🌋  quant-ph   The geometry of spacetime from quantum measurements:
+相対論における時空の幾何, e.g. 計量, を再現する検出器⊗量子場のセットアップ。検出器を量子測定すればinterval etc.を得られるような設定が作れる。 相対論×量子論イイネ👍
+  Quantum magnonics: when magnon spintronics meets quantum information science:
+マグノンを使って量子情報をやろう！というレビュー。最近では、単一マグノン状態、マグノンの圧搾・量子もつれなどが実現できていて量子情報への応用の機運が高まっている。超伝導量子ビット・キャビティ光子・NV中心などの他プラットフォームとの親和性も◎
+  Ultrastrong Coupling of a Qubit with a Nonlinear Optical Resonator:</description>
+    </item>
+    
+  </channel>
+</rss>
