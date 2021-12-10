@@ -12,10 +12,10 @@
     <lastBuildDate>Fri, 22 Oct 2021 12:00:31 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/f-theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>arxiv 211022</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211022/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211022/</link>
       <pubDate>Fri, 22 Oct 2021 12:00:31 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211022/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211022/</guid>
       <description>今日は溜め込んでいた計算をやるのでドタバタしていて， arxivチェックが遅くになってしまった． twitterを眺めると「3次元Isingの厳密解が求まった話 (本当かはわからない) 」がarxivにannounceされて話題になっているようだった． すでにMDPIのSymmetryに載っているものらしい (see here)． ちなみに2次元の場合の厳密解の論文はこれらしい．
 cond-mat  今日もカゴメ格子論文がちらほら ねじれ2層TMDも相変わらずホットらしい． 例えば， トポ超伝導になったり， スピン液体をホストしたりするらしい． 量子ケルビンヘルムホルツ不安定性！！ ラッティンジャーの定理というものがあるらしい． ボゾニック名系ばっかり触ってきたからか，これまでに聞いたこともなかった&amp;hellip;  Luttinger&amp;rsquo;s theorem states that the volume enclosed by a material&amp;rsquo;s Fermi surface is directly proportional to the particle density. While the theorem is an immediate result of the Pauli exclusion principle in the case of noninteracting particles, it remains true even as interactions between particles are taken into consideration provided that the appropriate definitions of Fermi surface and particle density are adopted.</description>
     </item>

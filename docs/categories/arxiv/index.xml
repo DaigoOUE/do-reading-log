@@ -9,13 +9,53 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Dec 2021 14:07:44 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 13:38:16 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211203</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211203/</link>
+      <pubDate>Thu, 09 Dec 2021 13:38:16 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211203/</guid>
+      <description>cond-mat  Dirac materials under linear polarized light: quantum wave function evolution and topological Berry phases as classical charged particles trajectories under electromagnetic fields:
+ディラック物質に電磁場照射←Hillの微分方程式(Mattheuを一般化したやつ)で書ける←Mattheuは断熱の寄与を与えるのでHillからMattheuを差し引けば非断熱の寄与を評価できる🤒 De Haas-van Alphen effect in graphene:
+機械振動素子の上にグラフェンを乗せて磁場かけて、振動子の共鳴振動数の磁場依存性をみた実験⇒ドハース・ファンアルフェン効果🧲.o(Massless DiracのdHvAが見えたよ〜  De Haas–Van Alphen effect:   magnetic susceptibility of a pure metal crystal oscillates as the intensity of the magnetic field B is increased. comes from the orbital motion of itinerant electrons in the material.
+   quant-ph  Frustrated Superradiant Phase Transition:</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211202</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211202/</link>
+      <pubDate>Thu, 09 Dec 2021 13:38:14 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211202/</guid>
+      <description>cond-mat  Nanomechanics driven by the superconducting proximity effect:
+超伝導体で挟まれたナノチューブは近接効果による超伝導状態の染み出しを感じて、バイアス電圧があると機械振動し始めるらしい  quant-ph  A quantum Fourier transform on photonic qubits using cavity-QED:
+共振器⊗量子系の系で量子フーリエ変換が簡単に実装できるよ！という提案。当該の系では遅延のあるフィードバックを掛けることができて(量子系の遷移振幅を変調する)、これをうまくtuneする事で光子が担う量子情報を量子フーリエ変換できるらしい。  quantum Fourier transform:   複数の離散フーリエ変換振幅に持つ量子状態を生成するアルゴリズム
+   physics  Asymmetric topological pumping in nonparaxial photonics:
+フォトニック系 ∈ 非近軸領域だと非相反トポロジカルポンプができるよ🍩 近軸近似 (“∂_𝑥,𝑦 ≫∂_𝑧”) するとMaxwell ≈ Schrödingerで、この対応を使って昨今の物性のおもろい色んなことを輸入している。フォトニック系ゆえのおもろいとこに踏み込もうという素敵な方向性やなあ  math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211201</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211201/</link>
+      <pubDate>Thu, 09 Dec 2021 13:38:07 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211201/</guid>
+      <description>cond-mat  Decoding the conductance of disordered nanostructures: a quantum inverse problem:
+伝導度スペクトルから不純物の分布を推定する量子逆散乱問題。inverse problemっていいよねえ  quant-ph  Critical phase boundary and finite-size fluctuations in Su-Schrieffer-Heeger model with random inter-cell couplings:
+ホッピング振幅がランダムに変調された (disordered) SSH模型を調べた論文⛓ スピングラス然り、こういうdisorder入れてみよう系の研究に少しずつ興味を持ち始めているこの頃  physics  Spatiotemporal steering of light using magnetic textures:
+動的な磁気テクスチャで縞々をつくる→光の波面のアクティブコントロール💡  math-ph NA
+hep-th  Relativistic Extended Uncertainty Principle from Spacetime Curvature:
+バックグラウンドの時空が曲がっていることによる不確定性原理の補正を摂動的に評価しよう理論🕸 Dynamical Casimir effect from fermions in an oscillating bag in 1+1 dimensions:</description>
+    </item>
+    
     <item>
       <title>Arxiv211130</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211130/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211130/</link>
       <pubDate>Wed, 01 Dec 2021 14:07:44 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211130/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211130/</guid>
       <description>cond-mat NC
 quant-ph  Quantum mechanics of fermion confined to a curved surface in Foldy-Wouthuysen representation:
 Foldy-Wouthuysen-Tani法で曲がった面に張り付いた電子の有効ハミルトニアンを計算。トーラスの上にいる電子の例あり🍩  physics NC
@@ -25,10 +65,10 @@ hep-th NC</description>
     
     <item>
       <title>Arxiv211129</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211129/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211129/</link>
       <pubDate>Wed, 01 Dec 2021 14:07:41 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211129/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211129/</guid>
       <description>cond-mat  Non-Markovian systems out of equilibrium: Exact results for two routes of coarse graining:
 Beyond Markovianなダイナミクスを出す二つの方法: 射影演算子法と熱浴のトレースアウトは異なる一般化ランジュバンを出す。射影演算子法の方から出るものは一般化揺動散逸関係を満たすが、他方はそうではない。非平衡状態の粗視化はむつかしいなあ。 Ballistic flow of two-dimensional electrons in a magnetic field:
 磁場アリ&amp;amp;不純物少ない2D系での電気伝導: バリスティックからハイドロ領域まで。運動論でホール伝導etc.を解析できる🌋  quant-ph   The geometry of spacetime from quantum measurements:
@@ -40,10 +80,10 @@ Beyond Markovianなダイナミクスを出す二つの方法: 射影演算子�
     
     <item>
       <title>Arxiv211125</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211125/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211125/</link>
       <pubDate>Wed, 01 Dec 2021 14:07:34 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211125/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211125/</guid>
       <description>cond-mat NC
 quant-ph  Harmonic oscillator kicked by spin measurements: a Floquet-like system without classical analogous:
 周期Tごとにスピンを測定される調和振動子のダイナミクス📈  physics  Dimensional reduction of electromagnetism:
@@ -55,10 +95,10 @@ hep-th NC</description>
     
     <item>
       <title>Arxiv211124</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211124/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211124/</link>
       <pubDate>Wed, 01 Dec 2021 14:07:08 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211124/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211124/</guid>
       <description>cond-mat NC
 quant-ph  Steady motional entanglement between two distant levitated nanoparticles:
 10km以上離れた２つのオプトメカニクス at 室温 in 共振器 を量子もつれ状態にすることができるよ理論。共振器モード同士が超強結合になれるのがポイント⚡️ Theory of lasing in a two-dimensional array of plasmonic nanolasers:
@@ -69,10 +109,10 @@ hep-th NC</description>
     
     <item>
       <title>Arxiv211123</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211123/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211123/</link>
       <pubDate>Wed, 01 Dec 2021 14:07:04 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211123/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211123/</guid>
       <description>cond-mat NC
 quant-ph  Cavity optomechanics with ultra-cold Bose gases for quasiparticle state manipulation and prospects for sensing applications:
 冷却原子気体をキャビティに入れて実現するオプトメカニクス。レーザー駆動で1モード圧搾、2モード圧搾、モードスワッピングなどが可能。 光学系×冷却原子系なんでもできちゃいそうなセットアップやあ  physics NC
@@ -83,10 +123,10 @@ hep-th  Dyson gas on a curved contour:
     
     <item>
       <title>Arxiv211122</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211122/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211122/</link>
       <pubDate>Wed, 01 Dec 2021 14:06:58 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211122/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211122/</guid>
       <description>cond-mat  Multimode optomechanical weighting of a single nanoparticle:
 オプトメカニクスにナノ粒子を乗せる←電顕で観察 ↓ 機械振動周波数がシフト←スペクトルアナライザで検出 超ハイテク実験だあ…⚙💡  quant-ph NC
 physics  Faraday effect optical sensing of single-molecules by graphene-based layered structures:
@@ -97,19 +137,19 @@ hep-th NC</description>
     
     <item>
       <title>Arxiv211119</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211119/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211119/</link>
       <pubDate>Mon, 22 Nov 2021 09:42:23 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211119/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211119/</guid>
       <description>今日はとくにコレ！というプレプリがなかった． なかったんじゃなくて自分がドタバタしてたからアンテナを広く貼る余裕がなかったのかしら？ 定期的にそういう日が訪れるが， もしそうなら気をつけないとだよなあっていう気持ち😷</description>
     </item>
     
     <item>
       <title>Arxiv211118</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211118/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211118/</link>
       <pubDate>Mon, 22 Nov 2021 09:42:17 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211118/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211118/</guid>
       <description>cond-mat NC
 quant-ph  Influence functional for two mirrors interacting via radiation pressure:
 オプトメカニカルハミルトニアンがある系を考えるのにFeynman-Vernonのノリで電磁場の自由度を積分するとメカニカルな自由度についての一般化Langevinが出るよ:chart_with_upwards_trend:  physics  A graphene inspired electromagnetic superlens:
@@ -120,10 +160,10 @@ hep-th  Quantum hydrodynamics of spinning particles in electromagnetic and torsi
     
     <item>
       <title>Arxiv211117</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211117/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211117/</link>
       <pubDate>Mon, 22 Nov 2021 09:42:12 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211117/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211117/</guid>
       <description>cond-mat NC
 quant-ph  Optical sensing of magnons via the magnetoelastic displacement:
 磁気弾性効果による変形をオプトメカニカルに検出できるよ理論🧲⚙💡スクイーズド光使えば感度アップはLIGO的アイデアやなあ。たしかにcond-matな系でも使えそうではあるよなあ  physics  Introduction to theory of high-harmonic generation in solids: tutorial:
@@ -137,10 +177,10 @@ double field theoryを使うと見通しよくフラクトンを調べられる�
     
     <item>
       <title>Arxiv211116</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211116/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211116/</link>
       <pubDate>Mon, 22 Nov 2021 09:42:09 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211116/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211116/</guid>
       <description>cond-mat  Axion Electrodynamics in Topological Insulators for beginners:
 アクシオンあり系の電磁場解析の講義ノート。応用例として、トポロジカル絶縁体の表面付近に電荷を置いた時の鏡像法w/アクシオンの計算が載っている⚡️ Extremely confined gap plasmon modes: when nonlocality matters:
 走査型近接場光学顕微鏡でめちゃ狭いギャップ(金属-誘電体-金属構造)に閉じ込められた非局所性ありありなプラズモンモードをみる👁伝搬長を見ることで非局所性の効いてる分散関係がわかりました実験  quant-ph  Renormalization group for open quantum systems using environment temperature as flow parameter:
@@ -152,10 +192,10 @@ hep-th NC</description>
     
     <item>
       <title>Arxiv211115</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211115/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211115/</link>
       <pubDate>Mon, 22 Nov 2021 09:42:06 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211115/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211115/</guid>
       <description>cond-mat  Time-linear scaling NEGF methods for real-time simulations of interacting electrons and bosons. I. Formalism:
 600ページ本でおなじみのStefanucci &amp;amp; van Leeuwenらによる 電子とボゾンの共存する系の実時間ダイナミクスを非平衡グリーン関数→カダノフベイム方程式(w/ 適切なtruncation)で計算しよう論文🧮 ポーラロンやダブロンを計算した例もついてる Acoustic topological Anderson insulators:
 めちゃつよ散乱体を置くとトポロジカルな状態を壊すどころか逆にトポロジカルな状態が発生するやつ(Andersonトポロジカル絶縁体)、acousticな系ならできるよ！という実験🔊 Imaging Hydrodynamic Electrons Flowing Without Landauer-Sharvin Resistance:
@@ -167,10 +207,10 @@ hep-th NC</description>
     
     <item>
       <title>Arxiv211112</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211112/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211112/</link>
       <pubDate>Sat, 13 Nov 2021 09:43:26 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211112/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211112/</guid>
       <description>昨日・今日と気になるプレプリが少ない日だった気がするのは，私の気合が足りなかったからだろうか&amp;hellip;😷
 cond-mat NC
 quant-ph  Nonreciprocal single-photon band structure:
@@ -181,10 +221,10 @@ hep-th NC</description>
     
     <item>
       <title>Arxiv211111</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211111/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211111/</link>
       <pubDate>Sat, 13 Nov 2021 09:43:22 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211111/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211111/</guid>
       <description>cond-mat  Light propagation and magnon-photon coupling in optically dispersive magnetic media:
 Dispersive magneto-optical effect is considered, and EM field is quantised phenomenologically. Magnetisation precession is written in terms of a magnon, which is coupled with photons. The coupling strength is enhanced at the epsilon near zero frequency. Previous, related work by the same authors available here Emergence of Floquet edge states in the coupled Su-Schrieffer-Heeger model:
 SSH bi-chains would be a good starting point before studying bilayer graphene etc.</description>
@@ -192,10 +232,10 @@ SSH bi-chains would be a good starting point before studying bilayer graphene et
     
     <item>
       <title>Arxiv211110</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211110/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211110/</link>
       <pubDate>Thu, 11 Nov 2021 17:04:02 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211110/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211110/</guid>
       <description>今日はなんとなく英語でメモった． メタサーフェスと2D物質の組み合わせでfunctionalityを出す系の研究が実験できるようになっていてすごい． Cherenkov放射の計算をするのにeffective mediumとしてstrong fieldを取り扱うのに注意が必要だよ！という話は自分も気になっていたところで同様のことを考える人がいるもんだなあウンウンという気持ちになった．
 cond-mat  Spatial light modulation at the nanosecond scale with an atomically thin reflector:
 Metasurface married 2D material🎉high-speed beam steering at nano-sec. modulation and strong light-matter coupling💥 Manipulation of Exciton Dynamics in Single-Layer WSe2 Using a Toroidal Dielectric Metasurface:
@@ -205,20 +245,20 @@ Diamonds, assemble!💎 They proposed self-assembly of gyrobifastigial nano diam
     
     <item>
       <title>Arxiv211109</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211109/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211109/</link>
       <pubDate>Thu, 11 Nov 2021 10:16:59 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211109/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211109/</guid>
       <description>cond-mat  Thermodynamics of Precision in Markovian Open Quantum Dynamics:  量子開放系における揺動散逸トレードオフ関係←熱力学的不確定性+量子コヒーレンスで決まるよ〰︎Lindbladマスター方程式を利用した解析。 もはやLindbladは普通すぎてnon-markovianとかstrong couplingに行かないと面白いことない！と思っていた節が正直自分にはあったし、quant-phあたりを見ているとそのような雰囲気を感じる気がした。ゆえに、そのLindbladを熱・統計の専門家が触っている視点は新鮮で楽しいなあ。 先日見かけた「コヒーレンスは散逸を補償する！」という話にも関係が深そう。 トレードオフ関係でいろいろ関連研究を調べてみたら [Nature Communications 10, 1727 (2019)] が面白そうだった．書いてある内容は以下のこと:  ランダウアー限界: 物理的には1ビットの情報を消去する $f: \{0,1\} \mapsto 0$ という操作を行うには少なくとも $kT \ln2$ だけの熱発生を伴う。 ただし、ビット操作を行う環境の温度は$T$で、ビットが0か1かは一様分布で決まっているものとする。 fを任意の関数としたとき、それを実行する物理的コストはどれくらいになるか？という一般化の試みは色々ある。 それらの試みでは、$f$がどのように実装できるかを隠れた状態アリなマスター方程式でモデル化してきた。 しかし、その隠れた状態というものが「最低でもどのくらい必要なのか」を議論したものはない。 また、$f$をマスター方程式でモデル化する際に「どれくらいの時間の刻み幅を必要とするか」を議論したものもない。 これらの「最低限必要な隠れた状態」と「最低限必要な時間の刻み幅」の間にはトレードオフの関係がある。      quant-ph  A hydrodynamic analog of superradiant emission:
 流体の中に複数振動子をを入れる→超放射的挙動=振動子が協同的に波を発生させる。 流体だと単なる波動方程式とは違って移流項がある(=非局所効果がある)ので、これがどのように効いてくるか気になる…！ Variational principle for optimal quantum controls in quantum metrology:  量子フィッシャー情報量を最適化したいか？フロケエンジニアリングせよー！ 三体相互作用のあるスピン鎖系を、二体相互作用以下のコントロールだけで精密に制御できる。多体相関を精密に制御できるプロトコルとは夢があるなあ。    physics  Superradiant atomic recoil lasing with orbital angular momentum light:</description>
     </item>
     
     <item>
       <title>Arxiv211108</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211108/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211108/</link>
       <pubDate>Mon, 08 Nov 2021 11:26:36 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211108/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211108/</guid>
       <description>cond-mat  今日は投稿数が少ない．cross-listsを除くと38しかない． Giant oscillatory Gilbert damping in superconductor/ferromagnet/superconductor junctions:
 強磁性体を超伝導体で挟んでできるアンドレーエフ束縛状態がギルバート減衰の振動を引き起こすのが見えるっ！  quant-ph  Sympathetic cooling and squeezing of two co-levitated nanoparticles:
 ナノ粒子間にクーロン相互作用があれば、片方をレーザー冷却すれば、もう一方も間接的に冷却されるという実験。言われてみれば「そうかも」となるけどちゃんと実験できるのすごい。 Reachable Set Characterization of Open Quantum System by Quantum Speed Limit:
@@ -232,10 +272,10 @@ Diamonds, assemble!💎 They proposed self-assembly of gyrobifastigial nano diam
     
     <item>
       <title>Arxiv211105</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211105/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211105/</link>
       <pubDate>Sat, 06 Nov 2021 11:46:57 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211105/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211105/</guid>
       <description>今日から数式を表示できるようにした！
 cond-mat  Moiré metal for catalysis:
 $\mathrm{NbS_2}$をABスタッキングしてモアレを作る(→バンド構造変調)とプラチナよりもイイ触媒になるぞ！ モアレの時代…！ Real-eigenvalued Non-Hermitian Topological Systems without Parity-Time Symmetry:
@@ -250,10 +290,10 @@ Maxwellと電子流体の従うNavier-Stokesを連立して(二次摂動の範�
     
     <item>
       <title>Arxiv211104</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211104/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211104/</link>
       <pubDate>Sat, 06 Nov 2021 11:46:55 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211104/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211104/</guid>
       <description>cond-mat   Spintronic thermal management: スピン↔熱変換のレビュー論文．スピンゼーベックとかスピンネルンストとか． 冷静に考えてスピンで熱を制御できるようになってきているのすごいよなあ🔥
   Non-Hermitian physics without gain or loss: the skin effect of reflected waves: 複素固有値←散乱行列見れば自然に出てくる．ロスとかゲインとかなくても非エルミートなノリを展開することができるよ論文🧊🍖
   quant-ph   Resolving Mutually Coherent Bright Point-Sources: コヒーレントな２つの光源から発せられる光をモーメント法を使ってdemultiplexingするよ🔍
@@ -264,19 +304,19 @@ math-ph NC</description>
     
     <item>
       <title>Arxiv211103</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211103/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211103/</link>
       <pubDate>Sat, 06 Nov 2021 11:46:50 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211103/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211103/</guid>
       <description>今日はどのカテゴリにも自分に刺さるものがなかった． 相変わらずcond-matは原子層物質の研究が多い印象． physicsではチラホラと機械学習を使った構造最適化の研究が見られる．</description>
     </item>
     
     <item>
       <title>Arxiv211102</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211102/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211102/</link>
       <pubDate>Fri, 05 Nov 2021 10:28:09 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211102/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211102/</guid>
       <description>cond-mat  Nonlinear dynamics of electromagnetic field and valley polarization in WSe2 monolayer: マクスウェルとTDDFTを連立して解く！すごい！ 原子層物質の非線形光学効果を調べるなどしている．  quant-ph NC
 physics  Quantum Kinetic Theory of Plasmas: 高強度場中プラズマのシュウィンガー効果ありありなセットアップを量子運動論(based on relativistic QFT)で解析する話をレビューしたもの⚡イイネ Spontaneous emission rate and the density of states inside a one dimensional photonic crystal: 多層系における電磁場のグリーン関数を計算→DOSが計算できる→熱輻射とかエミッターを入れたときの放射レートなどなど色々計算できる💡 このごろグリーン関数ってイイよね&amp;hellip;😌って感じになっていて理論と少し親しくなってきた感  hep-th NC
 math-ph NC</description>
@@ -284,19 +324,19 @@ math-ph NC</description>
     
     <item>
       <title>Arxiv211101</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211101/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211101/</link>
       <pubDate>Tue, 02 Nov 2021 10:06:49 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211101/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211101/</guid>
       <description>cond-mat  2110.15369をみて、Landauer-Sharvin resistance(inversely proportional to the number of its conduction channels)なるものの存在を知ったのだった。ballistic conductionの場合はコンダクタンス≒チャンネル数ってことやなあ、なるほど。となった。 こういう感じのメゾスコピック系の「チャンネルを数えるノリ」はopticsとも親和性が良さそうなので、仲良くなりたい気持ち。  ballistic conduction:  ballistic conduction (ballistic transport) is the unimpeded flow (or transport) of charge carriers (usually electrons), or energy-carrying particles, over relatively long distances in a material In general, the resistivity of a material exists because an electron, while moving inside a medium, is scattered by impurities, defects, thermal fluctuations of ions in a crystalline solid, or, generally, by any freely-moving atom/molecule composing a gas or liquid.</description>
     </item>
     
     <item>
       <title>Arxiv211029</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211029/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211029/</link>
       <pubDate>Mon, 01 Nov 2021 10:06:49 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211029/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211029/</guid>
       <description>cond-mat   cond-matでちらほらと見かけるCharge Density Wave、名前だけ聞いたことあるなあ状態やったけど、チラッと調べてみたら、
  Most CDW&amp;rsquo;s in metallic crystals form due to the wave-like nature of electrons
  ということらしく、なるほどなあとなった。CDWの兄弟にSpin Density Waveもいる
@@ -308,10 +348,10 @@ math-ph NC</description>
     
     <item>
       <title>Arxiv211028</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211028/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211028/</link>
       <pubDate>Fri, 29 Oct 2021 10:06:49 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211028/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211028/</guid>
       <description>cond-mat   Schwinger model: 1+1次元の電磁場×荷電フェルミ粒子のモデル。厳密に解けるらしい。 二つの荷電粒子の間の相互作用ポテンシャルが距離に対して線形に増大するため、QCDで登場するような「閉じ込め効果」が発生する。
  Zernike polynomialという円筒座標系で活躍する素性の良い多項式たち。 Tavis-Cummings Model = Dicke model    Light-modulated Josephson effect in Kekulé patterned graphene: 円偏光を当てると，グラフェンで作ったジョセフソン接合を変調できる．アンドレーエフ反射を誘発したり，バレー・運動量ロッキング状態を作ったりできるらしい．原子層物質アツいなあ
   First-principles calculations of phonon transport across a vacuum gap: 2物体 (made of silicon) を近づけたときに，真空ギャップを電子がトンネリングして，熱 (フォノン) の輸送が駆動される．
@@ -322,10 +362,10 @@ math-ph NC</description>
     
     <item>
       <title>Arxiv211027</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211027/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211027/</link>
       <pubDate>Fri, 29 Oct 2021 10:06:45 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211027/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211027/</guid>
       <description>cond-mat  Boson samplingという話があるらしい: 行列のpermanent を計算するのにボゾンの散乱→干渉を利用できるという話． 古典コンピュータでやるより圧倒的に速いのがうれしいらしい． Non-linear Boson Sampling: ボゾンサンプリング（上記の，行列のパーマネントをめちゃ速で計算できるやつ）をやるセットアップに非線形性を付与するとより自由度が上がって良いんじゃない？という提案  quant-ph   Entanglement generation by vacuum and thermal phonon fields via the optomechanical interaction: LC共振器-(OMC)-弾性体-(OMC)-LC共振器という設定を作っておくとオプトメカニカルカップリング(OMC)がありおかげでLC共振器間でエンタングルメントが発生．このエンタングルメントは弾性体の温度に影響を受けないというのがつよいなあ．
   Electromagnetic Viscosity in Complex Structured Environments: From black-body to Quantum Friction: 量子ゆらぎや熱ゆらぎが原因で真空中でも摩擦が発生する（有効的には粘性抵抗を感じる）話を非マルコフ的効果まで含めて議論できる理論． 量子ゆらぎ由来の粘性抵抗はtest partcleの速度の2乗に比例するのに対して，熱ゆらぎ由来は温度にだけ依存する．
   Angular trapping of a linear-cavity mirror with an optical torsional spring: 2枚のミラーを平行に置いて作るオプトメカニクスはミラーが傾いてしまう方向に力がかかると不安定になってしまう→ミラーの傾き角をフィードバックコントロールしよう！
@@ -334,10 +374,10 @@ math-ph NC</description>
     
     <item>
       <title>Arxiv211026</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211026/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211026/</link>
       <pubDate>Tue, 26 Oct 2021 10:30:35 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211026/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211026/</guid>
       <description>quant-ph   Repulsive lateral van der Waals force: チャージアリのファンデルワールス効果で横方向成分が出る話． 確かによくよくかんがえてみると， 電磁場計算ではチャージない場合を考えることが多いけど， 電荷を付与してみると電気力線が変わるし色々非自明で面白そうだよなあ
   Dynamical Casimir effect enhanced by decreasing the mirror reflection: 動的カシミール効果による光子生成はパーフェクトなミラーよりも， むしろ (部分的に電磁場を透過する) 不完全なミラーのほうが効率良いらしい． これを1+1次元のmasslessスカラー場の模型を使って示している． 結果は時間依存ロビン境界条件を課した計算を再現するジェネラルなものになっている．
   Example Exact Solutions of the Time-independent Gross-Pitaevskii and Schrodinger Equations: 時間非依存なシュレディンガー方程式とグロス・ピタエフスキー (非線形シュレディンガー) 方程式をきっちり解くはなし． 与えられた任意のポテンシャルに対して確率密度分布 (波動関数) を求めるのではなく， 与えられた波動関数に対してどんなポテンシャルがこれを当該方程式の解たらしめるかを調べるという逆転の発想． かしこい．おもしろい．
@@ -346,10 +386,10 @@ math-ph NC</description>
     
     <item>
       <title>Arxiv211025</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211025/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211025/</link>
       <pubDate>Mon, 25 Oct 2021 10:10:28 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211025/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211025/</guid>
       <description>quant-ph NC
 physics  2110.11559: メタ表面を利用した激薄レンズを使って原子の光トラップできたよ論文．メタ表面レンズ此処までできるとは技術の進歩が目覚ましいなあ．  hep-th  2110.11455: 超対称量子力学で3次元のトポロジカル絶縁体を考えよう． 超対称化の帰結としてスピン軌道が出る． これはSU(2)の接続が出るよーっていうのと同じこと． このSUSYな一般論はいろんな系で使えるらしい． high energyの人たちの目で見るときれいに問題が整理される系の話を聞くたびにすごいなあとなる  math-ph NC
 cond-mat  2110.11352: グラフ上のフォッカープランク方程式． 素性の良い格子の上で議論されてきたものを任意のグラフの上に拡張するというこのノリはグラフフーリエ変換を想起させるなあ 2110.11753: マランゴニ対流のような表面張力や濃度勾配がある系でself-motionが出るよ〜みたいな話． 面白そうだけどpdfが開けない&amp;hellip;😭 2110.11701 🎉  </description>
@@ -357,20 +397,20 @@ cond-mat  2110.11352: グラフ上のフォッカープランク方程式． 素
     
     <item>
       <title>arxiv 211022</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211022/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211022/</link>
       <pubDate>Fri, 22 Oct 2021 12:00:31 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211022/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211022/</guid>
       <description>今日は溜め込んでいた計算をやるのでドタバタしていて， arxivチェックが遅くになってしまった． twitterを眺めると「3次元Isingの厳密解が求まった話 (本当かはわからない) 」がarxivにannounceされて話題になっているようだった． すでにMDPIのSymmetryに載っているものらしい (see here)． ちなみに2次元の場合の厳密解の論文はこれらしい．
 cond-mat  今日もカゴメ格子論文がちらほら ねじれ2層TMDも相変わらずホットらしい． 例えば， トポ超伝導になったり， スピン液体をホストしたりするらしい． 量子ケルビンヘルムホルツ不安定性！！ ラッティンジャーの定理というものがあるらしい． ボゾニック名系ばっかり触ってきたからか，これまでに聞いたこともなかった&amp;hellip;  Luttinger&amp;rsquo;s theorem states that the volume enclosed by a material&amp;rsquo;s Fermi surface is directly proportional to the particle density. While the theorem is an immediate result of the Pauli exclusion principle in the case of noninteracting particles, it remains true even as interactions between particles are taken into consideration provided that the appropriate definitions of Fermi surface and particle density are adopted.</description>
     </item>
     
     <item>
       <title>arxiv 211020</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211020/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211020/</link>
       <pubDate>Thu, 21 Oct 2021 11:50:09 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211020/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211020/</guid>
       <description>cond-mat   今日は投稿数が少なめ．
   相変わらず原子層物質を重ねる研究がいろいろ投稿されている． 光学応答や電気伝導特性を調べるなど．
   合金の研究もちらほらとみられる． DFTを使って調べるものがいろいろある印象．

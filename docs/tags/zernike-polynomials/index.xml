@@ -12,10 +12,10 @@
     <lastBuildDate>Fri, 29 Oct 2021 10:06:49 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/zernike-polynomials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arxiv211028</title>
-      <link>https://daigooue.github.io/do-reading-log/posts/arxiv211028/</link>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211028/</link>
       <pubDate>Fri, 29 Oct 2021 10:06:49 +0900</pubDate>
       
-      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv211028/</guid>
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2110/arxiv211028/</guid>
       <description>cond-mat   Schwinger model: 1+1次元の電磁場×荷電フェルミ粒子のモデル。厳密に解けるらしい。 二つの荷電粒子の間の相互作用ポテンシャルが距離に対して線形に増大するため、QCDで登場するような「閉じ込め効果」が発生する。
  Zernike polynomialという円筒座標系で活躍する素性の良い多項式たち。 Tavis-Cummings Model = Dicke model    Light-modulated Josephson effect in Kekulé patterned graphene: 円偏光を当てると，グラフェンで作ったジョセフソン接合を変調できる．アンドレーエフ反射を誘発したり，バレー・運動量ロッキング状態を作ったりできるらしい．原子層物質アツいなあ
   First-principles calculations of phonon transport across a vacuum gap: 2物体 (made of silicon) を近づけたときに，真空ギャップを電子がトンネリングして，熱 (フォノン) の輸送が駆動される．

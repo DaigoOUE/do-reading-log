@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>De Haas–Van Alphen effect on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/de-haasvan-alphen-effect/</link>
+    <description>Recent content in De Haas–Van Alphen effect on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Dec 2021 13:38:16 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/de-haasvan-alphen-effect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211203</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211203/</link>
+      <pubDate>Thu, 09 Dec 2021 13:38:16 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211203/</guid>
+      <description>cond-mat  Dirac materials under linear polarized light: quantum wave function evolution and topological Berry phases as classical charged particles trajectories under electromagnetic fields:
+ディラック物質に電磁場照射←Hillの微分方程式(Mattheuを一般化したやつ)で書ける←Mattheuは断熱の寄与を与えるのでHillからMattheuを差し引けば非断熱の寄与を評価できる🤒 De Haas-van Alphen effect in graphene:
+機械振動素子の上にグラフェンを乗せて磁場かけて、振動子の共鳴振動数の磁場依存性をみた実験⇒ドハース・ファンアルフェン効果🧲.o(Massless DiracのdHvAが見えたよ〜  De Haas–Van Alphen effect:   magnetic susceptibility of a pure metal crystal oscillates as the intensity of the magnetic field B is increased. comes from the orbital motion of itinerant electrons in the material.
+   quant-ph  Frustrated Superradiant Phase Transition:</description>
+    </item>
+    
+  </channel>
+</rss>

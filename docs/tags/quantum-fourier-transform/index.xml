@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>quantum Fourier transform on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/quantum-fourier-transform/</link>
+    <description>Recent content in quantum Fourier transform on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Dec 2021 13:38:14 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/quantum-fourier-transform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211202</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211202/</link>
+      <pubDate>Thu, 09 Dec 2021 13:38:14 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211202/</guid>
+      <description>cond-mat  Nanomechanics driven by the superconducting proximity effect:
+超伝導体で挟まれたナノチューブは近接効果による超伝導状態の染み出しを感じて、バイアス電圧があると機械振動し始めるらしい  quant-ph  A quantum Fourier transform on photonic qubits using cavity-QED:
+共振器⊗量子系の系で量子フーリエ変換が簡単に実装できるよ！という提案。当該の系では遅延のあるフィードバックを掛けることができて(量子系の遷移振幅を変調する)、これをうまくtuneする事で光子が担う量子情報を量子フーリエ変換できるらしい。  quantum Fourier transform:   複数の離散フーリエ変換振幅に持つ量子状態を生成するアルゴリズム
+   physics  Asymmetric topological pumping in nonparaxial photonics:
+フォトニック系 ∈ 非近軸領域だと非相反トポロジカルポンプができるよ🍩 近軸近似 (“∂_𝑥,𝑦 ≫∂_𝑧”) するとMaxwell ≈ Schrödingerで、この対応を使って昨今の物性のおもろい色んなことを輸入している。フォトニック系ゆえのおもろいとこに踏み込もうという素敵な方向性やなあ  math-ph NA
+hep-th NA</description>
+    </item>
+    
+  </channel>
+</rss>
