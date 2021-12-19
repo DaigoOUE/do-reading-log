@@ -9,7 +9,110 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Dec 2021 13:38:16 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Dec 2021 08:28:32 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211215</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211215/</link>
+      <pubDate>Mon, 20 Dec 2021 08:28:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211215/</guid>
+      <description>cond-mat NA
+quant-ph  Theory-experiment comparison for the Casimir force between metallic test bodies: A spatially nonlocal dielectric response:
+カシミール効果の理論by Lifshitzは実験と微妙に合わないというpuzzleがあるとされている。 Lifshitzの理論そのものは間違っていなくて、そこで登場する誘電関数をどの程度精密に計算するかによって結果がずれるという話。 💬 私も非局所効果を入れればLifshitz theoryは良い感じに実験と合うようになると思っている人物です  physics NA
+math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211214</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211214/</link>
+      <pubDate>Mon, 20 Dec 2021 08:28:29 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211214/</guid>
+      <description>cond-mat NA
+quant-ph NA
+physics NA
+math-ph NA
+hep-th  A short review of the Casimir effect with emphasis on dynamical boundary conditions:
+動的カシミール効果のまとめ、光子生成からフォース発生まで包括的レビュー⚡  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv211213</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211213/</link>
+      <pubDate>Mon, 20 Dec 2021 08:28:27 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211213/</guid>
+      <description>cond-mat NA
+quant-ph  Introduction to Koopman-von Neumann Mechanics:
+古典と量子の対応関係を見るのにイイ定式化なんだなあ  physics NA
+math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211210</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211210/</link>
+      <pubDate>Mon, 20 Dec 2021 08:28:25 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211210/</guid>
+      <description>cond-mat   Formation of moiré interlayer excitons in space and time:
+ファンデルワールスヘテロ構造(←モアレあり)の二層に跨った暗い励起子ができる様子をフェムト秒顕微法のテクで観測する⚡🔍
+  Polarized light emission from graphene induced by terahertz pulses:
+テラヘルツ波であっためられたグラフェンからの自然発光は偏光している
+  quant-ph  Quantifying the breakdown of the rotating-wave approximation in single-photon superradiance:
+回転波近似やるとスペクトルがおかしくなることあるから気をつけろよ！論文💫  physics NA
+math-ph NA
+hep-th  Going to the light front with contour deformations:
+Bethe-Salpeter方程式を解析接続・積分経路変形をして光円錐に射影する→相互作用アリ2粒子の波動関数at光円錐を効率よく計算できる🧮  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv211209</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211209/</link>
+      <pubDate>Fri, 10 Dec 2021 10:00:09 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211209/</guid>
+      <description>cond-mat  Understanding probability and irreversibility in the Mori-Zwanzig projection operator formalism:
+時間依存射影演算子法をつかって非平衡系における確率やら不可逆性やら考えてみよう論文📈  quant-ph  Pokemon: Protected Logic Qubit Derived from the 0-$\pi$ Qubit:
+トランズモンじゃなくてポケモン  physics  Refraction of space-time wave packets in a dispersive medium:
+分散の激しい媒質中を伝搬する「時空間光波束(e.g. 波面&amp;amp;パルス成形のテクによって群速度が光速cを超えるやつとか」の屈折について🌈  math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211207</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211207/</link>
+      <pubDate>Fri, 10 Dec 2021 10:00:06 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211207/</guid>
+      <description>cond-mat  Selective transport of water molecules through interlayer spaces in graphite:
+グラファイトに塩を差し込むと水を吸えるようになるらしい、すご✏️  quant-ph NA
+physics  Angular-dependent Klein tunneling in photonic graphene:
+電磁誘導透明化を使ってハニカムなフォトニック結晶系を生成、Kleinトンネリングを光学系でエミュレート💡  math-phh NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211206</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211206/</link>
+      <pubDate>Fri, 10 Dec 2021 10:00:03 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211206/</guid>
+      <description>cond-mat NA
+quant-ph   The Formation of Photon-Molecules in Nanoscale Waveguides:
+ナノサイズ導波路内の光子は機械振動モードを介して相互作用する。光子多体問題をT行列近似で解いてみると、グリーン関数の極=光子の束縛状態が出てくる💡
+  Quantum vacuum Sagnac effect:
+サニャック効果は回転体内部で回転に沿う方向と逆らう方向で異なる位相がつく幾何学的位相の一種と見ることができる。この効果がQEDの世界でも顔を出すよ！という理論
+  Quantum thermodynamics under continuous monitoring: a general framework:
+モニタリングされる量子系の発展〜エントロピー生成、不可逆性、揺らぎ〜
+  Chaos in a deformed Dicke model:
+空間反転を破ったDicke模型はカオスになる🌀
+  physics NA
+math-ph NA
+hep-th NA</description>
+    </item>
+    
     <item>
       <title>Arxiv211203</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211203/</link>
