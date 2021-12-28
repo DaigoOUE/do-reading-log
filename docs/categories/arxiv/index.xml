@@ -9,7 +9,35 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Dec 2021 08:28:32 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Dec 2021 08:44:32 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211217</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211217/</link>
+      <pubDate>Mon, 20 Dec 2021 08:44:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211217/</guid>
+      <description>cond-mat  Dynamics of measured many-body quantum chaotic systems:
+量子カオスをモニターする←測定に必要な時間は粒子数に対して指数関数的に増大する👁️ SYK模型の例付き。  quant-ph  Universal Casimir interaction between two dielectric spheres in salted water:
+塩水の中でカシミール効果では、物体の誘電率というよりも系の形状によって力の大きさが決まるらしい🧂 Quantum Polarimetry:
+光子の偏光状態測定のレビュー 〜古典から量子まで〜 Semiconductor Spin Qubits:
+レビュー論文。GaAsなどの半導体量子ドットに居るスピンを量子ビットに使おう！キャビティ光子や超伝導体を用いた量子情報テクとの接続もいい感じにできそうだよ！  physics  Rotation of polarization of light propagating through a gas of molecular super-rotors:
+ガス分子の回転から角運動量をもらって光の偏光が回転する&amp;amp;ドップラーシフトが起こるという実験💫 Classification of diffraction patterns using a convolutional neural network in single particle imaging experiments performed at X-ray free-electron lasers:
+X線回折像をニューラルネットに放り込んで分類してもらおう🧠 確かに逆空間のことは人間がやるより機械にやってもらった方がいいかも、と思うなどした。  math-ph NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211216</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211216/</link>
+      <pubDate>Mon, 20 Dec 2021 08:41:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211216/</guid>
+      <description>cond-mat NA
+quant-ph  Normalization, orthogonality and completeness of quasinormal modes of open systems: the case of electromagnetism:
+モード展開のイロハをまとめたレビュー⚡  physics NA
+math-ph NA
+hep-th NA</description>
+    </item>
+    
     <item>
       <title>Arxiv211215</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211215/</link>
