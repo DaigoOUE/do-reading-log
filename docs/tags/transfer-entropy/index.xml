@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Transfer entropy on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/transfer-entropy/</link>
+    <description>Recent content in Transfer entropy on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Dec 2021 10:01:32 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/transfer-entropy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211220</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211220/</link>
+      <pubDate>Tue, 28 Dec 2021 10:01:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211220/</guid>
+      <description>cond-mat  Does elastically deformed monolayer graphene have a curved space Dirac description?:
+グラフェン曲げたらどうなるか考えるのに、勾配展開でディラックを補正して有効磁場が付くっていう説明はよろしくないかも？という改めての考察。tight-bindingから出発してみると有効磁場の他にも加味すべき補正項が色々でちゃうらしい Quantum Fluctuation Theorem under Continuous Measurement and Feedback:
+条件付き相互情報量の一種の量子版を考えることで、揺らぎの定理を量子系 (w/計測&amp;amp;フィードバック) にまで拡張できる  Transfer entropy:   Transfer entropy is a non-parametric statistic measuring the amount of directed (time-asymmetric) transfer of information between two random processes. &amp;hellip; Transfer entropy is conditional mutual information,&amp;hellip;
+   quant-ph NA
+physics  Optical multipolar torque in structured electromagnetic fields: on &amp;lsquo;helicity gradient&amp;rsquo; torque, quadrupolar torque and the spin of field gradient:</description>
+    </item>
+    
+  </channel>
+</rss>

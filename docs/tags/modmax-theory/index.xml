@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ModMax theory on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/modmax-theory/</link>
+    <description>Recent content in ModMax theory on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Dec 2021 10:06:32 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/modmax-theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211221</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211221/</link>
+      <pubDate>Tue, 28 Dec 2021 10:06:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211221/</guid>
+      <description>cond-mat  Topological near-field heat flow in a honeycomb lattice:
+トポロジカルな輻射熱輸送🚛エッジ状態の寄与が30〜50倍も支配的な熱輸送！ Plexcitonic quantum light emission from nanoparticle-on-mirror cavities:
+ミラーの上にナノ粒子(光共振器)→プラズマ振動・電磁場・励起子が混成→アンチバンチング等の非古典光が発生💡  quant-ph  Generation of nonclassical states of light via truncation of mixed states:
+量子ハサミ✂️=パラメトリック増幅器、ビームスプリッター、光検出器→フォック状態のtruncationを介さないサブポアソン統計な非古典光の発生を可能にする理論。 Dynamical metasurfaces: electromagnetic properties and instabilities🎉  physics  Few-mode Field Quantization for Multiple Emitters:
+フルに電磁場を量子化(←普通はモードが多すぎて辛い)する方法の発明と、これを使った複数エミッタのある量子光学系の解析。なかなか丁寧でフォローしやすそうな論文でよいなあこれは。 Molding Photon Emission with Hybrid Plasmon-Emitter Coupled Metasurfaces:
+構造化金属表面に量子エミッタを配置→偏光と発光方向を制御可能💡 Topologically-protected single-photon sources in topological slow light photonic crystal waveguides:
+トポロジカルなフォトニック構造にエミッタを埋め込むと高効率な単一光子源になるというデモ🍩  math-ph  Newtonian mechanics in a Riemannian manifold:</description>
+    </item>
+    
+  </channel>
+</rss>

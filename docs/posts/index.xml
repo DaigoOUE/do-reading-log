@@ -9,11 +9,80 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Dec 2021 08:44:32 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 16:09:32 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211224</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211224/</link>
+      <pubDate>Tue, 28 Dec 2021 16:09:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211224/</guid>
+      <description>cond-mat  Dynamic friction unraveled using an atomically defined model system:
+shear forceな原子間力顕微鏡のプロFranz J. Giessibl氏のグループの最新論文。原子とか分子を引っ掻いて動かす実験などで一役買っている物質表面の散逸・摩擦現象の計測とシミュレーション。  quant-ph NA
+physics NA
+math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211223</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211223/</link>
+      <pubDate>Tue, 28 Dec 2021 15:33:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211223/</guid>
+      <description>cond-mat NA
+quant-ph  Plasma model and Drude model permittivities in Lifshitz formula:
+ドルーデ模型という非常に便利ながら$\omega=0$に極を持つヤバい(取り扱い注意してな)奴。松原形式に移行できないから気をつけような、！ Wading through the void: Exploring quantum friction and nonequilibrium fluctuations:
+電磁場の揺らぎがもたらす非接触摩擦 (a.k.a.量子摩擦) のレビュー。最近いろんな実験提案まで出始めててアツいよ！📈  physics  Optical Control of Nanomechanical Eigenfrequencies and Brownian Motion in Metamaterials:
+光熱効果によるナノメカニクスの応力変調→振動数etc.のコントロール⚙💡🌡 Generalized coupled dipole method for thermal far-field radiation:
+離散双極子法を使った輻射熱輸送の計算🌡💡 ミクロなノリで計算できる人たちがカシミールだの熱輻射だの触るようになると世界広がるなあ。イイね！  math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211222</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211222/</link>
+      <pubDate>Tue, 28 Dec 2021 15:25:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211222/</guid>
+      <description>cond-mat  Spin Accumulation without the Spin Hall Effect:
+スピン軌道相互作用あるとスピン流の定義は非自明。ラシュバに不純物入れてボルン近似の範囲内で応答を計算。スピンホール伝導度ゼロなのにスピン蓄積が出る。注意しよう❗️  quant-ph NA
+physics NA
+math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211221</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211221/</link>
+      <pubDate>Tue, 28 Dec 2021 10:06:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211221/</guid>
+      <description>cond-mat  Topological near-field heat flow in a honeycomb lattice:
+トポロジカルな輻射熱輸送🚛エッジ状態の寄与が30〜50倍も支配的な熱輸送！ Plexcitonic quantum light emission from nanoparticle-on-mirror cavities:
+ミラーの上にナノ粒子(光共振器)→プラズマ振動・電磁場・励起子が混成→アンチバンチング等の非古典光が発生💡  quant-ph  Generation of nonclassical states of light via truncation of mixed states:
+量子ハサミ✂️=パラメトリック増幅器、ビームスプリッター、光検出器→フォック状態のtruncationを介さないサブポアソン統計な非古典光の発生を可能にする理論。 Dynamical metasurfaces: electromagnetic properties and instabilities🎉  physics  Few-mode Field Quantization for Multiple Emitters:
+フルに電磁場を量子化(←普通はモードが多すぎて辛い)する方法の発明と、これを使った複数エミッタのある量子光学系の解析。なかなか丁寧でフォローしやすそうな論文でよいなあこれは。 Molding Photon Emission with Hybrid Plasmon-Emitter Coupled Metasurfaces:
+構造化金属表面に量子エミッタを配置→偏光と発光方向を制御可能💡 Topologically-protected single-photon sources in topological slow light photonic crystal waveguides:
+トポロジカルなフォトニック構造にエミッタを埋め込むと高効率な単一光子源になるというデモ🍩  math-ph  Newtonian mechanics in a Riemannian manifold:</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211220</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211220/</link>
+      <pubDate>Tue, 28 Dec 2021 10:01:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211220/</guid>
+      <description>cond-mat  Does elastically deformed monolayer graphene have a curved space Dirac description?:
+グラフェン曲げたらどうなるか考えるのに、勾配展開でディラックを補正して有効磁場が付くっていう説明はよろしくないかも？という改めての考察。tight-bindingから出発してみると有効磁場の他にも加味すべき補正項が色々でちゃうらしい Quantum Fluctuation Theorem under Continuous Measurement and Feedback:
+条件付き相互情報量の一種の量子版を考えることで、揺らぎの定理を量子系 (w/計測&amp;amp;フィードバック) にまで拡張できる  Transfer entropy:   Transfer entropy is a non-parametric statistic measuring the amount of directed (time-asymmetric) transfer of information between two random processes. &amp;hellip; Transfer entropy is conditional mutual information,&amp;hellip;
+   quant-ph NA
+physics  Optical multipolar torque in structured electromagnetic fields: on &amp;lsquo;helicity gradient&amp;rsquo; torque, quadrupolar torque and the spin of field gradient:</description>
+    </item>
+    
     <item>
       <title>Arxiv211217</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211217/</link>
-      <pubDate>Mon, 20 Dec 2021 08:44:32 +0900</pubDate>
+      <pubDate>Mon, 27 Dec 2021 08:44:32 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211217/</guid>
       <description>cond-mat  Dynamics of measured many-body quantum chaotic systems:
@@ -28,7 +97,7 @@ X線回折像をニューラルネットに放り込んで分類してもらお�
     <item>
       <title>Arxiv211216</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211216/</link>
-      <pubDate>Mon, 20 Dec 2021 08:41:32 +0900</pubDate>
+      <pubDate>Mon, 27 Dec 2021 08:41:32 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211216/</guid>
       <description>cond-mat NA
