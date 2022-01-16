@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>squeezing on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/squeezing/</link>
+    <description>Recent content in squeezing on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Jan 2022 08:50:00 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/squeezing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211231</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211231/</link>
+      <pubDate>Thu, 13 Jan 2022 08:50:00 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211231/</guid>
+      <description>cond-mat NA
+quant-ph   Squeezing lights via a levitated cavity optomechanics:
+浮揚オプトメカニクスを介した光圧搾法の提案。 非等方的なナノ粒子を光トラップ、2モードをホストする共振器で囲む。トラップ光→共振器への散乱で行き先が二つある→$aa$とか$a^\dagger a^\dagger$みたいなやつが残る→光圧搾の実現😆
+ squeezingに関してはこの文献の解説が優しかった    Cavity Quantum Materials:
+共振器で囲めば物性が変わる！共振器内で光化学反応が促進されるのはわかりやすいし面白いと思うし、それと同様に、ミラーで挟むだけで物性変調できるのはすごいし楽しいし夢があるなあ🪞
+  Position measurement of a levitated nanoparticle via interference with its mirror image:
+浮揚オプトメカニクスの位置測定、干渉縞を見ればええんやで👍
+  physics NA
+math-ph NA
+hep-th NA</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,7 +9,67 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 16:09:32 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jan 2022 08:50:00 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv211231</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211231/</link>
+      <pubDate>Thu, 13 Jan 2022 08:50:00 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211231/</guid>
+      <description>cond-mat NA
+quant-ph   Squeezing lights via a levitated cavity optomechanics:
+浮揚オプトメカニクスを介した光圧搾法の提案。 非等方的なナノ粒子を光トラップ、2モードをホストする共振器で囲む。トラップ光→共振器への散乱で行き先が二つある→$aa$とか$a^\dagger a^\dagger$みたいなやつが残る→光圧搾の実現😆
+ squeezingに関してはこの文献の解説が優しかった    Cavity Quantum Materials:
+共振器で囲めば物性が変わる！共振器内で光化学反応が促進されるのはわかりやすいし面白いと思うし、それと同様に、ミラーで挟むだけで物性変調できるのはすごいし楽しいし夢があるなあ🪞
+  Position measurement of a levitated nanoparticle via interference with its mirror image:
+浮揚オプトメカニクスの位置測定、干渉縞を見ればええんやで👍
+  physics NA
+math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211230</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211230/</link>
+      <pubDate>Thu, 13 Jan 2022 08:45:00 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211230/</guid>
+      <description>cond-mat NA
+quant-ph  Electric Field and Voltage Fluctuations in the Casimir Effect:
+荷電粒子のトンネル問題に真空揺らぎの寄与を考慮すると、トンネル確率がアップする。熱揺らぎアリでトンネリング確率が上がるのと似ていて、量子揺らぎ→粒子エネルギー揺らぎ→トンネル確率上がる🚇  physics NA
+math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211229</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211229/</link>
+      <pubDate>Thu, 13 Jan 2022 08:37:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211229/</guid>
+      <description>cond-mat NA
+quant-ph NA
+physics  Dynamics and stability conditions of semiconductor lasers under external optical feedback from both sides of the laser cavity:
+半導体レーザー共振器の両サイドからフィードバック光を入れると安定的な発振&amp;amp;狭い線幅を実現できるという提案💡  math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv211228</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211228/</link>
+      <pubDate>Thu, 13 Jan 2022 08:18:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211228/</guid>
+      <description>cond-mat  Fluctuation-induced friction and heat transfer at the water-multilayer graphene interface:
+グラフェン-水-グラフェンという設定で摩擦を計算。そのメカニズムはグラフェン間で光子もしくは格子振動量子を交換することがエッセンス。分子動力学シミュレーションとの比較もアリ。  quant-ph   Dynamical emission of phonon pairs in optomechanical systems:
+動的に変調された系で格子振動量子のペアが発生するdynamical Casimirタイプの効果。具体的には、二つのレーザーで駆動されているオプトメカニクスにおけるフォノンのポピュレーション・g2相関関数を計算してある。
+  Optomechanical ground-state cooling in a continuous and efficient electro-optic transducer:
+サイドバンド冷却でマイクロ波帯オプトメカニクスにおける熱ノイズの抑制🌡
+  physics  Imaging through scattering media via spatial-temporal encoded pattern illumination:
+散乱媒質,e.g. 霧, の向こう側を見る実験。先行研究では散乱媒質が動いたりすると厳しかった。この手法ではイメージ取得のために照射する光の時空間パターンを制御・適切に取得光強度の相関を計測することによって、散乱媒質の動きに対してロバストな系に仕立てている。  math-ph NA
+hep-th NA</description>
+    </item>
+    
     <item>
       <title>Arxiv211224</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211224/</link>
