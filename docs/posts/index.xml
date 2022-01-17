@@ -9,7 +9,81 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jan 2022 08:50:00 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 08:50:07 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220107</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220107/</link>
+      <pubDate>Mon, 17 Jan 2022 08:50:07 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220107/</guid>
+      <description>cond-mat NA
+quant-ph   Homodyne coherent quantum noise cancellation in a hybrid optomechanical force sensor:
+オプトメカニクスを使ったセンサーにノイズキャンセリングを搭載👍
+  Enhanced Hawking radiation in an out-of-equilibrium quantum fluid:
+非平衡ポラリトン流体中でホーキング放射が実現できるよ！という提案
+  physics  A Kuramoto Network in a Single Nonlinear Microelectromechanical Device:
+非線形な電気機械振動子中で蔵元模型的挙動が発生する実験⚡️⚙  math-ph NA
+hep-th NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv220106</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220106/</link>
+      <pubDate>Mon, 17 Jan 2022 08:27:07 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220106/</guid>
+      <description>cond-mat NA
+quant-ph  Quantum thermodynamic devices: from theoretical proposals to experimental reality:
+量子コヒーレンスが効く熱力学的機関のレビュー。量子熱力学サイクルとは？から具体的な実現方法, e.g. 共振器QED、MEMS/NEMS、NMR、NV中心、冷却原子気体、超伝導量子ビット、光電効果、二次元物質, まで。いろんなトピックが50ページというコンパクトな量にまとまっていて眺めるのが楽しい  physics NA
+math-ph NA
+hep-th  Motion induced excitation and radiation from an atom facing a mirror:
+ミラーの上に原子がポツリ。加速運動すると自然放出はどう変調される？を計算する理論。 理想的なミラーをDirichlet/Neumann境界条件で、原子をスカラー場とカップルした調和振動子でモデル化、経路積分形式で調和振動子自由度を積分、有効作用を導出、原子の遷移確率(=光子放出レート)を摂動的に評価🪞 これはカッコイイ仕事やなあ…  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220105</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220105/</link>
+      <pubDate>Mon, 17 Jan 2022 08:14:07 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220105/</guid>
+      <description>cond-mat NA
+quant-ph NA
+physics NA
+math-ph NA
+hep-th  Magnetoelectric boundary simulated by a Chern-Simons-like model:
+マルチフェロイックな表面はChern-Simons作用でモデル化できるという話。マルチェロイックなミラーの上に点電荷を置くと鏡像として磁気モノポールが現れる。  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220104</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220104/</link>
+      <pubDate>Sun, 16 Jan 2022 11:56:48 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220104/</guid>
+      <description>cond-mat quant-ph   Fundamental trade-off between the speed of light and fluctuations in photon current in coherently controlled Lambda systems:
+$\Lambda$型の3準位系の集団をコヒーレントに制御すると，その中を通る光の群速度を低下させることができる． ということが知られてたが，群速度を低下させると同時に群速度のばらつきはふえるよ！というトレードオフがあることを示した論文． 統計物理っぽいノリがこういう自分の分野に近いところで議論されているのを見るとより親しみが持てるし，一般的な議論をすすめることのすばらしさが分かるし，いいなあっていう気持ち
+  Quantum communication with itinerant surface acoustic wave phonons:
+表面弾性波を使った量子通信の実験． 2量子ビット間を弾性波で繋ぐ→量子情報を転送できた！🔊
+  physics   Ramanujan summation and the Casimir effect:
+解析接続というテクニックはラマヌジャンinspiredであったことを初知りした． 解析接続はカシミールエネルギーの正規化にも使われるという事情があるので，ちょっとラマヌジャン氏に親しみを持つなどしたのだった．
+  Scattering of a plane wave by an inhomogeneous 1D dielectric layer with gradient refractive index:
+連続的に屈折率が変化する系の光学応答を計算しよう💡
+  math-ph NA</description>
+    </item>
+    
+    <item>
+      <title>Arxiv220103</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220103/</link>
+      <pubDate>Fri, 14 Jan 2022 11:17:07 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220103/</guid>
+      <description>cond-mat  Inhomogeneous disordering at a photo-induced charge density wave transition:
+Holstein模型(電子と格子振動のカップリング)をKeldysh形式で阻止化して確率微分方程式を導出、ダイナミクスを解析。電荷密度波の超高速不均一disorderingが見える。  quant-ph NA
+physics  A General Statistical Mechanics Framework for the Collective Motion of Animals:
+動物集団などのアクティブマターの物理を調べるためのフレームワークbased on 最大エントロピー原理etc. Vicsek模型などのしばしば登場するモデルたちはこのフレームワークから導ける。  math-ph NA
+hep-th NA</description>
+    </item>
+    
     <item>
       <title>Arxiv211231</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211231/</link>
