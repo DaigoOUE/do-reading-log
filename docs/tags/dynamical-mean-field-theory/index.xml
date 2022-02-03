@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dynamical Mean Field Theory on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/dynamical-mean-field-theory/</link>
+    <description>Recent content in Dynamical Mean Field Theory on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Feb 2022 08:45:23 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/dynamical-mean-field-theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220112</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220112/</link>
+      <pubDate>Thu, 03 Feb 2022 08:45:23 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220112/</guid>
+      <description>cond-mat   最近ちらほらdynamical mean field theoryをチラホラと見かける気がする, e.g.
+ Steady-State Quantum Zeno Effect of Driven-Dissipative Bosons with Dynamical Mean-Field Theory:
+駆動されるBose-Hubbard modelにおけるzeno効果の解析にDMFT Dynamical Mean Field Studies of Infinite Layer Nickelates: Physics Results and Methodological Implications:
+ニッケル酸化物系の物質中の電子状態の解析にDMFT  というわけで少し勉強してみようという気持ちになってしらべてみたら， このpdfはなかなか読みやすいかもしれないなあとなった．
+  Control of spin waves by spatially modulated strain:
+スピン波を不均一な格子歪みによってコントロールしようという理論提案． 不均一系は波数ベクトルをシフトさせるので$-k$と$k$のスピン波が混成して&amp;hellip;みたいなはなしができたり．
+  quant-ph physics math-ph hep-th </description>
+    </item>
+    
+  </channel>
+</rss>

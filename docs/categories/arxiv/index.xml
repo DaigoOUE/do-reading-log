@@ -9,7 +9,43 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Jan 2022 08:50:07 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 08:45:27 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220113</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220113/</link>
+      <pubDate>Thu, 03 Feb 2022 08:45:27 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220113/</guid>
+      <description>cond-mat quant-ph  Cavity optomechanics in a fiber cavity: the role of stimulated Brillouin scattering: 光ファイバー (とその上のブラッグ回折格子) を使ったオプトメカニクスの実験と理論． 誘導Brillouin散乱をつかったオプトメカニクスの高効率な冷却法など🧊 Coherent single-photon scattering spectra for a giant-atom waveguide-QED system beyond dipole approximation:
+導波路の上に量子系を置きましたという系で，量子系の有限サイズ効果をちゃんと考えてみよう論文． 有限サイズ効果の考慮には双極子近似を超える必要があったり，非マルコフ過程にちゃんと向き合わないといけなかったりするらしい． 具体例として散乱スペクトルの計算が示してある．  physics  Mode conversion and laser energy absorption by plasma under an inhomogeneous external magnetic field:
+不均一磁場を入れたプラズマにレーザー光を照射するとどうなる？をparticle-in-cellな方法で数値計算してみた論文⚡ プラズマ物理にもこんなことをやっておるひとたちがいるんだなあという気持ち  math-ph hep-th </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220112</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220112/</link>
+      <pubDate>Thu, 03 Feb 2022 08:45:23 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220112/</guid>
+      <description>cond-mat   最近ちらほらdynamical mean field theoryをチラホラと見かける気がする, e.g.
+ Steady-State Quantum Zeno Effect of Driven-Dissipative Bosons with Dynamical Mean-Field Theory:
+駆動されるBose-Hubbard modelにおけるzeno効果の解析にDMFT Dynamical Mean Field Studies of Infinite Layer Nickelates: Physics Results and Methodological Implications:
+ニッケル酸化物系の物質中の電子状態の解析にDMFT  というわけで少し勉強してみようという気持ちになってしらべてみたら， このpdfはなかなか読みやすいかもしれないなあとなった．
+  Control of spin waves by spatially modulated strain:
+スピン波を不均一な格子歪みによってコントロールしようという理論提案． 不均一系は波数ベクトルをシフトさせるので$-k$と$k$のスピン波が混成して&amp;hellip;みたいなはなしができたり．
+  quant-ph physics math-ph hep-th </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220111</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220111/</link>
+      <pubDate>Thu, 03 Feb 2022 08:45:20 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220111/</guid>
+      <description>cond-mat  Graphene Electron Metasurfaces:
+グラフェン中のディラック電子はマクスウェル方程式に従う光子と類似の振る舞いをすることがわかってきている, e.g. スネルの法則と同じようなものが出てくる, ので，opticsの分野で培われてきたメタマテリアルのノリをグラフェンに使ってみよう！という理論提案✏️  quant-ph physics math-ph hep-th </description>
+    </item>
+    
     <item>
       <title>Arxiv220107</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220107/</link>
