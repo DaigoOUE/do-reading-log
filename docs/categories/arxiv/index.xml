@@ -9,7 +9,63 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Feb 2022 08:45:27 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 10:35:50 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220121</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220121/</link>
+      <pubDate>Thu, 03 Feb 2022 10:35:50 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220121/</guid>
+      <description>cond-mat quant-ph  Quantum homogenization in non-Markovian collisional model:
+非マルコフ過程を出せる衝突模型→量子系の状態はだんだんと次々と衝突してくる熱浴の状態に漸近していく． これをquantum homogenizationと呼ぶらしい．  physics  Entangled two-plasmon generation in carbon nanotubes and graphene coated wires:
+ナノチューブからの量子もつれプラズモンの発生⚡  math-ph hep-th </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220120</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220120/</link>
+      <pubDate>Thu, 03 Feb 2022 10:35:47 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220120/</guid>
+      <description>cond-mat quant-ph physics  Active tuning of plasmon damping via light induced magnetis:
+逆ファラデー効果によって発生する磁化を使ってプラズモンの減衰をsuppressできるよ！という実験． 円偏光にsensitiveな金属構造を作り込んでいるのがポイントなのかな，たぶん．  math-ph hep-th </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220119</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220119/</link>
+      <pubDate>Thu, 03 Feb 2022 10:35:44 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220119/</guid>
+      <description>cond-mat quant-ph  Laser Cooling Beyond Rate Equations: Approaches From Quantum Thermodynamics:
+量子熱力学をつかってレーザー冷却を解析してみよう！ 媒質中の不純物をレーザーで駆動するという設定をBloch-Redfield方程式でモデル化，熱流の計算を計算している． Real-time two-photon interference from distinct molecules on the same chip:
+異なる2つのエミッターからの2光子干渉🌊 もうこんなことまでできるようになっているのか&amp;hellip;すごい．  physics math-ph hep-th </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220118</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220118/</link>
+      <pubDate>Thu, 03 Feb 2022 10:35:42 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220118/</guid>
+      <description>cond-mat quant-ph physics   Roadmap on Topological Photonics:
+トポロジカルフォトニクスのレビュー💡🍩 磁気光学効果などによって実現する創発ゲージ場， 周期駆動で実現するトポロジカルな系， トポロジカルポンプと準結晶， 3次元系でいかにトポロジカルな系を作るか， 非線形性，連続準位中束縛状態・非エルミート効果・光子-光子 (有効) 相互作用 などなど，もりだくさん．
+  Topological photonic crystals: physics, designs and applications:
+こちらはトポロジカルなフォトニック結晶のレビュー🍩 デザイン方法，かんたんなモデル計算の紹介 (starting from 1-dim. sys.)，連続準位中束縛状態，lasingなどへの応用について．
+  math-ph hep-th </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220117</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220117/</link>
+      <pubDate>Thu, 03 Feb 2022 10:35:39 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220117/</guid>
+      <description>cond-mat quant-ph  Non-Hermitian physics and master equations:
+非エルミート物理とLindbladマスター方程式に代表される開放系の物理を関連付けてレビューしてくれている論文． この頃，少しずつ非エルミートがどこからどう出てくるのかなんとなく気持ちがわかるように解説してくれているレビューが増えてきた気がする． Spectrum of Single-Photon Scattering in a Strong-Coupling Hybrid Optomechanical System:
+2準位系とオプトメカニクスの強結合系の理論⚙️ 散乱スペクトルの計算→有効的な光子-2準位系カップリングの強さがサイドバンドから評価できる．  physics math-ph hep-th </description>
+    </item>
+    
     <item>
       <title>Arxiv220113</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220113/</link>
