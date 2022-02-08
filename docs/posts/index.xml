@@ -9,7 +9,45 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 03 Feb 2022 10:35:50 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Feb 2022 09:30:30 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220127</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220127/</link>
+      <pubDate>Tue, 08 Feb 2022 09:30:30 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220127/</guid>
+      <description>cond-mat  Nonlinear control of magnon polaritons:
+マグノンとマイクロ波光子の強い相互作用→非線形性がチップ上で実現できるようになってきているとはすごいことだなあ．  quant-ph  :  physics  :  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220126</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220126/</link>
+      <pubDate>Tue, 08 Feb 2022 09:29:40 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220126/</guid>
+      <description>cond-mat  The Inverse Faraday effect in the massive Dirac electrons:
+ケルディッシュ形式でダイアグラム計算やって重いディラック電子系の示す逆ファラデー効果を導く. バンドの端で逆ファラデーで生成される磁化に発散的な増大が見られるなど．  quant-ph  :  physics  Purcell factors and Forster resonance energy transfer in proximity to helical structures:
+物質の表面に微細構造を施すことでパーセル効果やFRETがエンハンスされる話．  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220125</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220125/</link>
+      <pubDate>Tue, 08 Feb 2022 08:51:38 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220125/</guid>
+      <description>cond-mat   Spin noise in birefringent and inhomogeneous media:
+ファラデー回転のノイズを計測すると，光学異方性に影響されずに磁気的性質を計測できるらしい🧲（実験+理論
+  Quantum-phase two-dimensional materials:
+2D物質を鏡の上に置くと鏡に写った虚像と相互作用することで物性変調が実現するよ！🪞
+  quant-ph physics   Coherent radiation produced by a relativistic bunch of charged particles passing through a photonic crystal:
+フォトニック結晶に高エネルギーの電子線を照射するとチェレンコフメカニズムによって自由電子レーザーライクなコヒーレント光が発生⚡
+  Metamaterial Eigenmodes beyond Homogenization:
+メタマテリアルと言っても周期性の認められるものであれば固体物理のノリで分散関係（バンド構造）とか計算できちゃうよね！ Maxwell-Garnettとの整合性チェックもあり✅
+  math-ph hep-th </description>
+    </item>
+    
     <item>
       <title>Arxiv220121</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220121/</link>
