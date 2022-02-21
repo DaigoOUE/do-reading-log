@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 mathjax: true
-draft: false
+draft: true
 tags: [""]
 categories: ["arxiv"]
 ---
