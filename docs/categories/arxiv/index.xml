@@ -9,7 +9,56 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Feb 2022 09:30:30 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Feb 2022 09:38:07 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/categories/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220207</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220207/</link>
+      <pubDate>Sat, 19 Feb 2022 09:38:07 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220207/</guid>
+      <description>cond-mat  Gyromagnetic bifurcation in a levitated ferromagnetic particle:
+T.Satoさんらとの共著論文🎉🎉🎉  quant-ph   Bounds in Nonequilibrium Quantum Dynamics:
+closedな多体量子系の時間発展の速度制限→熱化→Lieb-Robinson限界の話まとめ🛑
+ Lieb-Robinson bounds:   The Lieb–Robinson bound is a theoretical upper limit on the speed at which information can propagate in non-relativistic quantum systems.
+   Three-photon excitation of quantum two-level systems:
+奇数個の光子で２準位系 (InGaN量子ドット) を励起できたよ実験💡 単なる2準位系(空間依存性ナシ)では2光子過程が選択則から禁じられることになるということに注意しような！という話 [J. H. Shirley, Solution of the Schrödinger Equation with a Hamiltonian Periodic in Time, Phys.</description>
+    </item>
+    
+    <item>
+      <title>Arxiv220206</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220206/</link>
+      <pubDate>Sat, 19 Feb 2022 09:37:56 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220206/</guid>
+      <description>cond-mat  Mesoscopic physics of nanomechanical systems:
+最近いじれるようになってきたナノメカニカルな系では揺らぎとか非線形性が顕著に出る →非平衡物理検証のいい舞台である →このレビュー論文ではナノメカニクスの理論の基礎，最近の実験などを紹介する⚙  quant-ph  :  physics  :  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220202</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220202/</link>
+      <pubDate>Sat, 19 Feb 2022 09:37:46 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220202/</guid>
+      <description>cond-mat  Observation of Light-Induced Dipole-Dipole Forces in Ultracold Atomic Gases:
+光誘起双極子-双極子相互作用 in 冷却原子系🍧optical bindingみたいな感じの話だ  quant-ph  :  physics  Time and space generalized diffusion equation on graphs/networks:
+グラフ上の拡散方程式📈 正方格子から一般のグラフへというノリをやはりスマートに感じるお年頃である．  math-ph  Trajectories of charged particles in knotted electromagnetic fields:
+ドジッターの方法を使って真空Maxwellの解を調べる →電磁場が結び目を作るような配置になっていると見ることができる →真空の荷電粒子の軌跡 = 荷電粒子interacting with knotted電磁場の軌跡と考えられる  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220201</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220201/</link>
+      <pubDate>Sat, 19 Feb 2022 09:37:27 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220201/</guid>
+      <description>cond-mat  Thermal versus entropic Mpemba effect in molecular gases with nonlinear drag:
+非線形な粘性アリでムペンバ効果を解析．モンテカルロ法を用いた数値計算．  Mpemba effect:
+温かい水のほうが冷たい水よりも早く凍るムペンバ効果   image currentなるものを初知りした． 磁性体の近くで電流を流すとその磁性体の内部に電流の鏡像ができて見えるという話⚡  quant-ph  Quantum algorithms for Schrieffer-Wolff transformation:
+量子コンピュータでSchrieffer-Wolff変換ができるようにするアルゴリズム💻  physics  Surface acoustic waves inside polystyrene microparticles through photoacoustic microscopy:
+ポリスチレン球の表面にできる弾性波を光学音響顕微法で見てみたよ！🔈🔍︎  math-ph  :  hep-th  :  </description>
+    </item>
+    
     <item>
       <title>Arxiv220127</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2201/arxiv220127/</link>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mpemba effect on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/mpemba-effect/</link>
+    <description>Recent content in Mpemba effect on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Feb 2022 09:37:27 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/mpemba-effect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220201</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220201/</link>
+      <pubDate>Sat, 19 Feb 2022 09:37:27 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220201/</guid>
+      <description>cond-mat  Thermal versus entropic Mpemba effect in molecular gases with nonlinear drag:
+非線形な粘性アリでムペンバ効果を解析．モンテカルロ法を用いた数値計算．  Mpemba effect:
+温かい水のほうが冷たい水よりも早く凍るムペンバ効果   image currentなるものを初知りした． 磁性体の近くで電流を流すとその磁性体の内部に電流の鏡像ができて見えるという話⚡  quant-ph  Quantum algorithms for Schrieffer-Wolff transformation:
+量子コンピュータでSchrieffer-Wolff変換ができるようにするアルゴリズム💻  physics  Surface acoustic waves inside polystyrene microparticles through photoacoustic microscopy:
+ポリスチレン球の表面にできる弾性波を光学音響顕微法で見てみたよ！🔈🔍︎  math-ph  :  hep-th  :  </description>
+    </item>
+    
+  </channel>
+</rss>
