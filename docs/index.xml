@@ -9,7 +9,131 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Feb 2022 09:38:07 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 16:19:44 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220224</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220224/</link>
+      <pubDate>Mon, 21 Mar 2022 16:19:44 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220224/</guid>
+      <description>cond-mat   Probing spin dynamics of 2D excitons with twisted light:
+励起子に光渦を当てるとそのトポロジカルチャージを変えることでdark→brightへの散乱レートをコントロールできるらしい。 これは光からエキシトンの重心に運動量転写が起こることによるものらしい。
+  Towards quantum contact friction:
+接触摩擦の量子論。表面にいるフォノンの量子揺らぎが物体を接触させて擦った時の運動方程式に登場するらしい。
+  quant-ph  :  physics   Artificial neural network assisted inverse design of metasurfaces for microwave absorption:
+ニューラルネットワークを使って効率よくマイクロ波を吸収する構造体 (メタサーフェス）をデザインできるよ🧠
+  Tilted Poincaré Sphere Geodesics:
+ラゲールガウスビームとエルミートガウスビームは円偏光と直線偏光の関係になっているので、同様にポアンカレ球上でその状態をラベルすることができる。 状態の移り変わりをポアンカレ球上で描くと閉じた曲線を描くことが出来る→幾何学的位相がついてくる。 これを実験て計測してみたという論文🌐
+  math-ph  :  hep-th  Axion Electrodynamics and the Axionic Casimir Effect:
+アクシオンがいると光の分散関係が分裂するので、アクシオンをカシミール効果を通じて間接的に感じることができるという話  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220223</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220223/</link>
+      <pubDate>Mon, 21 Mar 2022 15:48:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220223/</guid>
+      <description>cond-mat   Brownian motion with time-dependent friction and single-particle dynamics in liquids:
+メモリーありの(非マルコフ)ランジュバン方程式を使って時間依存摩擦in液体を解析する話。 これまでに取り組まれてきたモデルと比較してみても分子動力学シミュレーションとイイ感じにあってくれるらしい📈
+  Signature of electromagnetic quantum fluctuations in exciton physics:
+仮想光子（真空モード）と電子系の相互作用まで加味すると、 bright excitonのエネルギーが上がる（dark excitonの方のエネルギーは変化なし）のでbright-dark分裂の幅が大きくなる。 Coulomb相互作用だけでは出てこない効果。 電磁場の縦モードだけではなく横モードも考慮することが大事だよーっていうattitude
+  quant-ph  Geometric phases acquired for a two-level atom coupled to fluctuating vacuum scalar fields due to linear acceleration and circular motion:
+加速度運動する量子系 in 真空が、電磁場の真空モードと相互作用しながら幾何学的位相を貯めていく話。 開放系なので、最もシンプルな模型としてLindblad方程式を使っている。 free spaceの場合とミラー的boundaryがある場合とで計算を比較している。 ミラーありの場合溜まっていく幾何学的位相がenhanceされるらしい。 ちゃんと読んでないけど多分表面を導入することで電磁場のDOSが変調されるからなんだろうなあという気持ちになった。 線形加速する場合と回転運動する場合の比較もあり。  physics  :  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220222</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220222/</link>
+      <pubDate>Mon, 21 Mar 2022 15:41:25 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220222/</guid>
+      <description>cond-mat  :  quant-ph  Complete Excitation of Discrete Quantum Systems by Single Free Electrons:
+自由電子をぶつけて離散的なスペクトルを持つ量子系を励起しちゃおう⚡️非線形な効果も起こせるぞ！  physics  Dispersion Characteristics of Accelerated Spacetime-Modulated Media:
+時間&amp;amp;空間的に (加速度運動的に) 変調された媒質中の分散関係を計算してみよう→光が変調とは逆の方向に曲がるね！  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220221</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220221/</link>
+      <pubDate>Mon, 21 Mar 2022 08:29:09 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220221/</guid>
+      <description>cond-mat  :  quant-ph  Squeezed light from a levitated nanoparticle at room temperature: Ponderomotive squeezing of light by a levitated nanoparticle in free space:
+光浮揚したナノ粒子に働く力にはポンデロモーティブフォースが含まれている。 ポンデロモーティブフォースの反作用で光の振幅と位相の相関が育つ。 負の相関を実現することでことで光の圧搾が可能になる。 ポンデロモーティブフォースを利用した光圧搾は共振器を使った系で実現された例はあるが、free spaceでのデモンストレーションは今回が初めて。 全く同じ日に同様のプレプリントが二つのグループからも発表されていた。 back to back的な感じで口裏合わせた感じなのかな。 お互いの論文の末尾にお互いを認識している旨が書かれていた。 referenceを見ると最近のlevitated optomechanicsの話が色々引用してあるのでチェックするといいかもしれんなあ。  physics  Feynman&amp;rsquo;s Sum-over-Paths method applied in wave optics and for calculating the quantum probability current:
+回折パターン計算するのに、フレネル積分の代わりに、ファインマンの経路積分を使ったらいい感じになるという話。  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220218</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220218/</link>
+      <pubDate>Mon, 14 Mar 2022 08:37:51 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220218/</guid>
+      <description>cond-mat  :  quant-ph   Zeptonewton force sensing with squeezed quadratic optomechanics:
+オプトメカニクスの圧搾によってゼプトニュートンほどの力を検出することもできるんだぞ！という話⚙すごい
+  Tutorial: Macroscopic QED and vacuum forces:
+マクロな量子電磁力学のチュートリアル⚡️ 分散・散逸ありの媒質中の電磁場のハミルトニアンを与えるところから始めて、 一次元の場合から三次元の場合までを考えている。 動く媒質の場合にはどのように理論を拡張すればいいかを考えている。 ドップラー効果や電場と磁場の交差応答が媒質の電磁応答を変化させる話など。 最後は量子摩擦の話を展開している。
+  physics  Tutorial: Topology, waves, and the refractive index:
+波動の物理に登場するトポロジーについて解説したチュートリアル🍩 前半ではChern数が登場する起源について書かれている。 Chern数は線形応答の範囲で波動を考えているとあらゆるところで登場することを示し、 これが臨界点の数を数える指標になっていることを説明。 後半は光学への応用が書かれている。 この例では臨界点は屈折率の消失に対応するらしい。 そして屈折率の消失は一方通行表面状態に対応づけられるとのこと。  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220216</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220216/</link>
+      <pubDate>Mon, 14 Mar 2022 08:37:47 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220216/</guid>
+      <description>cond-mat  Optically-induced magnetization switching in NiCo2O4 thin films using ultrafast lasers:
+磁気光学カー効果を使ってレーザー光誘発磁化スイッチングinフェリ磁性体薄膜を観測🧲 380K以上でも光による磁気スイッチングが可能出ることを示している。  quant-ph  :  physics  Tailoring propagation of light via spin-orbit interactions in correlated disorder:
+disorderを使って光のスピン軌道カップリングを制御→光の軌跡を制御しちゃおう！という提案。  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220215</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220215/</link>
+      <pubDate>Mon, 14 Mar 2022 08:37:44 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220215/</guid>
+      <description>cond-mat  :  quant-ph  :  physics  Optomechanical crystal with bound states in the continuum:
+オプトメカニカル結晶でメカニカル連続準位中束縛状態を実現した話。 なお、機械振動と電磁場の相互作用の強さはおよそMHzくらいらしい。  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220211</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220211/</link>
+      <pubDate>Mon, 14 Mar 2022 08:37:36 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220211/</guid>
+      <description>cond-mat  :  quant-ph  Field theoretical approach to open quantum systems and the Lindblad equation:
+場の理論と開放系の理論を繋ごうというattempt。 Caldeira-Leggettタイプの模型でWickの定理を使ってDyson方程式に行き着く。 Dyson方程式はマスター方程式と等価。 Born近似・準粒子近似を考えるとMarkov型のマスター方程式が出てくる。 さらに回転波近似を施せばLindblad formになる。 このノリのデモとしてよくある2準位系+熱浴の計算がしてある。  physics  :  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220210</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220210/</link>
+      <pubDate>Sat, 19 Feb 2022 09:38:34 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220210/</guid>
+      <description>cond-mat  First-principles calculations for transient absorption of laser-excited magnetic materials:
+磁性体にレーザー照射した時の光吸収を第一原理計算しよう！  quant-ph  :  physics  Geometric phases of light: insights from fibre bundle theory:
+光の幾何学的位相まとめ．ファイバー朿を使えばわかりやすいよ！って言う話  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220208</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220208/</link>
+      <pubDate>Sat, 19 Feb 2022 09:38:20 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220208/</guid>
+      <description>cond-mat  Gyromagnetic bifurcation in a levitated ferromagnetic particle:
+T.Satoさんらとの共著論文🎉🎉🎉  quant-ph   Bounds in Nonequilibrium Quantum Dynamics:
+closedな多体量子系の時間発展の速度制限→熱化→Lieb-Robinson限界の話まとめ🛑
+ Lieb-Robinson bounds:   The Lieb–Robinson bound is a theoretical upper limit on the speed at which information can propagate in non-relativistic quantum systems.
+   Three-photon excitation of quantum two-level systems:
+奇数個の光子で２準位系 (InGaN量子ドット) を励起できたよ実験💡 単なる2準位系(空間依存性ナシ)では2光子過程が選択則から禁じられることになるということに注意しような！という話 [J. H. Shirley, Solution of the Schrödinger Equation with a Hamiltonian Periodic in Time, Phys.</description>
+    </item>
+    
     <item>
       <title>Arxiv220207</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220207/</link>
