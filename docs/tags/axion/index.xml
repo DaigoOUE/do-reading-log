@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Axion on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/axion/</link>
+    <description>Recent content in Axion on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Mar 2022 16:19:44 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/axion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220224</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220224/</link>
+      <pubDate>Mon, 21 Mar 2022 16:19:44 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220224/</guid>
+      <description>cond-mat   Probing spin dynamics of 2D excitons with twisted light:
+励起子に光渦を当てるとそのトポロジカルチャージを変えることでdark→brightへの散乱レートをコントロールできるらしい。 これは光からエキシトンの重心に運動量転写が起こることによるものらしい。
+  Towards quantum contact friction:
+接触摩擦の量子論。表面にいるフォノンの量子揺らぎが物体を接触させて擦った時の運動方程式に登場するらしい。
+  quant-ph  :  physics   Artificial neural network assisted inverse design of metasurfaces for microwave absorption:
+ニューラルネットワークを使って効率よくマイクロ波を吸収する構造体 (メタサーフェス）をデザインできるよ🧠
+  Tilted Poincaré Sphere Geodesics:
+ラゲールガウスビームとエルミートガウスビームは円偏光と直線偏光の関係になっているので、同様にポアンカレ球上でその状態をラベルすることができる。 状態の移り変わりをポアンカレ球上で描くと閉じた曲線を描くことが出来る→幾何学的位相がついてくる。 これを実験て計測してみたという論文🌐
+  math-ph  :  hep-th  Axion Electrodynamics and the Axionic Casimir Effect:
+アクシオンがいると光の分散関係が分裂するので、アクシオンをカシミール効果を通じて間接的に感じることができるという話  </description>
+    </item>
+    
+  </channel>
+</rss>

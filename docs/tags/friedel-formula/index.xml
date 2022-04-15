@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Friedel formula on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/friedel-formula/</link>
+    <description>Recent content in Friedel formula on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Apr 2022 09:48:57 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/friedel-formula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220228</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220228/</link>
+      <pubDate>Wed, 13 Apr 2022 09:48:57 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220228/</guid>
+      <description>cond-mat  Friedel formula and Krein&amp;rsquo;s theorem in complex potential scattering theory:
+Friedelの公式 (= 散乱体によって状態密度がどれほど変調されるかを与えてくれる式) を複素散乱ポテンシャルの場合へと一般化した論文🛁  quant-ph   Casimir effect and Lorentz invariance violation:
+ローレンツ不変性を破った電磁気でカシミール効果🪞
+  Switching and amplifying three-body Casimir effects:
+カシミール効果で相互作用する三体問題。3端子オプトメカニクスの系でトランジスタっぽいものを作れるよーっていう話💡
+  physics   Photonic reinforcement learning based on optoelectronic reservoir computing:
+光学系を使って強化学習を実装したよ論文🧠
+  :
+  math-ph  :  hep-th  :  </description>
+    </item>
+    
+  </channel>
+</rss>

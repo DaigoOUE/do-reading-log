@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>optical binding on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/optical-binding/</link>
+    <description>Recent content in optical binding on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Feb 2022 09:37:46 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/optical-binding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220202</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220202/</link>
+      <pubDate>Sat, 19 Feb 2022 09:37:46 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220202/</guid>
+      <description>cond-mat  Observation of Light-Induced Dipole-Dipole Forces in Ultracold Atomic Gases:
+光誘起双極子-双極子相互作用 in 冷却原子系🍧optical bindingみたいな感じの話だ  quant-ph  :  physics  Time and space generalized diffusion equation on graphs/networks:
+グラフ上の拡散方程式📈 正方格子から一般のグラフへというノリをやはりスマートに感じるお年頃である．  math-ph  Trajectories of charged particles in knotted electromagnetic fields:
+ドジッターの方法を使って真空Maxwellの解を調べる →電磁場が結び目を作るような配置になっていると見ることができる →真空の荷電粒子の軌跡 = 荷電粒子interacting with knotted電磁場の軌跡と考えられる  hep-th  :  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,7 +9,35 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Mar 2022 16:19:44 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 09:48:57 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220228</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220228/</link>
+      <pubDate>Wed, 13 Apr 2022 09:48:57 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220228/</guid>
+      <description>cond-mat  Friedel formula and Krein&amp;rsquo;s theorem in complex potential scattering theory:
+Friedelの公式 (= 散乱体によって状態密度がどれほど変調されるかを与えてくれる式) を複素散乱ポテンシャルの場合へと一般化した論文🛁  quant-ph   Casimir effect and Lorentz invariance violation:
+ローレンツ不変性を破った電磁気でカシミール効果🪞
+  Switching and amplifying three-body Casimir effects:
+カシミール効果で相互作用する三体問題。3端子オプトメカニクスの系でトランジスタっぽいものを作れるよーっていう話💡
+  physics   Photonic reinforcement learning based on optoelectronic reservoir computing:
+光学系を使って強化学習を実装したよ論文🧠
+  :
+  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220225</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220225/</link>
+      <pubDate>Wed, 13 Apr 2022 09:46:13 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220225/</guid>
+      <description>cond-mat  :  quant-ph  Resonance Fluorescence from a two-level artificial atom strongly coupled to a single-mode cavity:
+共振器on一次元伝送路と強く結合した二準位系（超伝導量子ビット）からの共鳴蛍光が実験的に見えたよ⚡️  physics  Edible Resonators:
+イソマルト(人工甘味料)で作られた食べれるLC共振器🍚( &amp;lsquo;༥&amp;rsquo; )ŧ‹”ŧ‹”  math-ph  :  hep-th  :  </description>
+    </item>
+    
     <item>
       <title>Arxiv220224</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220224/</link>

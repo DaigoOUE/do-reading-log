@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cavity QED on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/cavity-qed/</link>
+    <description>Recent content in cavity QED on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Apr 2022 09:46:13 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/cavity-qed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220225</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220225/</link>
+      <pubDate>Wed, 13 Apr 2022 09:46:13 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220225/</guid>
+      <description>cond-mat  :  quant-ph  Resonance Fluorescence from a two-level artificial atom strongly coupled to a single-mode cavity:
+共振器on一次元伝送路と強く結合した二準位系（超伝導量子ビット）からの共鳴蛍光が実験的に見えたよ⚡️  physics  Edible Resonators:
+イソマルト(人工甘味料)で作られた食べれるLC共振器🍚( &amp;lsquo;༥&amp;rsquo; )ŧ‹”ŧ‹”  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220223</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220223/</link>
+      <pubDate>Mon, 21 Mar 2022 15:48:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220223/</guid>
+      <description>cond-mat   Brownian motion with time-dependent friction and single-particle dynamics in liquids:
+メモリーありの(非マルコフ)ランジュバン方程式を使って時間依存摩擦in液体を解析する話。 これまでに取り組まれてきたモデルと比較してみても分子動力学シミュレーションとイイ感じにあってくれるらしい📈
+  Signature of electromagnetic quantum fluctuations in exciton physics:
+仮想光子（真空モード）と電子系の相互作用まで加味すると、 bright excitonのエネルギーが上がる（dark excitonの方のエネルギーは変化なし）のでbright-dark分裂の幅が大きくなる。 Coulomb相互作用だけでは出てこない効果。 電磁場の縦モードだけではなく横モードも考慮することが大事だよーっていうattitude
+  quant-ph  Geometric phases acquired for a two-level atom coupled to fluctuating vacuum scalar fields due to linear acceleration and circular motion:
+加速度運動する量子系 in 真空が、電磁場の真空モードと相互作用しながら幾何学的位相を貯めていく話。 開放系なので、最もシンプルな模型としてLindblad方程式を使っている。 free spaceの場合とミラー的boundaryがある場合とで計算を比較している。 ミラーありの場合溜まっていく幾何学的位相がenhanceされるらしい。 ちゃんと読んでないけど多分表面を導入することで電磁場のDOSが変調されるからなんだろうなあという気持ちになった。 線形加速する場合と回転運動する場合の比較もあり。  physics  :  math-ph  :  hep-th  :  </description>
+    </item>
+    
+  </channel>
+</rss>

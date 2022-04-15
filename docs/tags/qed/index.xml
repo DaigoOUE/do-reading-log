@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>QED on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/qed/</link>
+    <description>Recent content in QED on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 14 Mar 2022 08:37:51 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/qed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220218</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220218/</link>
+      <pubDate>Mon, 14 Mar 2022 08:37:51 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220218/</guid>
+      <description>cond-mat  :  quant-ph   Zeptonewton force sensing with squeezed quadratic optomechanics:
+オプトメカニクスの圧搾によってゼプトニュートンほどの力を検出することもできるんだぞ！という話⚙すごい
+  Tutorial: Macroscopic QED and vacuum forces:
+マクロな量子電磁力学のチュートリアル⚡️ 分散・散逸ありの媒質中の電磁場のハミルトニアンを与えるところから始めて、 一次元の場合から三次元の場合までを考えている。 動く媒質の場合にはどのように理論を拡張すればいいかを考えている。 ドップラー効果や電場と磁場の交差応答が媒質の電磁応答を変化させる話など。 最後は量子摩擦の話を展開している。
+  physics  Tutorial: Topology, waves, and the refractive index:
+波動の物理に登場するトポロジーについて解説したチュートリアル🍩 前半ではChern数が登場する起源について書かれている。 Chern数は線形応答の範囲で波動を考えているとあらゆるところで登場することを示し、 これが臨界点の数を数える指標になっていることを説明。 後半は光学への応用が書かれている。 この例では臨界点は屈折率の消失に対応するらしい。 そして屈折率の消失は一方通行表面状態に対応づけられるとのこと。  math-ph  :  hep-th  :  </description>
+    </item>
+    
+  </channel>
+</rss>
