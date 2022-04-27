@@ -9,7 +9,39 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Apr 2022 09:48:57 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 09:56:50 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220309</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220309/</link>
+      <pubDate>Wed, 13 Apr 2022 09:56:50 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220309/</guid>
+      <description>cond-mat  :  quant-ph  :  physics  Optical angular momentum in atomic transitions: a paradox:
+光の角運動量がなくても四重極子遷移（角運動量の授受がある遷移）が起こるのはなぜ？？を考えてみたよ論文💡 軌道角運動量ゼロのガウスビームはさまざまな軌道角運動量を持ったビームの重ね合わせと考えられる。 光軸上に置かれた原子は全ての重ね合わさっているビームを平等に感じることができるので、期待通り、軌道角運動量をゼロに感じるが、 光軸からずれたところに置かれた原子にとっては重ね合わさっているビームをもはや対等に感じないので、軌道角運動量をゼロに感じない。 &amp;hellip;ということみたい。確かにこれは面白い話だなあ。そして光の角運動量やっぱり難しい💫  math-ph  :  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220308</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220308/</link>
+      <pubDate>Wed, 13 Apr 2022 09:56:46 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220308/</guid>
+      <description>cond-mat  Winding number and Zak phase in multi-band SSH models:
+SSH模型を例にマルチバンド系でどうやってZak位相・巻きつき数を計算するかを教えてくれる論文🍩  quant-ph  :  physics  Anderson localization of electromagnetic waves in three dimensions:
+電磁場のアンダーソン局在(in 3次元)は起こり得るのかという問題は４０年近く議論されてきた。 解析的にやるのはなかなか難しくて決着がつかないままだったが、 最近は計算機が強強になってきたので、FDTDでゴリ押しして見たよ論文。 確かに散乱媒質中で光の分布が拡散的に広がっている局在が起こってそうな絵が載っている。 散乱が激しくなりすぎると逆にアンダーソンメカニズムのおかげでビームが広がらなくなるっていうのは面白いよなあ。 それはそうとFDTDは強力だなあ&amp;hellip;  math-ph  Laplace and Dirac Operators on Graphs:
+グラフ上のDiracとかSchrodinger方程式を考えちゃうよ論文。 グラフ上のディラック作用素がグラフクリフォード代数と対応づけられる話とか。 面白そう、読んでみたい（小並感  hep-th  :  </description>
+    </item>
+    
+    <item>
+      <title>Arxiv220307</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220307/</link>
+      <pubDate>Wed, 13 Apr 2022 09:56:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220307/</guid>
+      <description>cond-mat  :  quant-ph  :  physics  Radiative energy bandgap of nanostructures coupled with quantum emitters around the epsilon-near-zero (ENZ) frequency:
+ナノ粒子と量子エミッタのカップリングを考えよう💡 ENZ(誘電率がほぼゼロ)条件で輻射の放射が著しく抑制されるという話  math-ph  :  hep-th  :  </description>
+    </item>
+    
     <item>
       <title>Arxiv220228</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220228/</link>

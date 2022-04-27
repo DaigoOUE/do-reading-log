@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ENZ on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/enz/</link>
+    <description>Recent content in ENZ on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Apr 2022 09:56:32 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/enz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220307</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220307/</link>
+      <pubDate>Wed, 13 Apr 2022 09:56:32 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220307/</guid>
+      <description>cond-mat  :  quant-ph  :  physics  Radiative energy bandgap of nanostructures coupled with quantum emitters around the epsilon-near-zero (ENZ) frequency:
+ナノ粒子と量子エミッタのカップリングを考えよう💡 ENZ(誘電率がほぼゼロ)条件で輻射の放射が著しく抑制されるという話  math-ph  :  hep-th  :  </description>
+    </item>
+    
+  </channel>
+</rss>
