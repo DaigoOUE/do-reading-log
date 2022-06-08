@@ -16,9 +16,9 @@
       <pubDate>Mon, 21 Mar 2022 08:29:09 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220221/</guid>
-      <description>cond-mat  :  quant-ph  Squeezed light from a levitated nanoparticle at room temperature: Ponderomotive squeezing of light by a levitated nanoparticle in free space:
-光浮揚したナノ粒子に働く力にはポンデロモーティブフォースが含まれている。 ポンデロモーティブフォースの反作用で光の振幅と位相の相関が育つ。 負の相関を実現することでことで光の圧搾が可能になる。 ポンデロモーティブフォースを利用した光圧搾は共振器を使った系で実現された例はあるが、free spaceでのデモンストレーションは今回が初めて。 全く同じ日に同様のプレプリントが二つのグループからも発表されていた。 back to back的な感じで口裏合わせた感じなのかな。 お互いの論文の末尾にお互いを認識している旨が書かれていた。 referenceを見ると最近のlevitated optomechanicsの話が色々引用してあるのでチェックするといいかもしれんなあ。  physics  Feynman&amp;rsquo;s Sum-over-Paths method applied in wave optics and for calculating the quantum probability current:
-回折パターン計算するのに、フレネル積分の代わりに、ファインマンの経路積分を使ったらいい感じになるという話。  math-ph  :  hep-th  :  </description>
+      <description>cond-mat : quant-ph Squeezed light from a levitated nanoparticle at room temperature: Ponderomotive squeezing of light by a levitated nanoparticle in free space:
+光浮揚したナノ粒子に働く力にはポンデロモーティブフォースが含まれている。 ポンデロモーティブフォースの反作用で光の振幅と位相の相関が育つ。 負の相関を実現することでことで光の圧搾が可能になる。 ポンデロモーティブフォースを利用した光圧搾は共振器を使った系で実現された例はあるが、free spaceでのデモンストレーションは今回が初めて。 全く同じ日に同様のプレプリントが二つのグループからも発表されていた。 back to back的な感じで口裏合わせた感じなのかな。 お互いの論文の末尾にお互いを認識している旨が書かれていた。 referenceを見ると最近のlevitated optomechanicsの話が色々引用してあるのでチェックするといいかもしれんなあ。 physics Feynman&amp;rsquo;s Sum-over-Paths method applied in wave optics and for calculating the quantum probability current:
+回折パターン計算するのに、フレネル積分の代わりに、ファインマンの経路積分を使ったらいい感じになるという話。 math-ph : hep-th : </description>
     </item>
     
     <item>
@@ -27,12 +27,12 @@
       <pubDate>Mon, 14 Mar 2022 08:37:51 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220218/</guid>
-      <description>cond-mat  :  quant-ph   Zeptonewton force sensing with squeezed quadratic optomechanics:
+      <description>cond-mat : quant-ph Zeptonewton force sensing with squeezed quadratic optomechanics:
 オプトメカニクスの圧搾によってゼプトニュートンほどの力を検出することもできるんだぞ！という話⚙すごい
-  Tutorial: Macroscopic QED and vacuum forces:
+Tutorial: Macroscopic QED and vacuum forces:
 マクロな量子電磁力学のチュートリアル⚡️ 分散・散逸ありの媒質中の電磁場のハミルトニアンを与えるところから始めて、 一次元の場合から三次元の場合までを考えている。 動く媒質の場合にはどのように理論を拡張すればいいかを考えている。 ドップラー効果や電場と磁場の交差応答が媒質の電磁応答を変化させる話など。 最後は量子摩擦の話を展開している。
-  physics  Tutorial: Topology, waves, and the refractive index:
-波動の物理に登場するトポロジーについて解説したチュートリアル🍩 前半ではChern数が登場する起源について書かれている。 Chern数は線形応答の範囲で波動を考えているとあらゆるところで登場することを示し、 これが臨界点の数を数える指標になっていることを説明。 後半は光学への応用が書かれている。 この例では臨界点は屈折率の消失に対応するらしい。 そして屈折率の消失は一方通行表面状態に対応づけられるとのこと。  math-ph  :  hep-th  :  </description>
+physics Tutorial: Topology, waves, and the refractive index:
+波動の物理に登場するトポロジーについて解説したチュートリアル🍩 前半ではChern数が登場する起源について書かれている。 Chern数は線形応答の範囲で波動を考えているとあらゆるところで登場することを示し、 これが臨界点の数を数える指標になっていることを説明。 後半は光学への応用が書かれている。 この例では臨界点は屈折率の消失に対応するらしい。 そして屈折率の消失は一方通行表面状態に対応づけられるとのこと。 math-ph : hep-th : </description>
     </item>
     
     <item>
@@ -42,13 +42,13 @@
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2112/arxiv211231/</guid>
       <description>cond-mat NA
-quant-ph   Squeezing lights via a levitated cavity optomechanics:
+quant-ph Squeezing lights via a levitated cavity optomechanics:
 浮揚オプトメカニクスを介した光圧搾法の提案。 非等方的なナノ粒子を光トラップ、2モードをホストする共振器で囲む。トラップ光→共振器への散乱で行き先が二つある→$aa$とか$a^\dagger a^\dagger$みたいなやつが残る→光圧搾の実現😆
- squeezingに関してはこの文献の解説が優しかった    Cavity Quantum Materials:
+squeezingに関してはこの文献の解説が優しかった Cavity Quantum Materials:
 共振器で囲めば物性が変わる！共振器内で光化学反応が促進されるのはわかりやすいし面白いと思うし、それと同様に、ミラーで挟むだけで物性変調できるのはすごいし楽しいし夢があるなあ🪞
-  Position measurement of a levitated nanoparticle via interference with its mirror image:
+Position measurement of a levitated nanoparticle via interference with its mirror image:
 浮揚オプトメカニクスの位置測定、干渉縞を見ればええんやで👍
-  physics NA
+physics NA
 math-ph NA
 hep-th NA</description>
     </item>

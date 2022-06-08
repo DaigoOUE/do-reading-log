@@ -16,8 +16,8 @@
       <pubDate>Mon, 14 Mar 2022 08:37:36 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220211/</guid>
-      <description>cond-mat  :  quant-ph  Field theoretical approach to open quantum systems and the Lindblad equation:
-場の理論と開放系の理論を繋ごうというattempt。 Caldeira-Leggettタイプの模型でWickの定理を使ってDyson方程式に行き着く。 Dyson方程式はマスター方程式と等価。 Born近似・準粒子近似を考えるとMarkov型のマスター方程式が出てくる。 さらに回転波近似を施せばLindblad formになる。 このノリのデモとしてよくある2準位系+熱浴の計算がしてある。  physics  :  math-ph  :  hep-th  :  </description>
+      <description>cond-mat : quant-ph Field theoretical approach to open quantum systems and the Lindblad equation:
+場の理論と開放系の理論を繋ごうというattempt。 Caldeira-Leggettタイプの模型でWickの定理を使ってDyson方程式に行き着く。 Dyson方程式はマスター方程式と等価。 Born近似・準粒子近似を考えるとMarkov型のマスター方程式が出てくる。 さらに回転波近似を施せばLindblad formになる。 このノリのデモとしてよくある2準位系+熱浴の計算がしてある。 physics : math-ph : hep-th : </description>
     </item>
     
   </channel>

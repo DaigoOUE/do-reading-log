@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stokes drift on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/stokes-drift/</link>
+    <description>Recent content in Stokes drift on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Apr 2022 10:59:14 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/stokes-drift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220311</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220311/</link>
+      <pubDate>Wed, 27 Apr 2022 10:59:14 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220311/</guid>
+      <description>cond-mat Fluctuating Quantum Kinetic Theory:
+フェルミ流体を対象にした量子ランジュバン方程式→揺らぐ流体方程式🌊 長距離相互作用が重要になる電子流体を考えるためにはどんなふうに流体方程式をmodifyすべきか議論していたり。 quant-ph : physics Momentum, angular momentum, and spin of waves in plasma:
+電子プラズマ中を伝播する光の運動量、角運動量、スピンを調べてみたよ論文⚡️ Bliokhさんの最新作だなあ。これまでは表面プラズモン (低周波) の話を精力的にやってたけど、今度は高周波の方を見てみようじゃないかということみたい。 Langumuir modeと音波との類似性が述べられている。 ストークスドリフトとか、逆ファラデー効果の話とか。 math-ph : hep-th : </description>
+    </item>
+    
+  </channel>
+</rss>

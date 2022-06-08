@@ -16,15 +16,15 @@
       <pubDate>Wed, 13 Apr 2022 09:48:57 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220228/</guid>
-      <description>cond-mat  Friedel formula and Krein&amp;rsquo;s theorem in complex potential scattering theory:
-Friedelの公式 (= 散乱体によって状態密度がどれほど変調されるかを与えてくれる式) を複素散乱ポテンシャルの場合へと一般化した論文🛁  quant-ph   Casimir effect and Lorentz invariance violation:
+      <description>cond-mat Friedel formula and Krein&amp;rsquo;s theorem in complex potential scattering theory:
+Friedelの公式 (= 散乱体によって状態密度がどれほど変調されるかを与えてくれる式) を複素散乱ポテンシャルの場合へと一般化した論文🛁 quant-ph Casimir effect and Lorentz invariance violation:
 ローレンツ不変性を破った電磁気でカシミール効果🪞
-  Switching and amplifying three-body Casimir effects:
+Switching and amplifying three-body Casimir effects:
 カシミール効果で相互作用する三体問題。3端子オプトメカニクスの系でトランジスタっぽいものを作れるよーっていう話💡
-  physics   Photonic reinforcement learning based on optoelectronic reservoir computing:
+physics Photonic reinforcement learning based on optoelectronic reservoir computing:
 光学系を使って強化学習を実装したよ論文🧠
-  :
-  math-ph  :  hep-th  :  </description>
+:
+math-ph : hep-th : </description>
     </item>
     
     <item>
@@ -33,16 +33,16 @@ Friedelの公式 (= 散乱体によって状態密度がどれほど変調され
       <pubDate>Mon, 21 Mar 2022 16:19:44 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220224/</guid>
-      <description>cond-mat   Probing spin dynamics of 2D excitons with twisted light:
+      <description>cond-mat Probing spin dynamics of 2D excitons with twisted light:
 励起子に光渦を当てるとそのトポロジカルチャージを変えることでdark→brightへの散乱レートをコントロールできるらしい。 これは光からエキシトンの重心に運動量転写が起こることによるものらしい。
-  Towards quantum contact friction:
+Towards quantum contact friction:
 接触摩擦の量子論。表面にいるフォノンの量子揺らぎが物体を接触させて擦った時の運動方程式に登場するらしい。
-  quant-ph  :  physics   Artificial neural network assisted inverse design of metasurfaces for microwave absorption:
+quant-ph : physics Artificial neural network assisted inverse design of metasurfaces for microwave absorption:
 ニューラルネットワークを使って効率よくマイクロ波を吸収する構造体 (メタサーフェス）をデザインできるよ🧠
-  Tilted Poincaré Sphere Geodesics:
+Tilted Poincaré Sphere Geodesics:
 ラゲールガウスビームとエルミートガウスビームは円偏光と直線偏光の関係になっているので、同様にポアンカレ球上でその状態をラベルすることができる。 状態の移り変わりをポアンカレ球上で描くと閉じた曲線を描くことが出来る→幾何学的位相がついてくる。 これを実験て計測してみたという論文🌐
-  math-ph  :  hep-th  Axion Electrodynamics and the Axionic Casimir Effect:
-アクシオンがいると光の分散関係が分裂するので、アクシオンをカシミール効果を通じて間接的に感じることができるという話  </description>
+math-ph : hep-th Axion Electrodynamics and the Axionic Casimir Effect:
+アクシオンがいると光の分散関係が分裂するので、アクシオンをカシミール効果を通じて間接的に感じることができるという話 </description>
     </item>
     
     <item>
@@ -51,12 +51,12 @@ Friedelの公式 (= 散乱体によって状態密度がどれほど変調され
       <pubDate>Mon, 21 Mar 2022 15:48:32 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220223/</guid>
-      <description>cond-mat   Brownian motion with time-dependent friction and single-particle dynamics in liquids:
+      <description>cond-mat Brownian motion with time-dependent friction and single-particle dynamics in liquids:
 メモリーありの(非マルコフ)ランジュバン方程式を使って時間依存摩擦in液体を解析する話。 これまでに取り組まれてきたモデルと比較してみても分子動力学シミュレーションとイイ感じにあってくれるらしい📈
-  Signature of electromagnetic quantum fluctuations in exciton physics:
+Signature of electromagnetic quantum fluctuations in exciton physics:
 仮想光子（真空モード）と電子系の相互作用まで加味すると、 bright excitonのエネルギーが上がる（dark excitonの方のエネルギーは変化なし）のでbright-dark分裂の幅が大きくなる。 Coulomb相互作用だけでは出てこない効果。 電磁場の縦モードだけではなく横モードも考慮することが大事だよーっていうattitude
-  quant-ph  Geometric phases acquired for a two-level atom coupled to fluctuating vacuum scalar fields due to linear acceleration and circular motion:
-加速度運動する量子系 in 真空が、電磁場の真空モードと相互作用しながら幾何学的位相を貯めていく話。 開放系なので、最もシンプルな模型としてLindblad方程式を使っている。 free spaceの場合とミラー的boundaryがある場合とで計算を比較している。 ミラーありの場合溜まっていく幾何学的位相がenhanceされるらしい。 ちゃんと読んでないけど多分表面を導入することで電磁場のDOSが変調されるからなんだろうなあという気持ちになった。 線形加速する場合と回転運動する場合の比較もあり。  physics  :  math-ph  :  hep-th  :  </description>
+quant-ph Geometric phases acquired for a two-level atom coupled to fluctuating vacuum scalar fields due to linear acceleration and circular motion:
+加速度運動する量子系 in 真空が、電磁場の真空モードと相互作用しながら幾何学的位相を貯めていく話。 開放系なので、最もシンプルな模型としてLindblad方程式を使っている。 free spaceの場合とミラー的boundaryがある場合とで計算を比較している。 ミラーありの場合溜まっていく幾何学的位相がenhanceされるらしい。 ちゃんと読んでないけど多分表面を導入することで電磁場のDOSが変調されるからなんだろうなあという気持ちになった。 線形加速する場合と回転運動する場合の比較もあり。 physics : math-ph : hep-th : </description>
     </item>
     
     <item>
@@ -65,12 +65,13 @@ Friedelの公式 (= 散乱体によって状態密度がどれほど変調され
       <pubDate>Sat, 19 Feb 2022 09:38:20 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220208/</guid>
-      <description>cond-mat  Gyromagnetic bifurcation in a levitated ferromagnetic particle:
-T.Satoさんらとの共著論文🎉🎉🎉  quant-ph   Bounds in Nonequilibrium Quantum Dynamics:
+      <description>cond-mat Gyromagnetic bifurcation in a levitated ferromagnetic particle:
+T.Satoさんらとの共著論文🎉🎉🎉 quant-ph Bounds in Nonequilibrium Quantum Dynamics:
 closedな多体量子系の時間発展の速度制限→熱化→Lieb-Robinson限界の話まとめ🛑
- Lieb-Robinson bounds:   The Lieb–Robinson bound is a theoretical upper limit on the speed at which information can propagate in non-relativistic quantum systems.
-   Three-photon excitation of quantum two-level systems:
-奇数個の光子で２準位系 (InGaN量子ドット) を励起できたよ実験💡 単なる2準位系(空間依存性ナシ)では2光子過程が選択則から禁じられることになるということに注意しような！という話 [J. H. Shirley, Solution of the Schrödinger Equation with a Hamiltonian Periodic in Time, Phys.</description>
+Lieb-Robinson bounds: The Lieb–Robinson bound is a theoretical upper limit on the speed at which information can propagate in non-relativistic quantum systems.
+Three-photon excitation of quantum two-level systems:
+奇数個の光子で２準位系 (InGaN量子ドット) を励起できたよ実験💡 単なる2準位系(空間依存性ナシ)では2光子過程が選択則から禁じられることになるということに注意しような！という話 [J. H. Shirley, Solution of the Schrödinger Equation with a Hamiltonian Periodic in Time, Phys. Rev. 138, B979 (1965)] を確かめたことになる． Floquet理論とはいい感じに合っていることもチェックしてある．
+Casimir cosmology:</description>
     </item>
     
   </channel>

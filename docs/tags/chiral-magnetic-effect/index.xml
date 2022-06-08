@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>chiral magnetic effect on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/chiral-magnetic-effect/</link>
+    <description>Recent content in chiral magnetic effect on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 Jun 2022 12:15:04 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/chiral-magnetic-effect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220317</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220317/</link>
+      <pubDate>Wed, 08 Jun 2022 12:15:04 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220317/</guid>
+      <description>cond-mat : quant-ph : physics Tunable photon-induced spatial modulation of free electrons:
+自由電子ビームを光を使って空間変調 (波面制御) しよう⚡️ 表面プラズモン (局在光) を使った実験をしている◎なかなかすごい実験だあ&amp;hellip; math-ph : hep-th Photonic quantum kinetic theory in curved spacetime and the spin Hall effect:
+曲がった時空上の光子のための量子運動論を作ったよ論文✏️ 先行研究で示された回転系におけるカイラル渦度効果 (カイラル磁気効果の渦度版) を再現しつつ、空間方向に不均一性が認められる場合には平衡状態で光のスピンホール効果が起こることを示している。 </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,15 +9,30 @@
       <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 14 Mar 2022 08:37:36 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/open-system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 10:54:22 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/open-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220315</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220315/</link>
+      <pubDate>Wed, 08 Jun 2022 10:54:22 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220315/</guid>
+      <description>cond-mat Floquet Engineering of Non-Equilibrium Superradiance:
+散逸のある系を周期駆動すると定常状態で超放射になる💡 many 2準位系 in cavityのLindbladを周期駆動したモデルを解析している。 直接みている量はcavity modeの振幅$\alpha = \langle \har{a} \rangle$で、これの絶対値を見ると超放射になっているかなっていないか良い感じにわかるっぽい。 外場の周波数を共振器と合わせるような条件で超放射状態が出現。 quant-ph Stimulated emission of superradiant atoms in waveguide QED:
+超放射状態にある原子たちcoupled with導波路の誘導放射⚡️ 通常の誘導放射ではSN比をよくしようと思うとamplification processをdeteriorateしてしまうが、この方法だとSN比もキープしたままamplifyできてイイらしい。 physics Simulating Liquids with Graph Networks:
+グラフニューラルネットを使って流体を解析できるか検討→どうやらproblem-specificになってしまって難しいらしい🌀
+Inverse Hamiltonian design by automatic differentiation:
+散乱データからハミルトニアンを決定する逆問題を自動微分使ってとくと効率いいよ！という話💻 異常ホール効果のデータからハルデン模型を再現するデモンストレーションなど。
+math-ph : hep-th : </description>
+    </item>
+    
     <item>
       <title>Arxiv220211</title>
       <link>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220211/</link>
       <pubDate>Mon, 14 Mar 2022 08:37:36 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220211/</guid>
-      <description>cond-mat  :  quant-ph  Field theoretical approach to open quantum systems and the Lindblad equation:
-場の理論と開放系の理論を繋ごうというattempt。 Caldeira-Leggettタイプの模型でWickの定理を使ってDyson方程式に行き着く。 Dyson方程式はマスター方程式と等価。 Born近似・準粒子近似を考えるとMarkov型のマスター方程式が出てくる。 さらに回転波近似を施せばLindblad formになる。 このノリのデモとしてよくある2準位系+熱浴の計算がしてある。  physics  :  math-ph  :  hep-th  :  </description>
+      <description>cond-mat : quant-ph Field theoretical approach to open quantum systems and the Lindblad equation:
+場の理論と開放系の理論を繋ごうというattempt。 Caldeira-Leggettタイプの模型でWickの定理を使ってDyson方程式に行き着く。 Dyson方程式はマスター方程式と等価。 Born近似・準粒子近似を考えるとMarkov型のマスター方程式が出てくる。 さらに回転波近似を施せばLindblad formになる。 このノリのデモとしてよくある2準位系+熱浴の計算がしてある。 physics : math-ph : hep-th : </description>
     </item>
     
   </channel>

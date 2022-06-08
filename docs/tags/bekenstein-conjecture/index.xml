@@ -16,13 +16,15 @@
       <pubDate>Wed, 01 Dec 2021 14:07:41 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2111/arxiv211129/</guid>
-      <description>cond-mat  Non-Markovian systems out of equilibrium: Exact results for two routes of coarse graining:
+      <description>cond-mat Non-Markovian systems out of equilibrium: Exact results for two routes of coarse graining:
 Beyond Markovianなダイナミクスを出す二つの方法: 射影演算子法と熱浴のトレースアウトは異なる一般化ランジュバンを出す。射影演算子法の方から出るものは一般化揺動散逸関係を満たすが、他方はそうではない。非平衡状態の粗視化はむつかしいなあ。 Ballistic flow of two-dimensional electrons in a magnetic field:
-磁場アリ&amp;amp;不純物少ない2D系での電気伝導: バリスティックからハイドロ領域まで。運動論でホール伝導etc.を解析できる🌋  quant-ph   The geometry of spacetime from quantum measurements:
+磁場アリ&amp;amp;不純物少ない2D系での電気伝導: バリスティックからハイドロ領域まで。運動論でホール伝導etc.を解析できる🌋 quant-ph The geometry of spacetime from quantum measurements:
 相対論における時空の幾何, e.g. 計量, を再現する検出器⊗量子場のセットアップ。検出器を量子測定すればinterval etc.を得られるような設定が作れる。 相対論×量子論イイネ👍
-  Quantum magnonics: when magnon spintronics meets quantum information science:
+Quantum magnonics: when magnon spintronics meets quantum information science:
 マグノンを使って量子情報をやろう！というレビュー。最近では、単一マグノン状態、マグノンの圧搾・量子もつれなどが実現できていて量子情報への応用の機運が高まっている。超伝導量子ビット・キャビティ光子・NV中心などの他プラットフォームとの親和性も◎
-  Ultrastrong Coupling of a Qubit with a Nonlinear Optical Resonator:</description>
+Ultrastrong Coupling of a Qubit with a Nonlinear Optical Resonator:
+強結合で勝手にヒルベルト空間をtruncateするとやばいよ！っていう話。特に、量子ビット×電磁場の計算の例に着目した研究。 強結合になるとハミルトニアンの、対角から遠いところにいる、非対角成分が無視できなくなって適当に行列を打ち切るのがヤバいという経験は自分もしたことがある。強結合は単に相互作用が強くなったねーというだけかと思いきやいろいろ難しい
+physics Group theoretic approach and analytical solutions of the compressible Navier-Stokes equations:</description>
     </item>
     
   </channel>

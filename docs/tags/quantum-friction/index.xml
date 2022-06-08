@@ -16,16 +16,16 @@
       <pubDate>Mon, 21 Mar 2022 16:19:44 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220224/</guid>
-      <description>cond-mat   Probing spin dynamics of 2D excitons with twisted light:
+      <description>cond-mat Probing spin dynamics of 2D excitons with twisted light:
 励起子に光渦を当てるとそのトポロジカルチャージを変えることでdark→brightへの散乱レートをコントロールできるらしい。 これは光からエキシトンの重心に運動量転写が起こることによるものらしい。
-  Towards quantum contact friction:
+Towards quantum contact friction:
 接触摩擦の量子論。表面にいるフォノンの量子揺らぎが物体を接触させて擦った時の運動方程式に登場するらしい。
-  quant-ph  :  physics   Artificial neural network assisted inverse design of metasurfaces for microwave absorption:
+quant-ph : physics Artificial neural network assisted inverse design of metasurfaces for microwave absorption:
 ニューラルネットワークを使って効率よくマイクロ波を吸収する構造体 (メタサーフェス）をデザインできるよ🧠
-  Tilted Poincaré Sphere Geodesics:
+Tilted Poincaré Sphere Geodesics:
 ラゲールガウスビームとエルミートガウスビームは円偏光と直線偏光の関係になっているので、同様にポアンカレ球上でその状態をラベルすることができる。 状態の移り変わりをポアンカレ球上で描くと閉じた曲線を描くことが出来る→幾何学的位相がついてくる。 これを実験て計測してみたという論文🌐
-  math-ph  :  hep-th  Axion Electrodynamics and the Axionic Casimir Effect:
-アクシオンがいると光の分散関係が分裂するので、アクシオンをカシミール効果を通じて間接的に感じることができるという話  </description>
+math-ph : hep-th Axion Electrodynamics and the Axionic Casimir Effect:
+アクシオンがいると光の分散関係が分裂するので、アクシオンをカシミール効果を通じて間接的に感じることができるという話 </description>
     </item>
     
     <item>
@@ -34,12 +34,12 @@
       <pubDate>Mon, 14 Mar 2022 08:37:51 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2202/arxiv220218/</guid>
-      <description>cond-mat  :  quant-ph   Zeptonewton force sensing with squeezed quadratic optomechanics:
+      <description>cond-mat : quant-ph Zeptonewton force sensing with squeezed quadratic optomechanics:
 オプトメカニクスの圧搾によってゼプトニュートンほどの力を検出することもできるんだぞ！という話⚙すごい
-  Tutorial: Macroscopic QED and vacuum forces:
+Tutorial: Macroscopic QED and vacuum forces:
 マクロな量子電磁力学のチュートリアル⚡️ 分散・散逸ありの媒質中の電磁場のハミルトニアンを与えるところから始めて、 一次元の場合から三次元の場合までを考えている。 動く媒質の場合にはどのように理論を拡張すればいいかを考えている。 ドップラー効果や電場と磁場の交差応答が媒質の電磁応答を変化させる話など。 最後は量子摩擦の話を展開している。
-  physics  Tutorial: Topology, waves, and the refractive index:
-波動の物理に登場するトポロジーについて解説したチュートリアル🍩 前半ではChern数が登場する起源について書かれている。 Chern数は線形応答の範囲で波動を考えているとあらゆるところで登場することを示し、 これが臨界点の数を数える指標になっていることを説明。 後半は光学への応用が書かれている。 この例では臨界点は屈折率の消失に対応するらしい。 そして屈折率の消失は一方通行表面状態に対応づけられるとのこと。  math-ph  :  hep-th  :  </description>
+physics Tutorial: Topology, waves, and the refractive index:
+波動の物理に登場するトポロジーについて解説したチュートリアル🍩 前半ではChern数が登場する起源について書かれている。 Chern数は線形応答の範囲で波動を考えているとあらゆるところで登場することを示し、 これが臨界点の数を数える指標になっていることを説明。 後半は光学への応用が書かれている。 この例では臨界点は屈折率の消失に対応するらしい。 そして屈折率の消失は一方通行表面状態に対応づけられるとのこと。 math-ph : hep-th : </description>
     </item>
     
   </channel>

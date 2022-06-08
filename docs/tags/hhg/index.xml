@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HHG on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/hhg/</link>
+    <description>Recent content in HHG on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 Jun 2022 12:02:58 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/hhg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220316</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220316/</link>
+      <pubDate>Wed, 08 Jun 2022 12:02:58 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220316/</guid>
+      <description>cond-mat THz-induced high-order harmonic generation and nonlinear charge transport in graphene:
+グラフェンにテラヘルツ波を入射して高次高調波を発生させたり、非線形な電荷輸送を駆動する話⚡️ 緩和時間近似の量子マスター方程式を使った解析。 quasistaticな場合は各瞬間に非平衡定常状態が実現しているものと思える。 populationを調べてみると、高次高調波はブリルアンゾーン内で電子が平衡状態から大きくずれることによるものだと思えることもわかる。 quant-ph : physics Optical manipulation of matter waves:
+物質波をponderomotive forceとか非弾性散乱を使って光マニピュレーションしよう理論💡 math-ph : hep-th : </description>
+    </item>
+    
+  </channel>
+</rss>

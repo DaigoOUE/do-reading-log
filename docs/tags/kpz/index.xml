@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KPZ on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/kpz/</link>
+    <description>Recent content in KPZ on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Apr 2022 10:59:08 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/kpz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220310</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220310/</link>
+      <pubDate>Wed, 27 Apr 2022 10:59:08 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220310/</guid>
+      <description>cond-mat The fractal geometry of growth: fluctuation-dissipation theorem and hidden symmetry:
+KPZ方程式における揺動散逸関係📈 KPZ→セルオートマトンにしたときにノイズ項がどういうふうに変換されるか、どんなフラクタル次元を持つことになるか、指数とどのような関係にあるか、とか。 quant-ph : physics : math-ph : hep-th : </description>
+    </item>
+    
+  </channel>
+</rss>

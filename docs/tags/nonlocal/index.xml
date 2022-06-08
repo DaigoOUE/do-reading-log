@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nonlocal on DO Reading Log</title>
+    <link>https://daigooue.github.io/do-reading-log/tags/nonlocal/</link>
+    <description>Recent content in nonlocal on DO Reading Log</description>
+    <image>
+      <url>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daigooue.github.io/do-reading-log/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Apr 2022 10:59:18 +0900</lastBuildDate><atom:link href="https://daigooue.github.io/do-reading-log/tags/nonlocal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arxiv220314</title>
+      <link>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220314/</link>
+      <pubDate>Wed, 27 Apr 2022 10:59:18 +0900</pubDate>
+      
+      <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220314/</guid>
+      <description>cond-mat : quant-ph Fundamental resolution limit of quantum imaging with undetected photons:
+量子相関を使った顕微法の解像度限界について🔍 近軸近似を使わないで計算している、えらい。 量子相関 (signalとidlerのエンタングルメントを使う方法) を使っても結局は回折限界で解像度のupper boundが決まってしまう。 signalとidlerのうち、波長の長いほうの回折限界が、解像度の限界になるらしい。 結局は回折限界やねん&amp;hellip;
+Superconducting qubits as musical synthesizers for live performance:
+超伝導量子ビットを使って作ったシンセサイザ🎶 Yale Quantum Instituteでアーティストと物理学者がコラボ。 量子ビットを計測して得た信号を音楽にするスキームが紹介されている。
+physics Pico-photonics: Anomalous Atomistic Waves in Silicon:
+固体中の非局所電磁応答 (感受率が二つの波数を引数としてとる) をブロッホ波動関数を使って構成。 ピコメートルスケールで非局所性のきいたポラリトンモードが出てくることが示されている⚡️
+Surface acoustic wave lasing in a silicon optomechanical cavity:
+表面弾性波と導波モードのオプとメカニカルカップリングを提案💡 シリコンのnanopillar array (on a silicon-on-insulator substrate) の上に導波モードが形成される。 基板に表面弾性波を励起するとこれが導波モードとオプトメカニカルにカップルする。 実験では光を使ってコヒーレントに表面弾性波を励起している。
+math-ph : hep-th : </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -16,10 +16,10 @@
       <pubDate>Wed, 13 Apr 2022 09:56:46 +0900</pubDate>
       
       <guid>https://daigooue.github.io/do-reading-log/posts/arxiv2203/arxiv220308/</guid>
-      <description>cond-mat  Winding number and Zak phase in multi-band SSH models:
-SSH模型を例にマルチバンド系でどうやってZak位相・巻きつき数を計算するかを教えてくれる論文🍩  quant-ph  :  physics  Anderson localization of electromagnetic waves in three dimensions:
-電磁場のアンダーソン局在(in 3次元)は起こり得るのかという問題は４０年近く議論されてきた。 解析的にやるのはなかなか難しくて決着がつかないままだったが、 最近は計算機が強強になってきたので、FDTDでゴリ押しして見たよ論文。 確かに散乱媒質中で光の分布が拡散的に広がっている局在が起こってそうな絵が載っている。 散乱が激しくなりすぎると逆にアンダーソンメカニズムのおかげでビームが広がらなくなるっていうのは面白いよなあ。 それはそうとFDTDは強力だなあ&amp;hellip;  math-ph  Laplace and Dirac Operators on Graphs:
-グラフ上のDiracとかSchrodinger方程式を考えちゃうよ論文。 グラフ上のディラック作用素がグラフクリフォード代数と対応づけられる話とか。 面白そう、読んでみたい（小並感  hep-th  :  </description>
+      <description>cond-mat Winding number and Zak phase in multi-band SSH models:
+SSH模型を例にマルチバンド系でどうやってZak位相・巻きつき数を計算するかを教えてくれる論文🍩 quant-ph : physics Anderson localization of electromagnetic waves in three dimensions:
+電磁場のアンダーソン局在(in 3次元)は起こり得るのかという問題は４０年近く議論されてきた。 解析的にやるのはなかなか難しくて決着がつかないままだったが、 最近は計算機が強強になってきたので、FDTDでゴリ押しして見たよ論文。 確かに散乱媒質中で光の分布が拡散的に広がっている局在が起こってそうな絵が載っている。 散乱が激しくなりすぎると逆にアンダーソンメカニズムのおかげでビームが広がらなくなるっていうのは面白いよなあ。 それはそうとFDTDは強力だなあ&amp;hellip; math-ph Laplace and Dirac Operators on Graphs:
+グラフ上のDiracとかSchrodinger方程式を考えちゃうよ論文。 グラフ上のディラック作用素がグラフクリフォード代数と対応づけられる話とか。 面白そう、読んでみたい（小並感 hep-th : </description>
     </item>
     
   </channel>
